@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2021-07-02T10:45:47.927Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Parliament Hill]]></title>
+        <id>https://en.wikipedia.org/wiki/Parliament_Hill</id>
+        <link href="https://en.wikipedia.org/wiki/Parliament_Hill"/>
+        <updated>2021-07-02T10:45:47.877Z</updated>
+        <content type="html"><![CDATA[... that the site of <b><a href="/wiki/Parliament_Hill" title="Parliament Hill">Parliament Hill</a></b> <i>(pictured)</i> was previously called Barrack Hill and had been intended for development as a major military base?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanamaker expedition]]></title>
+        <id>https://en.wikipedia.org/wiki/Wanamaker_expeditions</id>
+        <link href="https://en.wikipedia.org/wiki/Wanamaker_expeditions"/>
+        <updated>2021-07-02T10:45:47.878Z</updated>
+        <content type="html"><![CDATA[... that the third <b><a href="/wiki/Wanamaker_expeditions" title="Wanamaker expeditions">Wanamaker expedition</a></b>, led by <b><a href="/wiki/Joseph_K._Dixon" title="Joseph K. Dixon">Joseph K. Dixon</a></b>, travelled at least 20,000 miles (32,000&nbsp;km) and visited 89 <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native American tribes</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laura Robinson]]></title>
+        <id>https://en.wikipedia.org/wiki/Laura_McKinlay_Robinson</id>
+        <link href="https://en.wikipedia.org/wiki/Laura_McKinlay_Robinson"/>
+        <updated>2021-07-02T10:45:47.883Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Laura_McKinlay_Robinson" title="Laura McKinlay Robinson">Laura Robinson</a></b> invented <a href="/wiki/Balderdash" title="Balderdash">Canada's best-selling board game</a> before becoming a successful actress and television producer?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alkalihalobacillus]]></title>
+        <id>https://en.wikipedia.org/wiki/Alkalihalobacillus</id>
+        <link href="https://en.wikipedia.org/wiki/Alkalihalobacillus"/>
+        <updated>2021-07-02T10:45:47.883Z</updated>
+        <content type="html"><![CDATA[... that some species of bacteria in the genus <i><b><a href="/wiki/Alkalihalobacillus" title="Alkalihalobacillus">Alkalihalobacillus</a></b></i> live in <a href="/wiki/Hypersaline_lake" title="Hypersaline lake">hypersaline lakes</a> while others are added to <a href="/wiki/Laundry_detergent" title="Laundry detergent">laundry detergent</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philip Ewell]]></title>
+        <id>https://en.wikipedia.org/wiki/Philip_Ewell</id>
+        <link href="https://en.wikipedia.org/wiki/Philip_Ewell"/>
+        <updated>2021-07-02T10:45:47.883Z</updated>
+        <content type="html"><![CDATA[... that music theorist <b><a href="/wiki/Philip_Ewell" title="Philip Ewell">Philip Ewell</a></b> received "anti-Black statements and personal ad hominem attacks" following his claim that Western music theory is shaped by a "white racial frame"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Murray Dowey]]></title>
+        <id>https://en.wikipedia.org/wiki/Murray_Dowey</id>
+        <link href="https://en.wikipedia.org/wiki/Murray_Dowey"/>
+        <updated>2021-07-02T10:45:47.884Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Murray_Dowey" title="Murray Dowey">Murray Dowey</a></b> was a clerk and typist for the <a href="/wiki/Toronto_Transit_Commission" title="Toronto Transit Commission">Toronto Transit Commission</a> before being the <a href="/wiki/Goaltender" title="Goaltender">goaltender</a> for Canada's gold-medal-winning hockey team at the <a href="/wiki/1948_Winter_Olympics" title="1948 Winter Olympics">1948 Winter Olympics</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walter Bean Grand River Trail]]></title>
+        <id>https://en.wikipedia.org/wiki/Walter_Bean_Grand_River_Trail</id>
+        <link href="https://en.wikipedia.org/wiki/Walter_Bean_Grand_River_Trail"/>
+        <updated>2021-07-02T10:45:47.885Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Walter_Bean_Grand_River_Trail" title="Walter Bean Grand River Trail">Walter Bean Grand River Trail</a></b> was named after Walter Bean, who created the idea of a continuous trail through the <a href="/wiki/Regional_Municipality_of_Waterloo" title="Regional Municipality of Waterloo">Waterloo region</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toman]]></title>
+        <id>https://en.wikipedia.org/wiki/Toman_(actor)</id>
+        <link href="https://en.wikipedia.org/wiki/Toman_(actor)"/>
+        <updated>2021-07-02T10:45:47.886Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Toman_(actor)" title="Toman (actor)">Toman</a></b> helped popularize <a href="/wiki/Genderless_fashion_in_Japan" title="Genderless fashion in Japan">genderless fashion in Japan</a>?]]></content>
+    </entry>
+</feed>
