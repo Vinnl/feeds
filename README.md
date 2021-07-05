@@ -11,7 +11,7 @@ To automatically generate feeds twice a day on GitHub:
 
 1. Fork this repository and edit `feeds.toml`.
 2. Create a branch called `gh-pages`.
-3. Visit [/actions](./actions), then enable workflows for your fork.
+3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
 
 GitHub Actions will then automatically run twice a day to check for updates,
 and publish your feeds at `https://<username>.github.io/feeds/`.
