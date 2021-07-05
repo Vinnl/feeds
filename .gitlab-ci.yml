@@ -9,3 +9,7 @@ pages:
     expire_in: 1 day
   only:
   - main
+  retry:
+    # Sometimes a website is temporarily slow/down:
+    max: 2
+    when: always
