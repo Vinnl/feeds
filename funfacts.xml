@@ -2,62 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-07-07T17:50:58.095Z</updated>
+    <updated>2021-07-08T05:36:57.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[stamps from the Pitcairn Islands]]></title>
-        <id>https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands</id>
-        <link href="https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands"/>
-        <updated>2021-07-07T17:50:57.972Z</updated>
-        <content type="html"><![CDATA[... that a decline in the sale of <b><a href="/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands" title="Postage stamps and postal history of the Pitcairn Islands">stamps from the Pitcairn Islands</a></b> <i>(example pictured)</i> led to <a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">the territory</a>'s bankruptcy?]]></content>
+        <title type="html"><![CDATA[Little Island at Pier 55]]></title>
+        <id>https://en.wikipedia.org/wiki/Little_Island_at_Pier_55</id>
+        <link href="https://en.wikipedia.org/wiki/Little_Island_at_Pier_55"/>
+        <updated>2021-07-08T05:36:57.483Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Little_Island_at_Pier_55" title="Little Island at Pier 55">Little Island at Pier 55</a></b> <i>(pictured)</i>, a new artificial island park in New York City, was described as being "in the theatrical vein of 18th century English garden follies"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chester W. Emmons]]></title>
-        <id>https://en.wikipedia.org/wiki/Chester_Wilson_Emmons</id>
-        <link href="https://en.wikipedia.org/wiki/Chester_Wilson_Emmons"/>
-        <updated>2021-07-07T17:50:57.972Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a>'s first mycologist, <b><a href="/wiki/Chester_Wilson_Emmons" title="Chester Wilson Emmons">Chester W. Emmons</a></b>, demonstrated that <a href="/wiki/Mycosis" title="Mycosis">fungal infections</a> were common and widespread?]]></content>
+        <title type="html"><![CDATA[Chetana Nagavajara]]></title>
+        <id>https://en.wikipedia.org/wiki/Chetana_Nagavajara</id>
+        <link href="https://en.wikipedia.org/wiki/Chetana_Nagavajara"/>
+        <updated>2021-07-08T05:36:57.483Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Chetana_Nagavajara" title="Chetana Nagavajara">Chetana Nagavajara</a></b> initiated and led <a href="/wiki/Arts_criticism" title="Arts criticism">arts-criticism</a> research projects in Thailand in the early 2000s?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Basilica of Saint Maternus]]></title>
-        <id>https://en.wikipedia.org/wiki/Basilica_of_Saint_Maternus</id>
-        <link href="https://en.wikipedia.org/wiki/Basilica_of_Saint_Maternus"/>
-        <updated>2021-07-07T17:50:57.972Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Basilica_of_Saint_Maternus" title="Basilica of Saint Maternus">Basilica of Saint Maternus</a></b> in <a href="/wiki/Walcourt" title="Walcourt">Walcourt</a>, Belgium, contains one of the oldest preserved Marian devotional statues in Western Christianity?]]></content>
+        <title type="html"><![CDATA[Fisk–Harkness House]]></title>
+        <id>https://en.wikipedia.org/wiki/12_East_53rd_Street</id>
+        <link href="https://en.wikipedia.org/wiki/12_East_53rd_Street"/>
+        <updated>2021-07-08T05:36:57.484Z</updated>
+        <content type="html"><![CDATA[... that the "olde English" interior of the <b><a href="/wiki/12_East_53rd_Street" title="12 East 53rd Street">Fisk–Harkness House</a></b> later became an automobile club, an art gallery, and finally a college?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rubén Rocha Moya]]></title>
-        <id>https://en.wikipedia.org/wiki/Rub%C3%A9n_Rocha_Moya</id>
-        <link href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Rocha_Moya"/>
-        <updated>2021-07-07T17:50:57.977Z</updated>
-        <content type="html"><![CDATA[... that Mexican politician <b><a href="/wiki/Rub%C3%A9n_Rocha_Moya" title="Rubén Rocha Moya">Rubén Rocha Moya</a></b> obtained a law degree while serving as a <a href="/wiki/Senate_of_the_Republic_(Mexico)" title="Senate of the Republic (Mexico)">senator</a>?]]></content>
+        <title type="html"><![CDATA[Pamela Trotman Reid]]></title>
+        <id>https://en.wikipedia.org/wiki/Pamela_Trotman_Reid</id>
+        <link href="https://en.wikipedia.org/wiki/Pamela_Trotman_Reid"/>
+        <updated>2021-07-08T05:36:57.487Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Pamela_Trotman_Reid" title="Pamela Trotman Reid">Pamela Trotman Reid</a></b>, the first Black president of the <a href="/wiki/University_of_Saint_Joseph_(Connecticut)" title="University of Saint Joseph (Connecticut)">University of Saint Joseph</a>, developed the GO-GIRL program?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jane Douglass White]]></title>
-        <id>https://en.wikipedia.org/wiki/Jane_Douglass_White</id>
-        <link href="https://en.wikipedia.org/wiki/Jane_Douglass_White"/>
-        <updated>2021-07-07T17:50:57.984Z</updated>
-        <content type="html"><![CDATA[... that before she entered the <a href="/wiki/United_States_Army" title="United States Army">U.S. Army</a> in 1942, <b><a href="/wiki/Jane_Douglass_White" title="Jane Douglass White">Jane Douglass White</a></b>, a songwriter for <b><a href="/wiki/Soldier%27s_show" title="Soldier's show">soldier's shows</a></b>, had already composed the tune which would become the official "<b><a href="/wiki/Song_of_the_Women%27s_Army_Corps" title="Song of the Women's Army Corps">Song of the Women's Army Corps</a></b>"?]]></content>
+        <title type="html"><![CDATA[The Soul]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Soul_(film)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Soul_(film)"/>
+        <updated>2021-07-08T05:36:57.487Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Chang_Chen" title="Chang Chen">Chang Chen</a> lost 12 kilograms (26&nbsp;lb) for his role in <i><b><a href="/wiki/The_Soul_(film)" title="The Soul (film)">The Soul</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sigge Stark]]></title>
-        <id>https://en.wikipedia.org/wiki/Sigge_Stark</id>
-        <link href="https://en.wikipedia.org/wiki/Sigge_Stark"/>
-        <updated>2021-07-07T17:50:57.984Z</updated>
-        <content type="html"><![CDATA[... that during the 1940s, <b><a href="/wiki/Sigge_Stark" title="Sigge Stark">Sigge Stark</a></b> became <a href="/wiki/Sweden" title="Sweden">Sweden</a>'s most published, most read, as well as most criticised author?]]></content>
+        <title type="html"><![CDATA[Abdulrachman Setjowibowo]]></title>
+        <id>https://en.wikipedia.org/wiki/Abdulrachman_Setjowibowo</id>
+        <link href="https://en.wikipedia.org/wiki/Abdulrachman_Setjowibowo"/>
+        <updated>2021-07-08T05:36:57.489Z</updated>
+        <content type="html"><![CDATA[... that police officer <b><a href="/wiki/Abdulrachman_Setjowibowo" title="Abdulrachman Setjowibowo">Abdulrachman Setjowibowo</a></b> was appointed the acting chairman of the <a href="/wiki/Football_Association_of_Indonesia" title="Football Association of Indonesia">Football Association of Indonesia</a> following a conflict between the association and the <a href="/wiki/Persija_Jakarta" title="Persija Jakarta">Persija Jakarta</a> club?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guilty]]></title>
-        <id>https://en.wikipedia.org/wiki/Guilty_(manga)</id>
-        <link href="https://en.wikipedia.org/wiki/Guilty_(manga)"/>
-        <updated>2021-07-07T17:50:57.984Z</updated>
-        <content type="html"><![CDATA[... that the theme song for <i><b><a href="/wiki/Guilty_(manga)" title="Guilty (manga)">Guilty</a></b></i><span class="nowrap" style="padding-left:0.1em;">'s</span> live-action television series is <a href="/wiki/Toshi_(musician)" title="Toshi (musician)">Toshi</a>'s first original song in 22 years?]]></content>
+        <title type="html"><![CDATA[Brown Bear Car Wash]]></title>
+        <id>https://en.wikipedia.org/wiki/Brown_Bear_Car_Wash</id>
+        <link href="https://en.wikipedia.org/wiki/Brown_Bear_Car_Wash"/>
+        <updated>2021-07-08T05:36:57.491Z</updated>
+        <content type="html"><![CDATA[... that sculptures by <a href="/wiki/Lorenzo_Ghiglieri" title="Lorenzo Ghiglieri">Lorenzo Ghiglieri</a> have been installed at the <a href="/wiki/Royal_Palace_of_Madrid" title="Royal Palace of Madrid">Royal Palace of Madrid</a>, the <a href="/wiki/White_House" title="White House">White House</a>, and <b><a href="/wiki/Brown_Bear_Car_Wash" title="Brown Bear Car Wash">Brown Bear Car Wash</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dover Eight]]></title>
-        <id>https://en.wikipedia.org/wiki/Dover_Eight</id>
-        <link href="https://en.wikipedia.org/wiki/Dover_Eight"/>
-        <updated>2021-07-07T17:50:57.989Z</updated>
-        <content type="html"><![CDATA[... that two of the men in the <b><a href="/wiki/Dover_Eight" title="Dover Eight">Dover Eight</a></b> were going to join the <a href="/wiki/John_Brown%27s_raid_on_Harpers_Ferry" title="John Brown's raid on Harpers Ferry">raid on Harpers Ferry</a> led by <a href="/wiki/John_Brown_(abolitionist)" title="John Brown (abolitionist)">John Brown</a> but ultimately backed out?]]></content>
+        <title type="html"><![CDATA[Opal Lee]]></title>
+        <id>https://en.wikipedia.org/wiki/Opal_Lee</id>
+        <link href="https://en.wikipedia.org/wiki/Opal_Lee"/>
+        <updated>2021-07-08T05:36:57.491Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Opal_Lee" title="Opal Lee">Opal Lee</a></b> is often referred to as the "grandmother of <a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a>"?]]></content>
     </entry>
 </feed>
