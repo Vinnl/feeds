@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-07-11T17:42:47.998Z</updated>
+    <updated>2021-07-12T05:37:14.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/favicon.ico</icon>
     <entry>
@@ -24,22 +24,22 @@
 	<a href="/wiki/Cork" title="Cork"><img alt="Cork" src="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/1700px-Cork_banner_River_Lee_south_channel.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/2550px-Cork_banner_River_Lee_south_channel.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/3400px-Cork_banner_River_Lee_south_channel.jpg 2x" data-file-width="7200" data-file-height="2400" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visp]]></title>
-        <id>https://en.wikivoyage.org/wiki/Visp</id>
-        <link href="https://en.wikivoyage.org/wiki/Visp"/>
-        <updated>2021-07-02T10:45:47.790Z</updated>
+        <title type="html"><![CDATA[Neuland]]></title>
+        <id>https://en.wikivoyage.org/wiki/Neuland</id>
+        <link href="https://en.wikivoyage.org/wiki/Neuland"/>
+        <updated>2021-07-12T05:37:13.727Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
-		<h2><span class="mw-headline" id="Visp"><a href="/wiki/Visp" title="Visp">Visp</a></span></h2>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:30%">
+		<h2><span class="mw-headline" id="Neuland"><a href="/wiki/Neuland" title="Neuland">Neuland</a></span></h2>
 		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Visp" title="Visp">This town is known as a rail hub and for its chemical plant, but if you step off the train there are still some things to see in Visp.</a></div>
+		<div class="quote"><a href="/wiki/Neuland" title="Neuland">One of Paraguay's Mennonite colonies, there are also some interesting forts nearby to explore.</a></div>
 	</div>
-<p>	<img alt="Visp" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/Visp_banner_Panorama.jpg/1700px-Visp_banner_Panorama.jpg" decoding="async" title="Visp" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/Visp_banner_Panorama.jpg 1.5x" data-file-width="1967" data-file-height="656" width="1700" height="567">
+<p>	<img alt="Neuland" src="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/1700px-Neuland_banner_Iglesia_Mennonita.jpg" decoding="async" title="Neuland" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/2550px-Neuland_banner_Iglesia_Mennonita.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/3400px-Neuland_banner_Iglesia_Mennonita.jpg 2x" data-file-width="3456" data-file-height="1153" width="1700" height="567">
 </p>
-	<a href="/wiki/Visp" title="Visp"><img alt="Visp" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/Visp_banner_Panorama.jpg/1700px-Visp_banner_Panorama.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/Visp_banner_Panorama.jpg 1.5x" data-file-width="1967" data-file-height="656" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/Neuland" title="Neuland"><img alt="Neuland" src="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/1700px-Neuland_banner_Iglesia_Mennonita.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/2550px-Neuland_banner_Iglesia_Mennonita.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/3400px-Neuland_banner_Iglesia_Mennonita.jpg 2x" data-file-width="3456" data-file-height="1153" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[American cuisine]]></title>
