@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-07-18T17:43:19.655Z</updated>
+    <updated>2021-07-21T05:37:07.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/favicon.ico</icon>
     <entry>
@@ -42,21 +42,21 @@
 	<a href="/wiki/Neuland" title="Neuland"><img alt="Neuland" src="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/1700px-Neuland_banner_Iglesia_Mennonita.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/2550px-Neuland_banner_Iglesia_Mennonita.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/b/b5/Neuland_banner_Iglesia_Mennonita.jpg/3400px-Neuland_banner_Iglesia_Mennonita.jpg 2x" data-file-width="3456" data-file-height="1153" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[American cuisine]]></title>
-        <id>https://en.wikivoyage.org/wiki/American_cuisine</id>
-        <link href="https://en.wikivoyage.org/wiki/American_cuisine"/>
-        <updated>2021-07-02T10:45:47.790Z</updated>
+        <title type="html"><![CDATA[Trans-Labrador Highway]]></title>
+        <id>https://en.wikivoyage.org/wiki/Trans-Labrador_Highway</id>
+        <link href="https://en.wikivoyage.org/wiki/Trans-Labrador_Highway"/>
+        <updated>2021-07-21T05:37:07.143Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:35%">
-		<h2><span class="mw-headline" id="American_cuisine"><a href="/wiki/American_cuisine" title="American cuisine">American cuisine</a></span></h2>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:35%">
+		<h2><span class="mw-headline" id="Trans-Labrador_Highway"><a href="/wiki/Trans-Labrador_Highway" title="Trans-Labrador Highway">Trans-Labrador Highway</a></span></h2>
 		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_Travel_Topics" class="mw-redirect" title="Previous Featured Travel Topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/American_cuisine" title="American cuisine">Savor the delights of one of the world's most diverse yet underrated culinary traditions.</a></div>
+		<div class="quote"><a href="/wiki/Trans-Labrador_Highway" title="Trans-Labrador Highway">Come with us on a sub-Arctic road adventure past remote coastal fishing communities and endless forests.</a></div>
 	</div>
-<p>	<img alt="American cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/1/1d/AmericancuisineBanner1.jpg/1700px-AmericancuisineBanner1.jpg" decoding="async" title="American cuisine" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/1/1d/AmericancuisineBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567">
+<p>	<img alt="Trans-Labrador Highway" src="//upload.wikimedia.org/wikivoyage/en/thumb/a/a1/TransLabradorBanner1.jpg/1700px-TransLabradorBanner1.jpg" decoding="async" title="Trans-Labrador Highway" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/a/a1/TransLabradorBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567">
 </p>
-	<a href="/wiki/American_cuisine" title="American cuisine"><img alt="American cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/1/1d/AmericancuisineBanner1.jpg/1700px-AmericancuisineBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/1/1d/AmericancuisineBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/Trans-Labrador_Highway" title="Trans-Labrador Highway"><img alt="Trans-Labrador Highway" src="//upload.wikimedia.org/wikivoyage/en/thumb/a/a1/TransLabradorBanner1.jpg/1700px-TransLabradorBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/a/a1/TransLabradorBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567"></a></div>]]></content>
     </entry>
 </feed>
