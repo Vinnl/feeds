@@ -11,3 +11,12 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[meituan]
+title = "美团技术博客"
+url = "https://tech.meituan.com/"
+entrySelector = ".post-container"
+titleSelector = ".post-title a"
+linkSelector = ".post-title a"
+contentSelector = ".post-content"
+
