@@ -1,6 +1,6 @@
 pages:
   stage: deploy
-  image: mcr.microsoft.com/playwright:focal
+  image: mcr.microsoft.com/playwright:focal:v1.12.3-focal
   script:
   - npx feed-me-up-scotty
   artifacts:
