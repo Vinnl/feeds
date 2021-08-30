@@ -2,7 +2,9 @@ pages:
   stage: deploy
   image: mcr.microsoft.com/playwright:v1.12.3-focal
   script:
-  - npx feed-me-up-scotty
+  # GitHub Actions unfortunately does not support retries;
+  # this is a cumbersome method of retrying twice in case of errors:
+  - npx feed-me-up-scotty | npx feed-me-up-scotty | npx feed-me-up-scotty
   artifacts:
     paths:
     - public
