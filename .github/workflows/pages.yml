@@ -19,7 +19,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2.3.4
     - uses: microsoft/playwright-github-action@v1
-    - run: npx feed-me-up-scotty
+    # GitHub Actions unfortunately does not support retries;
+    # this is a cumbersome method of retrying twice in case of errors:
+    - run: npx feed-me-up-scotty | npx feed-me-up-scotty | npx feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
