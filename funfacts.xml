@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-09-29T05:40:29.365Z</updated>
+    <updated>2021-09-29T17:44:59.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://en.wikipedia.org/wiki/Broken_Circle/Spiral_Hill</id>
         <link href="https://en.wikipedia.org/wiki/Broken_Circle/Spiral_Hill"/>
         <updated>2021-09-29T05:40:25.008Z</updated>
-        <content type="html"><![CDATA[... that the artist <a href="/wiki/Robert_Smithson" title="Robert Smithson">Robert Smithson</a> suggested that the boulder in the center of his piece <i><b><a href="/wiki/Broken_Circle/Spiral_Hill" title="Broken Circle/Spiral Hill">Broken Circle/Spiral Hill</a></b></i> was a "warning from the Ice Age"?]]></content>
+        <content type="html"><![CDATA[... that the artist <a href="/wiki/Robert_Smithson" title="Robert Smithson">Robert Smithson</a> suggested that the boulder in the center of his piece <i><b><a href="/wiki/Broken_Circle/Spiral_Hill" title="Broken Circle/Spiral Hill">Broken Circle/Spiral Hill</a></b></i> <i>(pictured)</i> was a "warning from the Ice Age"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the 1911 fire]]></title>
-        <id>https://en.wikipedia.org/wiki/1911_Capitol_fire</id>
-        <link href="https://en.wikipedia.org/wiki/1911_Capitol_fire"/>
-        <updated>2021-09-29T05:40:25.011Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/1911_Capitol_fire" title="1911 Capitol fire">the 1911 fire</a></b> at the <a href="/wiki/New_York_State_Capitol" title="New York State Capitol">New York State Capitol</a> destroyed over 700,000 items held by the <a href="/wiki/New_York_State_Library" title="New York State Library">New York State Library</a>, creating a "hole in [New York's] cultural heritage"?]]></content>
+        <id>https://en.wikipedia.org/wiki/1911_New_York_State_Capitol_fire</id>
+        <link href="https://en.wikipedia.org/wiki/1911_New_York_State_Capitol_fire"/>
+        <updated>2021-09-29T17:44:55.043Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/1911_New_York_State_Capitol_fire" title="1911 New York State Capitol fire">the 1911 fire</a></b> at the <a href="/wiki/New_York_State_Capitol" title="New York State Capitol">New York State Capitol</a> destroyed over 700,000 items held by the <a href="/wiki/New_York_State_Library" title="New York State Library">New York State Library</a>, creating a "hole in [New York's] cultural heritage"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[142-foot high (43 m) mast]]></title>
