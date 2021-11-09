@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-11-09T05:38:17.510Z</updated>
+    <updated>2021-11-09T17:46:55.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Lorenza_B%C3%B6ttner</id>
         <link href="https://en.wikipedia.org/wiki/Lorenza_B%C3%B6ttner"/>
         <updated>2021-11-09T05:38:13.579Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Lorenza_B%C3%B6ttner" title="Lorenza Böttner">Lorenza Böttner</a></b>, a <a href="/wiki/Mouth_and_foot_painting" title="Mouth and foot painting">mouth and foot painter</a>, had both of her arms amputated following an electrocution?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Lorenza_B%C3%B6ttner" title="Lorenza Böttner">Lorenza Böttner</a></b>, a <a href="/wiki/Mouth_and_foot_painting" title="Mouth and foot painting">mouth and foot painter</a>, had both of her arms amputated following an electric shock?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Song for Arbonne]]></title>
