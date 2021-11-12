@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-11-11T05:38:38.011Z</updated>
+    <updated>2021-11-12T05:40:11.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://en.wikivoyage.org/wiki/Alexandria"/>
         <updated>2021-11-01T05:38:44.694Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
@@ -24,22 +24,22 @@
 	<a href="/wiki/Alexandria" title="Alexandria"><img alt="Alexandria" src="//upload.wikimedia.org/wikivoyage/en/b/be/Alexandria_DOTM_Banner_4.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chavín de Huántar]]></title>
-        <id>https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar</id>
-        <link href="https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar"/>
-        <updated>2021-10-11T17:46:01.781Z</updated>
+        <title type="html"><![CDATA[Plymouth (Massachusetts)]]></title>
+        <id>https://en.wikivoyage.org/wiki/Plymouth_(Massachusetts)</id>
+        <link href="https://en.wikivoyage.org/wiki/Plymouth_(Massachusetts)"/>
+        <updated>2021-11-12T05:40:10.592Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
-		<h2><span id="Chav.C3.ADn_de_Hu.C3.A1ntar"></span><span class="mw-headline" id="Chavín_de_Huántar"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Chavín de Huántar</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Explore the ancient Chavín culture and the Andean cuisine and admire great views in this little town that millenia ago was an important ceremonial site.</a></div>
+		<h2><span id="Plymouth_.28Massachusetts.29"></span><span class="mw-headline" id="Plymouth_(Massachusetts)"><a href="/wiki/Plymouth_(Massachusetts)" title="Plymouth (Massachusetts)">Plymouth (Massachusetts)</a></span></h2>
+		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/w/index.php?title=Previous_Off_the_Beaten_Path&amp;action=edit&amp;redlink=1" class="new" title="Previous Off the Beaten Path (page does not exist)">Off the Beaten Path</a></span></h3>
+		<div class="quote"><a href="/wiki/Plymouth_(Massachusetts)" title="Plymouth (Massachusetts)">New England's first colony saw the foundation of the Thanksgiving holiday in 1621, and keeps four centuries of heritage alive.</a></div>
 	</div>
-<p>	<img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" title="Chavín de Huántar" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
+<p>	<img alt="Plymouth (Massachusetts)" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/1700px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg" decoding="async" title="Plymouth (Massachusetts)" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/2550px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/3400px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 2x" data-file-width="7000" data-file-height="2334" width="1700" height="567">
 </p>
-	<a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar"><img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/Plymouth_(Massachusetts)" title="Plymouth (Massachusetts)"><img alt="Plymouth (Massachusetts)" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/1700px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/2550px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/3400px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 2x" data-file-width="7000" data-file-height="2334" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arriving in a new city]]></title>
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Arriving_in_a_new_city"/>
         <updated>2021-10-21T17:44:51.514Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
