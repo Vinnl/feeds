@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-11-12T17:45:50.165Z</updated>
+    <updated>2021-11-14T17:45:55.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
 		<h2><span class="mw-headline" id="Arriving_in_a_new_city"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Arriving in a new city</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_Travel_Topics" class="mw-redirect" title="Previous Featured Travel Topics">Featured Travel Topic</a></span></h3>
+		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
 		<div class="quote"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Do you often find it intimidating to arrive in a new, strange place? Here are some useful tips for you.</a></div>
 	</div>
 <p>	<img alt="Arriving in a new city" src="//upload.wikimedia.org/wikivoyage/en/7/79/Arriving_in_a_New_City_FTT_2.jpg" decoding="async" title="Arriving in a new city" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
