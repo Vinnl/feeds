@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-11-20T17:44:57.372Z</updated>
+    <updated>2021-11-21T17:43:24.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -42,21 +42,21 @@
 	<a href="/wiki/Plymouth_(Massachusetts)" title="Plymouth (Massachusetts)"><img alt="Plymouth (Massachusetts)" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/1700px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/2550px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg/3400px-Twilight_Plymouth_MA_Wikivoyage_DOTM_banner.jpg 2x" data-file-width="7000" data-file-height="2334" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arriving in a new city]]></title>
-        <id>https://en.wikivoyage.org/wiki/Arriving_in_a_new_city</id>
-        <link href="https://en.wikivoyage.org/wiki/Arriving_in_a_new_city"/>
-        <updated>2021-10-21T17:44:51.514Z</updated>
+        <title type="html"><![CDATA[Pacific War]]></title>
+        <id>https://en.wikivoyage.org/wiki/Pacific_War</id>
+        <link href="https://en.wikivoyage.org/wiki/Pacific_War"/>
+        <updated>2021-11-21T17:43:23.735Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
-		<h2><span class="mw-headline" id="Arriving_in_a_new_city"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Arriving in a new city</a></span></h2>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left">
+		<h2><span class="mw-headline" id="Pacific_War"><a href="/wiki/Pacific_War" title="Pacific War">Pacific War</a></span></h2>
 		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Do you often find it intimidating to arrive in a new, strange place? Here are some useful tips for you.</a></div>
+		<div class="quote"><a href="/wiki/Pacific_War" title="Pacific War">World War II came to the Pacific Ocean on 7 December 1941, and was fought across seas and jungles with devastating weapons.</a></div>
 	</div>
-<p>	<img alt="Arriving in a new city" src="//upload.wikimedia.org/wikivoyage/en/7/79/Arriving_in_a_New_City_FTT_2.jpg" decoding="async" title="Arriving in a new city" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
+<p>	<img alt="Pacific War" src="//upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/1700px-Nuclear_tourism_banner_1.jpg" decoding="async" title="Pacific War" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/2550px-Nuclear_tourism_banner_1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/3400px-Nuclear_tourism_banner_1.jpg 2x" data-file-width="3456" data-file-height="1152" width="1700" height="567">
 </p>
-	<a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city"><img alt="Arriving in a new city" src="//upload.wikimedia.org/wikivoyage/en/7/79/Arriving_in_a_New_City_FTT_2.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/Pacific_War" title="Pacific War"><img alt="Pacific War" src="//upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/1700px-Nuclear_tourism_banner_1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/2550px-Nuclear_tourism_banner_1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/2/25/Nuclear_tourism_banner_1.jpg/3400px-Nuclear_tourism_banner_1.jpg 2x" data-file-width="3456" data-file-height="1152" width="1700" height="567"></a></div>]]></content>
     </entry>
 </feed>
