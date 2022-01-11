@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-01-11T05:40:00.732Z</updated>
+    <updated>2022-01-11T17:51:22.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -24,22 +24,22 @@
 	<a href="/wiki/Mui_Ne" title="Mui Ne"><img alt="Mui Ne" src="//upload.wikimedia.org/wikivoyage/en/a/a2/Mui_Ne_dotm_banner_1.jpg" decoding="async" data-file-width="1600" data-file-height="533" width="1600" height="533"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Montserrat]]></title>
-        <id>https://en.wikivoyage.org/wiki/Montserrat</id>
-        <link href="https://en.wikivoyage.org/wiki/Montserrat"/>
-        <updated>2021-12-11T17:44:02.741Z</updated>
+        <title type="html"><![CDATA[Koror]]></title>
+        <id>https://en.wikivoyage.org/wiki/Koror</id>
+        <link href="https://en.wikivoyage.org/wiki/Koror"/>
+        <updated>2022-01-11T17:51:21.723Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left">
-		<h2><span class="mw-headline" id="Montserrat"><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_beaten_path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the beaten path</a></span></h3>
-		<div class="quote"><a href="/wiki/Montserrat" title="Montserrat">A 1995 volcanic eruption desolated much of this Caribbean island, but it is again a pleasant destination for northern winter, with the Montserrat Carnival from 18 December to 3 January.</a></div>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
+		<h2><span class="mw-headline" id="Koror"><a href="/wiki/Koror" title="Koror">Koror</a></span></h2>
+		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
+		<div class="quote"><a href="/wiki/Koror" title="Koror">Palau's main city is a stepping stone to good diving and a place to learn about the archipelago's history and culture.</a></div>
 	</div>
-<p>	<img alt="Montserrat" src="//upload.wikimedia.org/wikivoyage/en/2/22/Montserrat_otbp_banner_2.jpg" decoding="async" title="Montserrat" class="nolink" data-file-width="1600" data-file-height="534" width="1600" height="534">
+<p>	<img alt="Koror" src="//upload.wikimedia.org/wikivoyage/en/e/ec/Koror_otbp_banner_1.jpg" decoding="async" title="Koror" class="nolink" data-file-width="1600" data-file-height="534" width="1600" height="534">
 </p>
-	<a href="/wiki/Montserrat" title="Montserrat"><img alt="Montserrat" src="//upload.wikimedia.org/wikivoyage/en/2/22/Montserrat_otbp_banner_2.jpg" decoding="async" data-file-width="1600" data-file-height="534" width="1600" height="534"></a></div>]]></content>
+	<a href="/wiki/Koror" title="Koror"><img alt="Koror" src="//upload.wikimedia.org/wikivoyage/en/e/ec/Koror_otbp_banner_1.jpg" decoding="async" data-file-width="1600" data-file-height="534" width="1600" height="534"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[European classical music]]></title>
