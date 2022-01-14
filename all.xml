@@ -2,99 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-14T05:41:08.952Z</updated>
+    <updated>2022-01-14T17:49:14.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[number of cannonballs in a square pyramid (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Square_pyramidal_number</id>
-        <link href="https://en.wikipedia.org/wiki/Square_pyramidal_number"/>
-        <updated>2022-01-14T05:41:05.323Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Square_pyramidal_number" title="Square pyramidal number">number of cannonballs in a square pyramid</a></b> <i>(pictured)</i> with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle scriptlevel="0" displaystyle="true">
-        <mi>n</mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> cannonballs along each edge is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle scriptlevel="0" displaystyle="true">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mfrac>
-            <mrow>
-              <mi>n</mi>
-              <mo stretchy="false">(</mo>
-              <mi>n</mi>
-              <mo>+</mo>
-              <mn>1</mn>
-              <mo stretchy="false">)</mo>
-              <mo stretchy="false">(</mo>
-              <mn>2</mn>
-              <mi>n</mi>
-              <mo>+</mo>
-              <mn>1</mn>
-              <mo stretchy="false">)</mo>
-            </mrow>
-            <mn>6</mn>
-          </mfrac>
-        </mrow>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b9def2f198deee49c3bd85a9e97ebe37728cabd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:17.807ex; height:5.676ex;" alt="{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}"></span>?]]></content>
+        <title type="html"><![CDATA[paintings of Tristan and Isolde (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Tristan_and_Isolde_(Egusquiza)</id>
+        <link href="https://en.wikipedia.org/wiki/Tristan_and_Isolde_(Egusquiza)"/>
+        <updated>2022-01-14T17:49:09.292Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Rogelio_de_Egusquiza" title="Rogelio de Egusquiza">Rogelio de Egusquiza</a>'s  <b><a href="/wiki/Tristan_and_Isolde_(Egusquiza)" title="Tristan and Isolde (Egusquiza)">paintings of Tristan and Isolde</a></b> <i>(one pictured)</i> arose from his decades-long fascination with the works of <a href="/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thomas Binger (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Thomas_Binger</id>
-        <link href="https://en.wikipedia.org/wiki/Thomas_Binger"/>
-        <updated>2022-01-14T05:41:05.323Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Binger" title="Thomas Binger">Thomas Binger</a></b>, the lead prosecutor in the <a href="/wiki/Kenosha_unrest_shooting" title="Kenosha unrest shooting">trial of Kyle Rittenhouse</a>, unsuccessfully ran for <a href="/wiki/District_attorney" title="District attorney">district attorney</a> of <a href="/wiki/Racine_County,_Wisconsin" title="Racine County, Wisconsin">Racine County, Wisconsin</a>, in 2016?]]></content>
+        <title type="html"><![CDATA[Alisha Kramer (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Alisha_Kramer</id>
+        <link href="https://en.wikipedia.org/wiki/Alisha_Kramer"/>
+        <updated>2022-01-14T17:49:09.293Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Alisha_Kramer" title="Alisha Kramer">Alisha Kramer</a></b> worked to fight HIV/AIDS, tuberculosis, and inequity in women's health in Africa and Europe as a program coordinator for the <a href="/wiki/Center_for_Strategic_and_International_Studies" title="Center for Strategic and International Studies">Center for Strategic and International Studies</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[War of Padua (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/War_of_Padua</id>
-        <link href="https://en.wikipedia.org/wiki/War_of_Padua"/>
-        <updated>2022-01-14T05:41:05.323Z</updated>
-        <content type="html"><![CDATA[... that after the <b><a href="/wiki/War_of_Padua" title="War of Padua">War of Padua</a></b>, the victorious <a href="/wiki/Republic_of_Venice" title="Republic of Venice">Republic of Venice</a> executed the <a href="/wiki/Francesco_Novello_da_Carrara" title="Francesco Novello da Carrara">lord of Padua</a> and two of his sons?]]></content>
+        <title type="html"><![CDATA[first homosexual movement (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/First_homosexual_movement</id>
+        <link href="https://en.wikipedia.org/wiki/First_homosexual_movement"/>
+        <updated>2022-01-14T17:49:09.313Z</updated>
+        <content type="html"><![CDATA[... that many Germans' belief that homosexuality was a communicable disease limited the success of the <b><a href="/wiki/First_homosexual_movement" title="First homosexual movement">first homosexual movement</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[René Prêtre (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%AAtre</id>
-        <link href="https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%AAtre"/>
-        <updated>2022-01-14T05:41:05.323Z</updated>
-        <content type="html"><![CDATA[... that before the Swiss surgeon <b><a href="/wiki/Ren%C3%A9_Pr%C3%AAtre" title="René Prêtre">René Prêtre</a></b> specialized in surgeries on children's hearts, he treated victims of gunshots and stabbings at <a href="/wiki/Bellevue_Hospital" title="Bellevue Hospital">Bellevue Hospital</a> in New York?]]></content>
+        <title type="html"><![CDATA[Walter D. Van Riper (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Walter_D._Van_Riper</id>
+        <link href="https://en.wikipedia.org/wiki/Walter_D._Van_Riper"/>
+        <updated>2022-01-14T17:49:09.313Z</updated>
+        <content type="html"><![CDATA[... that after New Jersey attorney general <b><a href="/wiki/Walter_D._Van_Riper" title="Walter D. Van Riper">Walter D. Van Riper</a></b> busted betting rooms protected by party boss <a href="/wiki/Frank_Hague" title="Frank Hague">Frank Hague</a>, Hague had Van Riper charged with <a href="/wiki/Check_kiting" title="Check kiting">check kiting</a> and black-market gasoline sales?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 North Kosovo crisis (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/2021_North_Kosovo_crisis</id>
-        <link href="https://en.wikipedia.org/wiki/2021_North_Kosovo_crisis"/>
-        <updated>2022-01-14T05:41:05.326Z</updated>
-        <content type="html"><![CDATA[... that the series of protests that led to the <b><a href="/wiki/2021_North_Kosovo_crisis" title="2021 North Kosovo crisis">2021 North Kosovo crisis</a></b> was caused by a ban on Serbian license plates from the Kosovan Government?]]></content>
+        <title type="html"><![CDATA[Burma Standard Time (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Myanmar_Standard_Time</id>
+        <link href="https://en.wikipedia.org/wiki/Myanmar_Standard_Time"/>
+        <updated>2022-01-14T17:49:09.314Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Yangon" title="Yangon">Rangoon</a> kept its own time for more than two decades after <b><a href="/wiki/Myanmar_Standard_Time" title="Myanmar Standard Time">Burma Standard Time</a></b> first came into effect?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bruce Davis (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Bruce_Davis_(offensive_tackle)</id>
-        <link href="https://en.wikipedia.org/wiki/Bruce_Davis_(offensive_tackle)"/>
-        <updated>2022-01-14T05:41:05.326Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bruce_Davis_(offensive_tackle)" title="Bruce Davis (offensive tackle)">Bruce Davis</a></b> and his son, who both played for <a href="/wiki/UCLA_Bruins_football" title="UCLA Bruins football">UCLA</a> in college and professionally for the <a href="/wiki/Las_Vegas_Raiders" title="Las Vegas Raiders">Raiders</a>, are one of the few father–son duos to have played on teams that reached the <a href="/wiki/Super_Bowl" title="Super Bowl">Super Bowl</a>?]]></content>
+        <title type="html"><![CDATA[Our Hindu Rashtra (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Our_Hindu_Rashtra</id>
+        <link href="https://en.wikipedia.org/wiki/Our_Hindu_Rashtra"/>
+        <updated>2022-01-14T17:49:09.315Z</updated>
+        <content type="html"><![CDATA[... that the book <i><b><a href="/wiki/Our_Hindu_Rashtra" title="Our Hindu Rashtra">Our Hindu Rashtra</a></b></i> claims that India is a de facto Hindu-majoritarian state?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 Dublin Bay South by-election (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/2021_Dublin_Bay_South_by-election</id>
-        <link href="https://en.wikipedia.org/wiki/2021_Dublin_Bay_South_by-election"/>
-        <updated>2022-01-14T05:41:05.329Z</updated>
-        <content type="html"><![CDATA[... that at the <b><a href="/wiki/2021_Dublin_Bay_South_by-election" title="2021 Dublin Bay South by-election">2021 Dublin Bay South by-election</a></b>, voters were asked to bring their own pen or pencil?]]></content>
+        <title type="html"><![CDATA[Jeffrey Paparoa Holman (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Jeffrey_Paparoa_Holman</id>
+        <link href="https://en.wikipedia.org/wiki/Jeffrey_Paparoa_Holman"/>
+        <updated>2022-01-14T17:49:09.322Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jeffrey_Paparoa_Holman" title="Jeffrey Paparoa Holman">Jeffrey Paparoa Holman</a></b> gave himself his middle name, after the <a href="/wiki/Paparoa_Range" title="Paparoa Range">Paparoa Range</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diamond Bakery (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Diamond_Bakery</id>
-        <link href="https://en.wikipedia.org/wiki/Diamond_Bakery"/>
-        <updated>2022-01-14T05:41:05.330Z</updated>
-        <content type="html"><![CDATA[... that the sourdough starter at <b><a href="/wiki/Diamond_Bakery" title="Diamond Bakery">Diamond Bakery</a></b> is believed to be more than a century old?]]></content>
+        <title type="html"><![CDATA[WMGA (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/WMGA_(AM)</id>
+        <link href="https://en.wikipedia.org/wiki/WMGA_(AM)"/>
+        <updated>2022-01-14T17:49:09.322Z</updated>
+        <content type="html"><![CDATA[... that Georgia radio station <b><a href="/wiki/WMGA_(AM)" title="WMGA (AM)">WMGA</a></b> was so "atrocious" that its announcers would invite listeners to donate their records?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mui Ne (Wikivoyage recommendations)]]></title>
@@ -102,7 +66,7 @@
         <link href="https://en.wikivoyage.org/wiki/Mui_Ne"/>
         <updated>2022-01-01T05:41:06.060Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
@@ -120,7 +84,7 @@
         <link href="https://en.wikivoyage.org/wiki/Koror"/>
         <updated>2022-01-11T17:51:21.723Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
@@ -138,7 +102,7 @@
         <link href="https://en.wikivoyage.org/wiki/European_classical_music"/>
         <updated>2021-12-23T17:47:18.408Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left">
