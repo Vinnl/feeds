@@ -2,63 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-01-12T05:40:36.749Z</updated>
+    <updated>2022-01-14T05:41:08.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Motoo Ōtaguro]]></title>
-        <id>https://en.wikipedia.org/wiki/Motoo_%C5%8Ctaguro</id>
-        <link href="https://en.wikipedia.org/wiki/Motoo_%C5%8Ctaguro"/>
-        <updated>2022-01-12T05:40:32.315Z</updated>
-        <content type="html"><![CDATA[... that music critic <b><a href="/wiki/Motoo_%C5%8Ctaguro" title="Motoo Ōtaguro">Motoo Ōtaguro</a></b> <i>(pictured)</i> held private piano concerts in his own residence despite not being a professional musician?]]></content>
+        <title type="html"><![CDATA[number of cannonballs in a square pyramid]]></title>
+        <id>https://en.wikipedia.org/wiki/Square_pyramidal_number</id>
+        <link href="https://en.wikipedia.org/wiki/Square_pyramidal_number"/>
+        <updated>2022-01-14T05:41:05.323Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Square_pyramidal_number" title="Square pyramidal number">number of cannonballs in a square pyramid</a></b> <i>(pictured)</i> with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle scriptlevel="0" displaystyle="true">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"></span> cannonballs along each edge is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle scriptlevel="0" displaystyle="true">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <mi>n</mi>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>n</mi>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mn>6</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b9def2f198deee49c3bd85a9e97ebe37728cabd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:17.807ex; height:5.676ex;" alt="{\displaystyle {\frac {n(n+1)(2n+1)}{6}}}"></span>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National Republican Redistricting Trust]]></title>
-        <id>https://en.wikipedia.org/wiki/National_Republican_Redistricting_Trust</id>
-        <link href="https://en.wikipedia.org/wiki/National_Republican_Redistricting_Trust"/>
-        <updated>2022-01-12T05:40:32.315Z</updated>
-        <content type="html"><![CDATA[... that Adam Kincaid of the <b><a href="/wiki/National_Republican_Redistricting_Trust" title="National Republican Redistricting Trust">National Republican Redistricting Trust</a></b> defended lowered competition in <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">US House</a> elections, arguing that the changes would save the party money?]]></content>
+        <title type="html"><![CDATA[Thomas Binger]]></title>
+        <id>https://en.wikipedia.org/wiki/Thomas_Binger</id>
+        <link href="https://en.wikipedia.org/wiki/Thomas_Binger"/>
+        <updated>2022-01-14T05:41:05.323Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Binger" title="Thomas Binger">Thomas Binger</a></b>, the lead prosecutor in the <a href="/wiki/Kenosha_unrest_shooting" title="Kenosha unrest shooting">trial of Kyle Rittenhouse</a>, unsuccessfully ran for <a href="/wiki/District_attorney" title="District attorney">district attorney</a> of <a href="/wiki/Racine_County,_Wisconsin" title="Racine County, Wisconsin">Racine County, Wisconsin</a>, in 2016?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National Democratic Redistricting Committee]]></title>
-        <id>https://en.wikipedia.org/wiki/National_Democratic_Redistricting_Committee</id>
-        <link href="https://en.wikipedia.org/wiki/National_Democratic_Redistricting_Committee"/>
-        <updated>2022-01-12T05:40:32.315Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/National_Democratic_Redistricting_Committee" title="National Democratic Redistricting Committee">National Democratic Redistricting Committee</a></b> supported lawsuits in <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> and <a href="/wiki/Ohio" title="Ohio">Ohio</a> against alleged <a href="/wiki/Gerrymandering_in_the_United_States" title="Gerrymandering in the United States">gerrymandering</a> by <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republicans</a>?]]></content>
+        <title type="html"><![CDATA[War of Padua]]></title>
+        <id>https://en.wikipedia.org/wiki/War_of_Padua</id>
+        <link href="https://en.wikipedia.org/wiki/War_of_Padua"/>
+        <updated>2022-01-14T05:41:05.323Z</updated>
+        <content type="html"><![CDATA[... that after the <b><a href="/wiki/War_of_Padua" title="War of Padua">War of Padua</a></b>, the victorious <a href="/wiki/Republic_of_Venice" title="Republic of Venice">Republic of Venice</a> executed the <a href="/wiki/Francesco_Novello_da_Carrara" title="Francesco Novello da Carrara">lord of Padua</a> and two of his sons?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Luther Holbert]]></title>
-        <id>https://en.wikipedia.org/wiki/Luther_Holbert</id>
-        <link href="https://en.wikipedia.org/wiki/Luther_Holbert"/>
-        <updated>2022-01-12T05:40:32.316Z</updated>
-        <content type="html"><![CDATA[... that the brutal torture and <a href="/wiki/Lynching" title="Lynching">lynching</a> of <b><a href="/wiki/Luther_Holbert" title="Luther Holbert">Luther Holbert</a></b> in 1904 was not recognized in the <a href="/wiki/National_Memorial_for_Peace_and_Justice" title="National Memorial for Peace and Justice">National Memorial for Peace and Justice</a> until 2018?]]></content>
+        <title type="html"><![CDATA[René Prêtre]]></title>
+        <id>https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%AAtre</id>
+        <link href="https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%AAtre"/>
+        <updated>2022-01-14T05:41:05.323Z</updated>
+        <content type="html"><![CDATA[... that before the Swiss surgeon <b><a href="/wiki/Ren%C3%A9_Pr%C3%AAtre" title="René Prêtre">René Prêtre</a></b> specialized in surgeries on children's hearts, he treated victims of gunshots and stabbings at <a href="/wiki/Bellevue_Hospital" title="Bellevue Hospital">Bellevue Hospital</a> in New York?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[woody plant encroachment]]></title>
-        <id>https://en.wikipedia.org/wiki/Woody_plant_encroachment</id>
-        <link href="https://en.wikipedia.org/wiki/Woody_plant_encroachment"/>
-        <updated>2022-01-12T05:40:32.317Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Woody_plant_encroachment" title="Woody plant encroachment">woody plant encroachment</a></b> can harm the habitats of the <a href="/wiki/Cheetah" title="Cheetah">cheetah</a>, <a href="/wiki/Plains_zebra" title="Plains zebra">plains zebra</a> and <a href="/wiki/Secretarybird" title="Secretarybird">secretarybird</a>?]]></content>
+        <title type="html"><![CDATA[2021 North Kosovo crisis]]></title>
+        <id>https://en.wikipedia.org/wiki/2021_North_Kosovo_crisis</id>
+        <link href="https://en.wikipedia.org/wiki/2021_North_Kosovo_crisis"/>
+        <updated>2022-01-14T05:41:05.326Z</updated>
+        <content type="html"><![CDATA[... that the series of protests that led to the <b><a href="/wiki/2021_North_Kosovo_crisis" title="2021 North Kosovo crisis">2021 North Kosovo crisis</a></b> was caused by a ban on Serbian license plates from the Kosovan Government?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethelyn Gibson]]></title>
-        <id>https://en.wikipedia.org/wiki/Ethelyn_Gibson</id>
-        <link href="https://en.wikipedia.org/wiki/Ethelyn_Gibson"/>
-        <updated>2022-01-12T05:40:32.318Z</updated>
-        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Ethelyn_Gibson" title="Ethelyn Gibson">Ethelyn Gibson</a></b> was the first person to star in and produce a <a href="/wiki/Serial_film" title="Serial film">serial film</a> that had sound?]]></content>
+        <title type="html"><![CDATA[Bruce Davis]]></title>
+        <id>https://en.wikipedia.org/wiki/Bruce_Davis_(offensive_tackle)</id>
+        <link href="https://en.wikipedia.org/wiki/Bruce_Davis_(offensive_tackle)"/>
+        <updated>2022-01-14T05:41:05.326Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Bruce_Davis_(offensive_tackle)" title="Bruce Davis (offensive tackle)">Bruce Davis</a></b> and his son, who both played for <a href="/wiki/UCLA_Bruins_football" title="UCLA Bruins football">UCLA</a> in college and professionally for the <a href="/wiki/Las_Vegas_Raiders" title="Las Vegas Raiders">Raiders</a>, are one of the few father–son duos to have played on teams that reached the <a href="/wiki/Super_Bowl" title="Super Bowl">Super Bowl</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2016 Jim Beam strike]]></title>
-        <id>https://en.wikipedia.org/wiki/2016_Jim_Beam_strike</id>
-        <link href="https://en.wikipedia.org/wiki/2016_Jim_Beam_strike"/>
-        <updated>2022-01-12T05:40:32.319Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/2016_Jim_Beam_strike" title="2016 Jim Beam strike">2016 Jim Beam strike</a></b> was the first labor strike in the company's history?]]></content>
+        <title type="html"><![CDATA[2021 Dublin Bay South by-election]]></title>
+        <id>https://en.wikipedia.org/wiki/2021_Dublin_Bay_South_by-election</id>
+        <link href="https://en.wikipedia.org/wiki/2021_Dublin_Bay_South_by-election"/>
+        <updated>2022-01-14T05:41:05.329Z</updated>
+        <content type="html"><![CDATA[... that at the <b><a href="/wiki/2021_Dublin_Bay_South_by-election" title="2021 Dublin Bay South by-election">2021 Dublin Bay South by-election</a></b>, voters were asked to bring their own pen or pencil?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyril Barclay]]></title>
-        <id>https://en.wikipedia.org/wiki/C._N._Barclay</id>
-        <link href="https://en.wikipedia.org/wiki/C._N._Barclay"/>
-        <updated>2022-01-12T05:40:32.320Z</updated>
-        <content type="html"><![CDATA[... that British Army brigadier <b><a href="/wiki/C._N._Barclay" title="C. N. Barclay">Cyril Barclay</a></b> certified that he was neither a polygamist nor an anarchist who wished to overthrow the United States government?]]></content>
+        <title type="html"><![CDATA[Diamond Bakery]]></title>
+        <id>https://en.wikipedia.org/wiki/Diamond_Bakery</id>
+        <link href="https://en.wikipedia.org/wiki/Diamond_Bakery"/>
+        <updated>2022-01-14T05:41:05.330Z</updated>
+        <content type="html"><![CDATA[... that the sourdough starter at <b><a href="/wiki/Diamond_Bakery" title="Diamond Bakery">Diamond Bakery</a></b> is believed to be more than a century old?]]></content>
     </entry>
 </feed>
