@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-01-31T17:40:11.906Z</updated>
+    <updated>2022-02-01T05:37:36.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Mui Ne]]></title>
-        <id>https://en.wikivoyage.org/wiki/Mui_Ne</id>
-        <link href="https://en.wikivoyage.org/wiki/Mui_Ne"/>
-        <updated>2022-01-01T05:41:06.060Z</updated>
+        <title type="html"><![CDATA[Lisbon]]></title>
+        <id>https://en.wikivoyage.org/wiki/Lisbon</id>
+        <link href="https://en.wikivoyage.org/wiki/Lisbon"/>
+        <updated>2022-02-01T05:37:35.758Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
 <div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
-		<h2><span class="mw-headline" id="Mui_Ne"><a href="/wiki/Mui_Ne" title="Mui Ne">Mui Ne</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Mui_Ne" title="Mui Ne">This Vietnamese fishing town famous for its white sand dunes is a great place to celebrate the Lunar New Year on 1 February.</a></div>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:20%">
+		<h2><span class="mw-headline" id="Lisbon"><a href="/wiki/Lisbon" title="Lisbon">Lisbon</a></span></h2>
+		<h3><span class="mw-headline" id="Destination_of_the_Month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></span></h3>
+		<div class="quote"><a href="/wiki/Lisbon" title="Lisbon">Portugal's capital has an ancient heritage, and has been a cosmopolitan port city since the Age of Discovery, famous for nightlife and street art.</a></div>
 	</div>
-<p>	<img alt="Mui Ne" src="//upload.wikimedia.org/wikivoyage/en/a/a2/Mui_Ne_dotm_banner_1.jpg" decoding="async" title="Mui Ne" class="nolink" data-file-width="1600" data-file-height="533" width="1600" height="533">
+<p>	<img alt="Lisbon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg/1700px-Lisbon_banner_Ascensor_da_Bica.jpg" decoding="async" title="Lisbon" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg/2550px-Lisbon_banner_Ascensor_da_Bica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg 2x" data-file-width="2996" data-file-height="999" width="1700" height="567">
 </p>
-	<a href="/wiki/Mui_Ne" title="Mui Ne"><img alt="Mui Ne" src="//upload.wikimedia.org/wikivoyage/en/a/a2/Mui_Ne_dotm_banner_1.jpg" decoding="async" data-file-width="1600" data-file-height="533" width="1600" height="533"></a></div>]]></content>
+	<a href="/wiki/Lisbon" title="Lisbon"><img alt="Lisbon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg/1700px-Lisbon_banner_Ascensor_da_Bica.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg/2550px-Lisbon_banner_Ascensor_da_Bica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e7/Lisbon_banner_Ascensor_da_Bica.jpg 2x" data-file-width="2996" data-file-height="999" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Koror]]></title>
