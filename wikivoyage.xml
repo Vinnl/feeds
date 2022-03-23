@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-03-20T17:38:48.235Z</updated>
+    <updated>2022-03-23T05:37:38.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://en.wikivoyage.org/wiki/San_Antonio"/>
         <updated>2022-02-28T17:40:04.286Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
@@ -29,7 +29,7 @@
         <link href="https://en.wikivoyage.org/wiki/Magome"/>
         <updated>2022-03-10T17:40:52.836Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
@@ -42,21 +42,21 @@
 	<a href="/wiki/Magome" title="Magome"><img alt="Magome" src="//upload.wikimedia.org/wikivoyage/en/8/81/Magome_otbp_banner_1.jpg" decoding="async" data-file-width="1600" data-file-height="533" width="1600" height="533"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diving Percy's Hole]]></title>
-        <id>https://en.wikivoyage.org/wiki/Diving_Percy%27s_Hole</id>
-        <link href="https://en.wikivoyage.org/wiki/Diving_Percy%27s_Hole"/>
-        <updated>2022-02-27T17:38:26.432Z</updated>
+        <title type="html"><![CDATA[RMS Titanic]]></title>
+        <id>https://en.wikivoyage.org/wiki/RMS_Titanic</id>
+        <link href="https://en.wikivoyage.org/wiki/RMS_Titanic"/>
+        <updated>2022-03-23T05:37:38.432Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:28%">
-		<h2><span id="Diving_Percy.27s_Hole"></span><span class="mw-headline" id="Diving_Percy's_Hole"><a href="/wiki/Diving_Percy%27s_Hole" class="mw-redirect" title="Diving Percy's Hole">Diving Percy's Hole</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Diving_Percy%27s_Hole" class="mw-redirect" title="Diving Percy's Hole">Percy's Hole is suitable for novice divers too and there's a plentitude of colourful nudibranches under water.</a></div>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left">
+		<h2><span class="mw-headline" id="RMS_Titanic"><a href="/wiki/RMS_Titanic" title="RMS Titanic">RMS Titanic</a></span></h2>
+		<h3><span class="mw-headline" id="Featured_travel_topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured travel topic</a></span></h3>
+		<div class="quote"><a href="/wiki/RMS_Titanic" title="RMS Titanic">One of the most notorious shipwrecks ever took place on 15 April 1912. Places that tell the story of the <i>Titanic</i> can be found on both sides of the Atlantic.</a></div>
 	</div>
-<p>	<img alt="Diving Percy's Hole" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/1700px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG" decoding="async" title="Diving Percy's Hole" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/2550px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/3400px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG 2x" data-file-width="3446" data-file-height="1149" width="1700" height="567">
+<p>	<img alt="RMS Titanic" src="//upload.wikimedia.org/wikivoyage/en/thumb/2/28/Titanic_Wikivoyage_FTT.jpg/1700px-Titanic_Wikivoyage_FTT.jpg" decoding="async" title="RMS Titanic" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/2/28/Titanic_Wikivoyage_FTT.jpg/2550px-Titanic_Wikivoyage_FTT.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/2/28/Titanic_Wikivoyage_FTT.jpg 2x" data-file-width="3000" data-file-height="1001" width="1700" height="567">
 </p>
-	<a href="/wiki/Diving_Percy%27s_Hole" title="Diving Percy's Hole"><img alt="Diving Percy's Hole" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/1700px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/2550px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/0/00/Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG/3400px-Diving_the_Cape_Peninsula_and_False_Bay_Percy%27s_Hole_banner_Two-tone_fingerfin_and_Hottentot_seabream.JPG 2x" data-file-width="3446" data-file-height="1149" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/RMS_Titanic" title="RMS Titanic"><img alt="RMS Titanic" src="//upload.wikimedia.org/wikivoyage/en/thumb/2/28/Titanic_Wikivoyage_FTT.jpg/1700px-Titanic_Wikivoyage_FTT.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/2/28/Titanic_Wikivoyage_FTT.jpg/2550px-Titanic_Wikivoyage_FTT.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/2/28/Titanic_Wikivoyage_FTT.jpg 2x" data-file-width="3000" data-file-height="1001" width="1700" height="567"></a></div>]]></content>
     </entry>
 </feed>
