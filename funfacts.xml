@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-04-27T05:47:18.579Z</updated>
+    <updated>2022-04-27T17:47:39.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Daniel_Davis_Jr." title="Daniel Davis Jr.">Daniel Davis</a></b> was the first person in the United States to work with gold and silver <a href="/wiki/Electroplating" title="Electroplating">electroplating</a> <i>(illustrated)</i> as a business?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dance school in Dresden, Germany]]></title>
+        <title type="html"><![CDATA[her dance school in Dresden, Germany]]></title>
         <id>https://en.wikipedia.org/wiki/Palucca_University_of_Dance_Dresden</id>
         <link href="https://en.wikipedia.org/wiki/Palucca_University_of_Dance_Dresden"/>
         <updated>2022-04-27T05:47:14.917Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Gret_Palucca" title="Gret Palucca">Gret Palucca</a> had to close her <b><a href="/wiki/Palucca_University_of_Dance_Dresden" title="Palucca University of Dance Dresden">dance school in Dresden, Germany</a></b>, in 1939 because of her Jewish descent, but reopened it in 1945?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Gret_Palucca" title="Gret Palucca">Gret Palucca</a> had to close <b><a href="/wiki/Palucca_University_of_Dance_Dresden" title="Palucca University of Dance Dresden">her dance school in Dresden, Germany</a></b>, in 1939 because of her Jewish descent, but reopened it in 1945?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ashton Hawkins]]></title>
