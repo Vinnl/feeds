@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-04-28T05:55:59.924Z</updated>
+    <updated>2022-04-28T17:44:01.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Rachel_Dyer</id>
         <link href="https://en.wikipedia.org/wiki/Rachel_Dyer"/>
         <updated>2022-04-28T05:55:56.502Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Rachel_Dyer" title="Rachel Dyer">Rachel Dyer</a></b></i> became the first American bound novel about the <a href="/wiki/Salem_witch_trials" title="Salem witch trials">Salem witch trials</a> in 1828?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Rachel_Dyer" title="Rachel Dyer">Rachel Dyer</a></b></i>, published in 1828, is the first American bound novel about the <a href="/wiki/Salem_witch_trials" title="Salem witch trials">Salem witch trials</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tadao Takahashi]]></title>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Hitler_teapot</id>
         <link href="https://en.wikipedia.org/wiki/Hitler_teapot"/>
         <updated>2022-04-28T05:55:56.505Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hitler_teapot" title="Hitler teapot">a kettle that looked like Adolf Hitler</a></b> was offered on <a href="/wiki/EBay" title="EBay">eBay</a> for $199?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Hitler_teapot" title="Hitler teapot">a kettle that looked like Adolf Hitler</a></b> was offered on <a href="/wiki/EBay" title="EBay">eBay</a> for US$199?]]></content>
     </entry>
 </feed>
