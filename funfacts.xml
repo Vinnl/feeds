@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-05-09T05:42:29.459Z</updated>
+    <updated>2022-05-09T17:47:03.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Du,_o_sch%C3%B6nes_Weltgeb%C3%A4ude</id>
         <link href="https://en.wikipedia.org/wiki/Du,_o_sch%C3%B6nes_Weltgeb%C3%A4ude"/>
         <updated>2022-05-09T05:42:25.997Z</updated>
-        <content type="html"><![CDATA[... that the 1653 hymn "<b><a href="/wiki/Du,_o_sch%C3%B6nes_Weltgeb%C3%A4ude" title="Du, o schönes Weltgebäude">Du, o schönes Weltgebäude</a></b>", about renouncing the world, contains the stanza "Komm, O Tod, des Schlafes Bruder", which Bach used to conclude <a href="/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56" title="Ich will den Kreuzstab gerne tragen, BWV 56">his cross-staff cantata</a>?]]></content>
+        <content type="html"><![CDATA[... that the 1653 hymn "<b><a href="/wiki/Du,_o_sch%C3%B6nes_Weltgeb%C3%A4ude" title="Du, o schönes Weltgebäude">Du, o schönes Weltgebäude</a></b>", about renouncing the world, contains the stanza "Komm, O Tod, du Schlafes Bruder", which Bach used to conclude <a href="/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56" title="Ich will den Kreuzstab gerne tragen, BWV 56">his cross-staff cantata</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Satyagraha Hoerip]]></title>
