@@ -19,6 +19,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2.3.4
     - uses: microsoft/playwright-github-action@v1
+    - run: npx playwright install firefox
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
