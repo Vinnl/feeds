@@ -2,7 +2,7 @@ pages:
   stage: deploy
   image: mcr.microsoft.com/playwright:v1.12.3-focal
   script:
-  - npx playwright install firefox
+  - npx playwright install-deps
   - npx feed-me-up-scotty
   artifacts:
     paths:
