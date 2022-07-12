@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-07-12T05:52:04.994Z</updated>
+    <updated>2022-07-12T17:43:07.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/WITF-TV</id>
         <link href="https://en.wikipedia.org/wiki/WITF-TV"/>
         <updated>2022-07-12T05:52:01.475Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/The_Hershey_Company" title="The Hershey Company">Hershey Foods</a> wasn't so sweet with <b><a href="/wiki/WITF-TV" title="WITF-TV">a Pennsylvania TV station</a></b>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/WITF-TV" title="WITF-TV">a Pennsylvania TV station</a></b> is experimenting with <a href="/wiki/Datacasting" title="Datacasting">datacasting</a> educational content to school students and prison inmates?]]></content>
     </entry>
 </feed>
