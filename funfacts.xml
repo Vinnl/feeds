@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-07-17T05:41:39.206Z</updated>
+    <updated>2022-07-17T17:40:45.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that three men resigned from the <a href="/wiki/Executive_Council_of_Nova_Scotia" title="Executive Council of Nova Scotia">Executive Council of Nova Scotia</a> upon <b><a href="/wiki/Mather_Byles_Almon" title="Mather Byles Almon">Mather Byles Almon</a></b><span class="nowrap">'s</span> appointment?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bias response teams]]></title>
-        <id>https://en.wikipedia.org/wiki/Bias_response_team</id>
-        <link href="https://en.wikipedia.org/wiki/Bias_response_team"/>
-        <updated>2022-07-17T05:41:35.088Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bias_response_team" title="Bias response team">bias response teams</a></b> are part of a balancing act between campus diversity and free speech?]]></content>
+        <title type="html"><![CDATA[Alpheus armatus]]></title>
+        <id>https://en.wikipedia.org/wiki/Alpheus_armatus</id>
+        <link href="https://en.wikipedia.org/wiki/Alpheus_armatus"/>
+        <updated>2022-07-17T17:40:41.678Z</updated>
+        <content type="html"><![CDATA[... that the snapping shrimp <i><b><a href="/wiki/Alpheus_armatus" title="Alpheus armatus">Alpheus armatus</a></b></i> clears sand from a <a href="/wiki/Bartholomea_annulata" title="Bartholomea annulata">sea anemone</a>'s lair?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Esperanza Casteleiro]]></title>
