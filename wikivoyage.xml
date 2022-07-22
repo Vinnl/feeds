@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-07-21T05:47:35.368Z</updated>
+    <updated>2022-07-22T17:49:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
@@ -42,21 +42,21 @@
 	<a href="/wiki/Farnborough" title="Farnborough"><img alt="Farnborough" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg/1700px-Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg/2550px-Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg 2x" data-file-width="2793" data-file-height="932" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wine regions of Ontario]]></title>
-        <id>https://en.wikivoyage.org/wiki/Wine_regions_of_Ontario</id>
-        <link href="https://en.wikivoyage.org/wiki/Wine_regions_of_Ontario"/>
-        <updated>2022-06-21T17:51:41.932Z</updated>
+        <title type="html"><![CDATA[New Golden Route]]></title>
+        <id>https://en.wikivoyage.org/wiki/New_Golden_Route</id>
+        <link href="https://en.wikivoyage.org/wiki/New_Golden_Route"/>
+        <updated>2022-07-22T17:49:33.214Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:30%">
-		<h2><span class="mw-headline" id="Wine_regions_of_Ontario"><a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario">Wine regions of Ontario</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario">Discover Canada's largest wine region, and its wide variety of cool climate wines.</a></div>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:30%">
+		<h2><span class="mw-headline" id="New_Golden_Route"><a href="/wiki/New_Golden_Route" title="New Golden Route">New Golden Route</a></span></h2>
+		<h3><span class="mw-headline" id="Featured_travel_topics"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured travel topics</a></span></h3>
+		<div class="quote"><a href="/wiki/New_Golden_Route" title="New Golden Route">Connecting Tokyo and Kyoto via Northern Chubu, explore one of Japan's popular tourist trails.</a></div>
 	</div>
-<p>	<img alt="Wine regions of Ontario" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Wikivoyage_banner_wines_of_ontario_2.jpg" decoding="async" title="Wine regions of Ontario" class="nolink" data-file-width="1280" data-file-height="426" width="1280" height="426">
+<p>	<img alt="New Golden Route" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/1700px-New_Golden_Route_banner_Thunderbird_Train.jpg" decoding="async" title="New Golden Route" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/2550px-New_Golden_Route_banner_Thunderbird_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/3400px-New_Golden_Route_banner_Thunderbird_Train.jpg 2x" data-file-width="3888" data-file-height="1297" width="1700" height="567">
 </p>
-	<a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario"><img alt="Wine regions of Ontario" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Wikivoyage_banner_wines_of_ontario_2.jpg" decoding="async" data-file-width="1280" data-file-height="426" width="1280" height="426"></a></div>]]></content>
+	<a href="/wiki/New_Golden_Route" title="New Golden Route"><img alt="New Golden Route" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/1700px-New_Golden_Route_banner_Thunderbird_Train.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/2550px-New_Golden_Route_banner_Thunderbird_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/3400px-New_Golden_Route_banner_Thunderbird_Train.jpg 2x" data-file-width="3888" data-file-height="1297" width="1700" height="567"></a></div>]]></content>
     </entry>
 </feed>
