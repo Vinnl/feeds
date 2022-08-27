@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-08-26T06:21:16.724Z</updated>
+    <updated>2022-08-27T17:41:17.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
+    <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
         <title type="html"><![CDATA[Newfoundland and Labrador]]></title>
         <id>https://en.wikivoyage.org/wiki/Newfoundland_and_Labrador</id>
