@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-09-11T05:56:43.246Z</updated>
+    <updated>2022-09-11T17:48:24.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -11,35 +11,35 @@
         <link href="https://en.wikivoyage.org/wiki/Dresden"/>
         <updated>2022-09-02T17:44:33.021Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize">
+<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:20%">
 		<h2><span class="mw-headline" id="Dresden"><a href="/wiki/Dresden" title="Dresden">Dresden</a></span></h2>
 		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Dresden" title="Dresden">The capital of Saxony once suffered catastrophic damage from Allied bombing in 1945, today it stands as a charming, relaxed and in many ways a beautiful city and a relaxing destination</a></div>
+		<div class="quote"><a href="/wiki/Dresden" title="Dresden">The capital of Saxony once suffered catastrophic damage from Allied bombing in 1945, today it stands as a charming, relaxed and in many ways a beautiful city and a relaxing destination.</a></div>
 	</div>
 <p>	<img alt="Dresden" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/1700px-Dresden_banner_Semperoper_at_night.jpg" decoding="async" title="Dresden" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/2550px-Dresden_banner_Semperoper_at_night.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/3400px-Dresden_banner_Semperoper_at_night.jpg 2x" data-file-width="3531" data-file-height="1178" width="1700" height="567">
 </p>
 	<a href="/wiki/Dresden" title="Dresden"><img alt="Dresden" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/1700px-Dresden_banner_Semperoper_at_night.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/2550px-Dresden_banner_Semperoper_at_night.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/4/40/Dresden_banner_Semperoper_at_night.jpg/3400px-Dresden_banner_Semperoper_at_night.jpg 2x" data-file-width="3531" data-file-height="1178" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deventer]]></title>
-        <id>https://en.wikivoyage.org/wiki/Deventer</id>
-        <link href="https://en.wikivoyage.org/wiki/Deventer"/>
-        <updated>2022-08-11T05:41:19.715Z</updated>
+        <title type="html"><![CDATA[Budderoo National Park]]></title>
+        <id>https://en.wikivoyage.org/wiki/Budderoo_National_Park</id>
+        <link href="https://en.wikivoyage.org/wiki/Budderoo_National_Park"/>
+        <updated>2022-09-11T17:48:23.952Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize">
+<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:30%">
-		<h2><span class="mw-headline" id="Deventer"><a href="/wiki/Deventer" title="Deventer">Deventer</a></span></h2>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
+		<h2><span class="mw-headline" id="Budderoo_National_Park"><a href="/wiki/Budderoo_National_Park" title="Budderoo National Park">Budderoo National Park</a></span></h2>
 		<h3><span class="mw-headline" id="Off_the_beaten_path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the beaten path</a></span></h3>
-		<div class="quote"><a href="/wiki/Deventer" title="Deventer">One of the Netherlands' oldest cities, with loads of character to show for it.</a></div>
+		<div class="quote"><a href="/wiki/Budderoo_National_Park" title="Budderoo National Park">Australia isn't particularly known for its rainforests, but this small national park in the Illawarra south of Sydney may make you reconsider that.</a></div>
 	</div>
-<p>	<img alt="Deventer" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/1700px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg" decoding="async" title="Deventer" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/2550px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/3400px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg 2x" data-file-width="4161" data-file-height="1389" width="1700" height="567">
+<p>	<img alt="Budderoo National Park" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/1700px-Budderoo_otbp_banner_4.jpg" decoding="async" title="Budderoo National Park" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/2550px-Budderoo_otbp_banner_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/3400px-Budderoo_otbp_banner_4.jpg 2x" data-file-width="6797" data-file-height="2269" width="1700" height="568">
 </p>
-	<a href="/wiki/Deventer" title="Deventer"><img alt="Deventer" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/1700px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/2550px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg/3400px-Deventer_MP_banner_Lebu%C3%AFnuskerk.jpg 2x" data-file-width="4161" data-file-height="1389" width="1700" height="567"></a></div>]]></content>
+	<a href="/wiki/Budderoo_National_Park" title="Budderoo National Park"><img alt="Budderoo National Park" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/1700px-Budderoo_otbp_banner_4.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/2550px-Budderoo_otbp_banner_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Budderoo_otbp_banner_4.jpg/3400px-Budderoo_otbp_banner_4.jpg 2x" data-file-width="6797" data-file-height="2269" width="1700" height="568"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Istanbul to Izmir]]></title>
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Istanbul_to_Izmir"/>
         <updated>2022-08-21T05:41:18.510Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize">
+<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:30%">
