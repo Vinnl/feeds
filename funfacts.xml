@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-09-17T05:56:28.303Z</updated>
+    <updated>2022-09-17T17:47:41.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[... that when <i><b><a href="/wiki/The_Papers_of_Benjamin_Franklin" title="The Papers of Benjamin Franklin">The Papers of Benjamin Franklin</a></b></i> is completed, it is expected to contain approximately 30,000 writings in 47 volumes?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the son]]></title>
+        <title type="html"><![CDATA[Liu Yunbin]]></title>
         <id>https://en.wikipedia.org/wiki/Liu_Yunbin</id>
         <link href="https://en.wikipedia.org/wiki/Liu_Yunbin"/>
         <updated>2022-09-17T05:56:24.190Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Liu_Yunbin" title="Liu Yunbin">the son</a></b> of the <a href="/wiki/Liu_Shaoqi" title="Liu Shaoqi">second President of the People's Republic of China</a>, was a graduate in radiochemistry and contributed to the development of <a href="/wiki/Project_596" title="Project 596">China's first atomic bomb</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Liu_Yunbin" title="Liu Yunbin">Liu Yunbin</a></b>, the son of <a href="/wiki/Liu_Shaoqi" title="Liu Shaoqi">the second president of the People's Republic of China</a>, was a graduate in radiochemistry and contributed to the development of <a href="/wiki/Project_596" title="Project 596">China's first atomic bomb</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Midnights]]></title>
