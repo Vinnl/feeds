@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-09-26T06:37:19.950Z</updated>
+    <updated>2022-09-26T17:55:54.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jim_Nettles</id>
         <link href="https://en.wikipedia.org/wiki/Jim_Nettles"/>
         <updated>2022-09-26T06:37:14.877Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Jim_Nettles" title="Jim Nettles">Jim Nettles</a></b> followed <a href="/wiki/Graig_Nettles" title="Graig Nettles">his older brother</a> to <a href="/wiki/San_Diego_State_University" title="San Diego State University">San Diego State University</a> and the <a href="/wiki/Minnesota_Twins" title="Minnesota Twins">Minnesota Twins</a>, but preceded him in being diagnosed for prostate cancer?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jim_Nettles" title="Jim Nettles">Jim Nettles</a></b> followed <a href="/wiki/Graig_Nettles" title="Graig Nettles">his older brother</a> to <a href="/wiki/San_Diego_State_University" title="San Diego State University">San Diego State University</a> and the <a href="/wiki/Minnesota_Twins" title="Minnesota Twins">Minnesota Twins</a>, but preceded him in being diagnosed with prostate cancer?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Port of Tanjung Kalian]]></title>
