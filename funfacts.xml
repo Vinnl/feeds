@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-10-04T06:04:15.431Z</updated>
+    <updated>2022-10-04T18:04:26.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[... that when <a href="/wiki/Rain_Pryor" title="Rain Pryor">Rain Pryor</a> drew a picture of her friend <b><a href="/wiki/Skeeter_Reece" title="Skeeter Reece">Skeeter the unicycling clown</a></b> in school, her teacher said that there were no Black clowns?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British logistics in the Western Allied Invasion of Germany]]></title>
-        <id>https://en.wikipedia.org/wiki/British_logistics_in_the_Western_Allied_Invasion_of_Germany</id>
-        <link href="https://en.wikipedia.org/wiki/British_logistics_in_the_Western_Allied_Invasion_of_Germany"/>
-        <updated>2022-10-04T06:04:11.020Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/British_logistics_in_the_Western_Allied_Invasion_of_Germany" title="British logistics in the Western Allied Invasion of Germany">British logistics in the Western Allied Invasion of Germany</a></b> involved buffaloes, ducks and weasels?]]></content>
+        <title type="html"><![CDATA[British logistics in the Western Allied invasion of Germany]]></title>
+        <id>https://en.wikipedia.org/wiki/British_logistics_in_the_Western_Allied_invasion_of_Germany</id>
+        <link href="https://en.wikipedia.org/wiki/British_logistics_in_the_Western_Allied_invasion_of_Germany"/>
+        <updated>2022-10-04T18:04:21.652Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/British_logistics_in_the_Western_Allied_invasion_of_Germany" title="British logistics in the Western Allied invasion of Germany">British logistics in the Western Allied invasion of Germany</a></b> involved buffaloes, duck bills and weasels?]]></content>
     </entry>
 </feed>
