@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-10-05T06:07:41.073Z</updated>
+    <updated>2022-10-05T18:05:38.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/United_States_Army_Replacement_and_School_Command</id>
         <link href="https://en.wikipedia.org/wiki/United_States_Army_Replacement_and_School_Command"/>
         <updated>2022-10-05T06:07:37.042Z</updated>
-        <content type="html"><![CDATA[... that the men who trained through the <b><a href="/wiki/United_States_Army_Replacement_and_School_Command" title="United States Army Replacement and School Command">United States Army Replacement and School Command</a></b> <i>(insignia pictured)</i> knew they were going to the deadliest places on the <a href="/wiki/World_War_II" title="World War II">World War&nbsp;II</a> battlefield?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/United_States_Army_Replacement_and_School_Command" title="United States Army Replacement and School Command">United States Army Replacement and School Command</a></b> <i>(insignia pictured)</i> reached its peak in May 1945 with 481,000 personnel?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Water Under the Bridge]]></title>
