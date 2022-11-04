@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-11-03T17:44:17.355Z</updated>
+    <updated>2022-11-04T17:45:59.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Hamad_International_Airport"/>
         <updated>2022-10-22T06:00:52.571Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize">
+<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:50%">
