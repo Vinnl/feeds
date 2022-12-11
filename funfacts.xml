@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-11T05:38:02.283Z</updated>
+    <updated>2022-12-11T17:39:44.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/St._Bernward,_Hanover</id>
         <link href="https://en.wikipedia.org/wiki/St._Bernward,_Hanover"/>
         <updated>2022-12-11T05:37:57.892Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/St._Bernward,_Hanover" title="St. Bernward, Hanover">St.&nbsp;Bernward</a></b> <i>(pictured)</i> in Döhren was consecrated in 1893, when part of Christoph Hehl's design of a <a href="/wiki/Basilica" title="Basilica">basilica</a> in the <a href="/wiki/Romanesque_Revival_architecture" title="Romanesque Revival architecture">Romanesque Revival style</a> was built, but the building was only completed after World War&nbsp;II?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/St._Bernward,_Hanover" title="St. Bernward, Hanover">St.&nbsp;Bernward</a></b> <i>(pictured)</i> in Döhren was consecrated in 1893, when part of <a href="/wiki/Christoph_Hehl" title="Christoph Hehl">Christoph Hehl</a>'s design of a <a href="/wiki/Basilica" title="Basilica">basilica</a> in the <a href="/wiki/Romanesque_Revival_architecture" title="Romanesque Revival architecture">Romanesque Revival style</a> was built, but the building was only completed after World War&nbsp;II?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a proposed state constitutional amendment]]></title>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/2022_UK_Championship</id>
         <link href="https://en.wikipedia.org/wiki/2022_UK_Championship"/>
         <updated>2022-12-11T05:37:57.898Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Gary_Wilson_(snooker_player)" title="Gary Wilson (snooker player)">Gary Wilson</a> threw his <dfn id=""><a href="/wiki/Glossary_of_cue_sports_terms#cue_stick" title="Glossary of cue sports terms"><span title="See entry at: Glossary of cue sports terms § cue stick" style="color:inherit;" class="glossary-link">cue stick</span></a></dfn> to the floor in anger at the <b><a href="/wiki/2022_UK_Championship" title="2022 UK Championship">2022 UK Championship</a></b>?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Gary_Wilson_(snooker_player)" title="Gary Wilson (snooker player)">Gary Wilson</a> threw his <a href="/wiki/Cue_stick" title="Cue stick">cue stick</a> to the floor in anger at the <b><a href="/wiki/2022_UK_Championship" title="2022 UK Championship">2022 UK Championship</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Margaret F. Butler]]></title>
