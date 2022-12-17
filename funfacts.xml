@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-17T05:37:36.722Z</updated>
+    <updated>2022-12-17T17:37:17.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Church_of_St_Giles,_Stoke_Poges</id>
         <link href="https://en.wikipedia.org/wiki/Church_of_St_Giles,_Stoke_Poges"/>
         <updated>2022-12-17T05:37:31.805Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Church_of_St_Giles,_Stoke_Poges" title="Church of St Giles, Stoke Poges">Church of St&nbsp;Giles, Stoke Poges</a></b>, which is claimed to have inspired the "<a href="/wiki/Elegy_Written_in_a_Country_Churchyard" title="Elegy Written in a Country Churchyard">Elegy Written in a Country Churchyard</a>", is featured in a <i>James Bond</i> film?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Church_of_St_Giles,_Stoke_Poges" title="Church of St Giles, Stoke Poges">Church of St&nbsp;Giles, Stoke Poges</a></b>, which may have inspired the "<a href="/wiki/Elegy_Written_in_a_Country_Churchyard" title="Elegy Written in a Country Churchyard">Elegy Written in a Country Churchyard</a>", is featured in a <i>James Bond</i> film?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Edward Thonen]]></title>
