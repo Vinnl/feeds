@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-20T05:38:46.358Z</updated>
+    <updated>2022-12-20T17:37:35.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Death_in_Small_Doses_(1995_film)</id>
         <link href="https://en.wikipedia.org/wiki/Death_in_Small_Doses_(1995_film)"/>
         <updated>2022-12-20T05:38:41.761Z</updated>
-        <content type="html"><![CDATA[... that the film <i><b><a href="/wiki/Death_in_Small_Doses_(1995_film)" title="Death in Small Doses (1995 film)">Death in Small Doses</a></b></i> is a dramatization of the real–life death of Nancy Lyon by arsenic poisoning?]]></content>
+        <content type="html"><![CDATA[... that the film <i><b><a href="/wiki/Death_in_Small_Doses_(1995_film)" title="Death in Small Doses (1995 film)">Death in Small Doses</a></b></i> is a dramatization of the real-life death of Nancy Lyon by arsenic poisoning?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aspar Aswin]]></title>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Neotrombicula_fujigmo</id>
         <link href="https://en.wikipedia.org/wiki/Neotrombicula_fujigmo"/>
         <updated>2022-12-20T05:38:41.766Z</updated>
-        <content type="html"><![CDATA[... that the mite <i><b><a href="/wiki/Neotrombicula_fujigmo" title="Neotrombicula fujigmo">Neotrombicula fujigmo</a></b></i> gets its name from the American military acronym "Fuck you, Jack, I got my orders"?]]></content>
+        <content type="html"><![CDATA[... that the mite <i><b><a href="/wiki/Neotrombicula_fujigmo" title="Neotrombicula fujigmo">Neotrombicula fujigmo</a></b></i> gets its name from the American military acronym for "Fuck you, Jack, I got my orders"?]]></content>
     </entry>
 </feed>
