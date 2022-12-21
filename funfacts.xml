@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-21T05:37:38.133Z</updated>
+    <updated>2022-12-21T17:38:38.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Boudica</id>
         <link href="https://en.wikipedia.org/wiki/Boudica"/>
         <updated>2022-12-21T05:37:33.939Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Boudica" title="Boudica">Boudica</a></b><span class="nowrap">'s</span> actual name is unknown?]]></content>
+        <content type="html"><![CDATA[... that the name of <b><a href="/wiki/Boudica" title="Boudica">Boudica</a></b> may have been an honorific title?]]></content>
     </entry>
 </feed>
