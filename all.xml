@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-22T05:38:38.963Z</updated>
+    <updated>2022-12-22T17:39:43.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kim de l'Horizon (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Verrado_High_School</id>
         <link href="https://en.wikipedia.org/wiki/Verrado_High_School"/>
         <updated>2022-12-22T05:38:34.342Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Verrado_High_School" title="Verrado High School">Verrado High School</a></b> in Arizona offers all-female engineering classes?]]></content>
+        <content type="html"><![CDATA[... that in 2016 <b><a href="/wiki/Verrado_High_School" title="Verrado High School">Verrado High School</a></b> in Arizona began offering all-female engineering classes?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lin Changyi (Wikipedia — did you know?)]]></title>
