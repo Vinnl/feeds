@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-12-25T05:39:48.686Z</updated>
+    <updated>2022-12-25T17:39:58.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Signorelli)"/>
         <updated>2022-12-25T05:39:44.163Z</updated>
         <content type="html"><![CDATA[... that the horses in <a href="/wiki/Luca_Signorelli" title="Luca Signorelli">Signorelli</a>'s <i><b><a href="/wiki/Adoration_of_the_Magi_(Signorelli)" title="Adoration of the Magi (Signorelli)">Adoration of the Magi</a></b></i> <i>(pictured)</i> have been said to be "badly-drawn&nbsp;... with curious mannerisms of too closely-placed nostrils, and human eyebrows"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[their red holiday cups]]></title>
-        <id>https://en.wikipedia.org/wiki/Starbucks_Red_Cup</id>
-        <link href="https://en.wikipedia.org/wiki/Starbucks_Red_Cup"/>
-        <updated>2022-12-25T05:39:44.164Z</updated>
-        <content type="html"><![CDATA[... that Starbucks raised money for <a href="/wiki/HIV/AIDS_research" title="HIV/AIDS research">HIV/AIDS research</a> using <b><a href="/wiki/Starbucks_Red_Cup" title="Starbucks Red Cup">their red holiday cups</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Navidades]]></title>
@@ -41,11 +34,18 @@
         <content type="html"><![CDATA[... that critics were confused by <b><a href="/wiki/Drummer_Boy_(Justin_Bieber_song)" title="Drummer Boy (Justin Bieber song)">Justin Bieber's version</a></b> of "Drummer Boy", in which he raps about himself and consumer products, which was seen to bastardize the original sentiment?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elizabeth Mary Wells]]></title>
-        <id>https://en.wikipedia.org/wiki/Elizabeth_Mary_Wells</id>
-        <link href="https://en.wikipedia.org/wiki/Elizabeth_Mary_Wells"/>
-        <updated>2022-12-25T05:39:44.179Z</updated>
-        <content type="html"><![CDATA[... that after amputating the same limb six years earlier, <b><a href="/wiki/Elizabeth_Mary_Wells" title="Elizabeth Mary Wells">Elizabeth Mary Wells</a></b> fitted a girl with a prosthetic arm for Christmas?]]></content>
+        <title type="html"><![CDATA[The Littlest Angel]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Littlest_Angel</id>
+        <link href="https://en.wikipedia.org/wiki/The_Littlest_Angel"/>
+        <updated>2022-12-25T17:39:53.711Z</updated>
+        <content type="html"><![CDATA[... that the classic children's Christmas story <i><b><a href="/wiki/The_Littlest_Angel" title="The Littlest Angel">The Littlest Angel</a></b></i> was written in just three days?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[their red holiday cups]]></title>
+        <id>https://en.wikipedia.org/wiki/Starbucks_Red_Cup</id>
+        <link href="https://en.wikipedia.org/wiki/Starbucks_Red_Cup"/>
+        <updated>2022-12-25T05:39:44.164Z</updated>
+        <content type="html"><![CDATA[... that Starbucks raised money for <a href="/wiki/HIV/AIDS_research" title="HIV/AIDS research">HIV/AIDS research</a> using <b><a href="/wiki/Starbucks_Red_Cup" title="Starbucks Red Cup">their red holiday cups</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vom Himmel hoch]]></title>
