@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2022-12-31T05:37:43.295Z</updated>
+    <updated>2023-01-01T05:37:18.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Vatican City]]></title>
-        <id>https://en.wikivoyage.org/wiki/Rome/Vatican</id>
-        <link href="https://en.wikivoyage.org/wiki/Rome/Vatican"/>
-        <updated>2022-12-02T05:37:57.020Z</updated>
+        <title type="html"><![CDATA[Yaowarat and Phahurat]]></title>
+        <id>https://en.wikivoyage.org/wiki/Bangkok/Yaowarat_and_Phahurat</id>
+        <link href="https://en.wikivoyage.org/wiki/Bangkok/Yaowarat_and_Phahurat"/>
+        <updated>2023-01-01T05:37:17.307Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:20%">
-		<h2><span class="mw-headline" id="Vatican_City"><a href="/wiki/Rome/Vatican" title="Rome/Vatican">Vatican City</a></span></h2>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
+		<h2><span class="mw-headline" id="Yaowarat_and_Phahurat"><a href="/wiki/Bangkok/Yaowarat_and_Phahurat" title="Bangkok/Yaowarat and Phahurat">Yaowarat and Phahurat</a></span></h2>
 		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Rome/Vatican" title="Rome/Vatican">The world's smallest country is the headquarters of the Roman Catholic Church and has an impressive art collection.</a></div>
+		<div class="quote"><a href="/wiki/Bangkok/Yaowarat_and_Phahurat" title="Bangkok/Yaowarat and Phahurat">The multicultural district and Chinatown in the capital of the largest overseas Chinese community becomes particularly lively for the Chinese New Year.</a></div>
 	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Rome/Vatican"><img alt="Rome/Vatican" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/1700px-Vatican_City_dotm_banner_1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/2550px-Vatican_City_dotm_banner_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/3400px-Vatican_City_dotm_banner_1.jpg 2x" data-file-width="4436" data-file-height="1479" width="1700" height="567"></span></span>
+<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Bangkok/Yaowarat and Phahurat"><img alt="Bangkok/Yaowarat and Phahurat" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/1700px-Yaowarat_and_Phahurat_dotm_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/2550px-Yaowarat_and_Phahurat_dotm_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/3400px-Yaowarat_and_Phahurat_dotm_banner.jpg 2x" data-file-width="5097" data-file-height="1699" width="1700" height="567"></span></span>
 </p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/Rome/Vatican" title="Rome/Vatican"><img alt="Rome/Vatican" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/1700px-Vatican_City_dotm_banner_1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/2550px-Vatican_City_dotm_banner_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vatican_City_dotm_banner_1.jpg/3400px-Vatican_City_dotm_banner_1.jpg 2x" data-file-width="4436" data-file-height="1479" width="1700" height="567"></a></span></div>]]></content>
+	<span typeof="mw:File/Frameless"><a href="/wiki/Bangkok/Yaowarat_and_Phahurat" title="Bangkok/Yaowarat and Phahurat"><img alt="Bangkok/Yaowarat and Phahurat" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/1700px-Yaowarat_and_Phahurat_dotm_banner.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/2550px-Yaowarat_and_Phahurat_dotm_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yaowarat_and_Phahurat_dotm_banner.jpg/3400px-Yaowarat_and_Phahurat_dotm_banner.jpg 2x" data-file-width="5097" data-file-height="1699" width="1700" height="567"></a></span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gävle]]></title>
@@ -29,7 +29,7 @@
         <link href="https://en.wikivoyage.org/wiki/G%C3%A4vle"/>
         <updated>2022-12-11T05:38:01.542Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Driving_in_South_Africa"/>
         <updated>2022-12-21T17:38:37.572Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:50%">
