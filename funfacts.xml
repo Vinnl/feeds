@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-01-28T05:39:39.978Z</updated>
+    <updated>2023-01-28T17:37:32.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[... that of up to 300 bullets fired in the <b><a href="/wiki/Ash_Street_shootout" title="Ash Street shootout">Ash Street shootout</a></b> between U.S. Army Rangers and alleged drug dealers, none were reported to have hit anyone?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Janaki Ballabh]]></title>
-        <id>https://en.wikipedia.org/wiki/Janaki_Ballabh</id>
-        <link href="https://en.wikipedia.org/wiki/Janaki_Ballabh"/>
-        <updated>2023-01-28T05:39:35.384Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Sinology" title="Sinology">sinologist</a> <b><a href="/wiki/Janaki_Ballabh" title="Janaki Ballabh">Janaki Ballabh</a></b> was the first Indian to be given a long-term residency in China?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[an autobiographical novel]]></title>
         <id>https://en.wikipedia.org/wiki/Parents%27_Day_(novel)</id>
         <link href="https://en.wikipedia.org/wiki/Parents%27_Day_(novel)"/>
@@ -59,6 +52,6 @@
         <id>https://en.wikipedia.org/wiki/%C3%90%C3%A0n_Tre</id>
         <link href="https://en.wikipedia.org/wiki/%C3%90%C3%A0n_Tre"/>
         <updated>2023-01-28T05:39:35.388Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/%C3%90%C3%A0n_Tre" title="Ðàn Tre">Ðàn Tre</a></b> uses an <a href="/wiki/Olive_oil" title="Olive oil">olive oil</a> can to make music?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/%C3%90%C3%A0n_Tre" class="mw-redirect" title="Ðàn Tre">Ðàn Tre</a></b> uses an <a href="/wiki/Olive_oil" title="Olive oil">olive oil</a> can to make music?]]></content>
     </entry>
 </feed>
