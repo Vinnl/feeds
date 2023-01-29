@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-01-29T05:39:57.534Z</updated>
+    <updated>2023-01-29T17:39:12.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Three_Tuns,_Alcester</id>
         <link href="https://en.wikipedia.org/wiki/Three_Tuns,_Alcester"/>
         <updated>2023-01-29T05:39:52.682Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Three_Tuns,_Alcester" title="Three Tuns, Alcester">Three Tuns</a></b>, a 17th-century pub in Alcester, has been left roofless since a 2021 fire?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Three_Tuns,_Alcester" title="Three Tuns, Alcester">Three Tuns</a></b>, a 17th-century pub in <a href="/wiki/Alcester" title="Alcester">Alcester</a>, has been left roofless since a 2021 fire?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solihin G. P.]]></title>
