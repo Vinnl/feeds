@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-02-06T05:38:47.185Z</updated>
+    <updated>2023-02-06T17:41:30.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/James_Kirkham_Ramsbottom</id>
         <link href="https://en.wikipedia.org/wiki/James_Kirkham_Ramsbottom"/>
         <updated>2023-02-06T05:38:42.488Z</updated>
-        <content type="html"><![CDATA[... that during World War I, <b><a href="/wiki/James_Kirkham_Ramsbottom" title="James Kirkham Ramsbottom">James Kirkham Ramsbottom</a></b> saved the British <a href="/wiki/Narcissus_(plant)" title="Narcissus (plant)">daffodil</a> industry?]]></content>
+        <content type="html"><![CDATA[... that during the First World War, <b><a href="/wiki/James_Kirkham_Ramsbottom" title="James Kirkham Ramsbottom">James Kirkham Ramsbottom</a></b> saved the British <a href="/wiki/Narcissus_(plant)" title="Narcissus (plant)">daffodil</a> industry?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[801 Grand]]></title>
