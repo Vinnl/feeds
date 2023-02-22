@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-22T05:37:35.150Z</updated>
+    <updated>2023-02-22T17:38:07.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Portrait of George Washington Taking the Salute at Trenton (Wikipedia — did you know?)]]></title>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[... that <a href="/wiki/College_basketball" title="College basketball">college basketball</a> player <b><a href="/wiki/Jett_Howard" title="Jett Howard">Jett Howard</a></b> almost signed at <a href="/wiki/Tennessee_Volunteers_basketball" title="Tennessee Volunteers basketball">Tennessee</a>, but instead chose the <a href="/wiki/Michigan_Wolverines_men%27s_basketball" title="Michigan Wolverines men's basketball">Michigan team</a> of his father <a href="/wiki/Juwan_Howard" title="Juwan Howard">Juwan Howard</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[prosecuted for comparing the Turkish President Recep Tayyip Erdoğan to Gollum (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Erdo%C4%9Fan-Gollum_comparison_trials</id>
-        <link href="https://en.wikipedia.org/wiki/Erdo%C4%9Fan-Gollum_comparison_trials"/>
-        <updated>2023-02-22T05:37:30.540Z</updated>
-        <content type="html"><![CDATA[... that one could get <b><a href="/wiki/Erdo%C4%9Fan-Gollum_comparison_trials" title="Erdoğan-Gollum comparison trials">prosecuted for comparing the Turkish President Recep Tayyip Erdoğan to Gollum</a></b>, a character from <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[prosecuted for comparing the Turkish President Erdoğan to Gollum (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Erdo%C4%9Fan%E2%80%93Gollum_comparison_trials</id>
+        <link href="https://en.wikipedia.org/wiki/Erdo%C4%9Fan%E2%80%93Gollum_comparison_trials"/>
+        <updated>2023-02-22T17:38:02.873Z</updated>
+        <content type="html"><![CDATA[... that one could get <b><a href="/wiki/Erdo%C4%9Fan%E2%80%93Gollum_comparison_trials" title="Erdoğan–Gollum comparison trials">prosecuted for comparing the Turkish President Erdoğan to Gollum</a></b>, a character from <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bellwood station (Wikipedia — did you know?)]]></title>
