@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-03-05T05:37:33.166Z</updated>
+    <updated>2023-03-05T17:37:20.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Muchlis_Ibrahim</id>
         <link href="https://en.wikipedia.org/wiki/Muchlis_Ibrahim"/>
         <updated>2023-03-05T05:37:29.033Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Muchlis_Ibrahim" title="Muchlis Ibrahim">Muchlis Ibrahim</a></b> opted to resign as governor when <b><a href="/wiki/Zainal_Bakar" title="Zainal Bakar">Zainal Bakar</a></b> was appointed to be his deputy instead of his choice?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Muchlis_Ibrahim" title="Muchlis Ibrahim">Muchlis Ibrahim</a></b> opted to resign as <a href="/wiki/List_of_governors_of_West_Sumatra" title="List of governors of West Sumatra">Governor of West Sumatra</a> when <b><a href="/wiki/Zainal_Bakar" title="Zainal Bakar">Zainal Bakar</a></b>, instead of his choice, was appointed to be his deputy?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a radio station in Illinois]]></title>
