@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-03-06T05:38:17.369Z</updated>
+    <updated>2023-03-06T17:39:43.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Daikoku_Seamount</id>
         <link href="https://en.wikipedia.org/wiki/Daikoku_Seamount"/>
         <updated>2023-03-06T05:38:13.206Z</updated>
-        <content type="html"><![CDATA[... that a boiling pond of liquid <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> was discovered at the summit crater of the <b><a href="/wiki/Daikoku_Seamount" title="Daikoku Seamount">Daikoku Seamount</a></b> in 2006 in the <a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a>?]]></content>
+        <content type="html"><![CDATA[... that a pond of liquid <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> was discovered at the summit crater of the <b><a href="/wiki/Daikoku_Seamount" title="Daikoku Seamount">Daikoku Seamount</a></b> in 2006 in the <a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[John McClaughry]]></title>
