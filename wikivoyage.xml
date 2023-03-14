@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Vinnl.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-03-14T10:34:36.865Z</updated>
+    <id>https://en.wikivoyage.org/wiki/Main_Page</id>
+    <title>Wikivoyage recommendations</title>
+    <updated>2023-03-14T10:34:36.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Constitutional Court of the State of Berlin (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Constitutional_Court_of_the_State_of_Berlin</id>
-        <link href="https://en.wikipedia.org/wiki/Constitutional_Court_of_the_State_of_Berlin"/>
-        <updated>2023-03-14T10:34:32.125Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Constitutional_Court_of_the_State_of_Berlin" title="Constitutional Court of the State of Berlin">Constitutional Court of the State of Berlin</a></b> <i>(building pictured)</i> voided the <a href="/wiki/2021_Berlin_state_election" title="2021 Berlin state election">2021 Berlin state election</a> and ordered <a href="/wiki/2023_Berlin_repeat_state_election" title="2023 Berlin repeat state election">a repeat election</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SailRail (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/SailRail</id>
-        <link href="https://en.wikipedia.org/wiki/SailRail"/>
-        <updated>2023-03-14T10:34:32.134Z</updated>
-        <content type="html"><![CDATA[... that a <b><a href="/wiki/SailRail" title="SailRail">SailRail</a></b> ticket allows travel from any station in Britain to any station in Ireland?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[al-Adid (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Al-Adid</id>
-        <link href="https://en.wikipedia.org/wiki/Al-Adid"/>
-        <updated>2023-03-14T10:34:32.135Z</updated>
-        <content type="html"><![CDATA[... that the last <a href="/wiki/Fatimid_Caliphate" title="Fatimid Caliphate">Fatimid caliph</a>, <b><a href="/wiki/Al-Adid" title="Al-Adid">al-Adid</a></b>, came to the throne as a child, was dominated by his <a href="/wiki/Vizier_(Fatimid_Caliphate)" title="Vizier (Fatimid Caliphate)">viziers</a>, and died a few days after <a href="/wiki/Saladin" title="Saladin">Saladin</a> abolished the Fatimid regime?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shooting of Jason Harley Kloepfer (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Shooting_of_Jason_Harley_Kloepfer</id>
-        <link href="https://en.wikipedia.org/wiki/Shooting_of_Jason_Harley_Kloepfer"/>
-        <updated>2023-03-14T10:34:32.135Z</updated>
-        <content type="html"><![CDATA[... that according to media outlet <a href="/wiki/WLOS" title="WLOS">WLOS</a>, surveillance footage appears to contradict the initial police account of the <b><a href="/wiki/Shooting_of_Jason_Harley_Kloepfer" title="Shooting of Jason Harley Kloepfer">shooting of Jason Harley Kloepfer</a></b> at his home in <a href="/wiki/Murphy,_North_Carolina" title="Murphy, North Carolina">Murphy, North Carolina</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fionula Brennan (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Fionula_Brennan</id>
-        <link href="https://en.wikipedia.org/wiki/Fionula_Brennan"/>
-        <updated>2023-03-14T10:34:32.137Z</updated>
-        <content type="html"><![CDATA[... that  <b><a href="/wiki/Fionula_Brennan" title="Fionula Brennan">Fionula Brennan</a></b><span class="nowrap">'s</span> experiments with <a href="/wiki/Cytokine" title="Cytokine">cytokines</a> led to new therapies to treat <a href="/wiki/Rheumatoid_arthritis" title="Rheumatoid arthritis">rheumatoid arthritis</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear White Staffers (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Dear_White_Staffers</id>
-        <link href="https://en.wikipedia.org/wiki/Dear_White_Staffers"/>
-        <updated>2023-03-14T10:34:32.139Z</updated>
-        <content type="html"><![CDATA[... that two years after Instagram's <b><a href="/wiki/Dear_White_Staffers" title="Dear White Staffers">Dear White Staffers</a></b> started out as a small <a href="/wiki/Internet_meme" title="Internet meme">meme</a> account, it was credited with kickstarting the unionization of U.S. <a href="/wiki/Congressional_staff" title="Congressional staff">congressional staff</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panagiotis Stamatakis (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Panagiotis_Stamatakis</id>
-        <link href="https://en.wikipedia.org/wiki/Panagiotis_Stamatakis"/>
-        <updated>2023-03-14T10:34:32.140Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Panagiotis_Stamatakis" title="Panagiotis Stamatakis">Panagiotis Stamatakis</a></b> and <a href="/wiki/Heinrich_Schliemann" title="Heinrich Schliemann">Heinrich Schliemann</a> quarrelled so much during their excavations at <a href="/wiki/Mycenae" title="Mycenae">Mycenae</a> that they spoke only through intermediaries?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micronations (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Micronation</id>
-        <link href="https://en.wikipedia.org/wiki/Micronation"/>
-        <updated>2023-03-14T10:34:32.143Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Micronation" title="Micronation">micronations</a></b> have claimed territory in Antarctica, in <a href="/wiki/International_waters" title="International waters">international waters</a>, and in space?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Columbia (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[British Columbia]]></title>
         <id>https://en.wikivoyage.org/wiki/British_Columbia</id>
         <link href="https://en.wikivoyage.org/wiki/British_Columbia"/>
         <updated>2023-03-14T10:34:36.090Z</updated>
@@ -79,7 +24,7 @@
 	<span typeof="mw:File/Frameless"><a href="/wiki/British_Columbia" title="British Columbia"><img alt="British Columbia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/1700px-BC_banner_3.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/2550px-BC_banner_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/3400px-BC_banner_3.jpg 2x" data-file-width="5472" data-file-height="1825" width="1700" height="567"></a></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guanajuato (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[Guanajuato]]></title>
         <id>https://en.wikivoyage.org/wiki/Guanajuato</id>
         <link href="https://en.wikivoyage.org/wiki/Guanajuato"/>
         <updated>2023-03-14T10:34:36.092Z</updated>
@@ -97,7 +42,7 @@
 	<span typeof="mw:File/Frameless"><a href="/wiki/Guanajuato" title="Guanajuato"><img alt="Guanajuato" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/1700px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/2550px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/3400px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 2x" data-file-width="5536" data-file-height="1846" width="1700" height="567"></a></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indira Gandhi International Airport (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[Indira Gandhi International Airport]]></title>
         <id>https://en.wikivoyage.org/wiki/Indira_Gandhi_International_Airport</id>
         <link href="https://en.wikivoyage.org/wiki/Indira_Gandhi_International_Airport"/>
         <updated>2023-03-14T10:34:36.092Z</updated>
