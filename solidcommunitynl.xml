@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Vinnl.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-03-14T10:23:57.464Z</updated>
+    <id>https://www.solidcommunity.nl/blog.html</id>
+    <title>Solid Community Netherlands</title>
+    <updated>2023-03-14T10:23:57.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.solidcommunity.nl/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Over datakluizen, een app-store en privacyvriendelijk data delen met externe services (Solid Community Netherlands)]]></title>
+        <title type="html"><![CDATA[Over datakluizen, een app-store en privacyvriendelijk data delen met externe services]]></title>
         <id>https://www.solidcommunity.nl/blog2.0.html</id>
         <link href="https://www.solidcommunity.nl/blog2.0.html"/>
         <updated>2023-03-14T10:23:56.414Z</updated>
@@ -25,7 +26,7 @@
         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Over EDI-wallets, datakluizen en pizza's (Solid Community Netherlands)]]></title>
+        <title type="html"><![CDATA[Over EDI-wallets, datakluizen en pizza's]]></title>
         <id>https://www.solidcommunity.nl/blog1.0.html</id>
         <link href="https://www.solidcommunity.nl/blog1.0.html"/>
         <updated>2023-03-14T10:23:56.420Z</updated>
