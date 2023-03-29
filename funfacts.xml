@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-03-29T05:38:01.485Z</updated>
+    <updated>2023-03-29T18:07:23.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[... that the <b><a href="/wiki/Clock_Tower_of_Haridwar" title="Clock Tower of Haridwar">Clock Tower of Haridwar</a></b> <i>(pictured)</i> in India provides a good location from which to watch the evening prayers at <a href="/wiki/Har_Ki_Pauri" title="Har Ki Pauri">Har Ki Pauri</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[murder and dismemberment of his stepdaughter and her fiancé in 1982]]></title>
+        <title type="html"><![CDATA[1982 murder and dismemberment of his stepdaughter and her fiancé]]></title>
         <id>https://en.wikipedia.org/wiki/Murders_of_Annette_Cooper_and_Todd_Schultz</id>
         <link href="https://en.wikipedia.org/wiki/Murders_of_Annette_Cooper_and_Todd_Schultz"/>
         <updated>2023-03-29T05:37:57.066Z</updated>
-        <content type="html"><![CDATA[... that Dale Johnston was declared innocent of the <b><a href="/wiki/Murders_of_Annette_Cooper_and_Todd_Schultz" title="Murders of Annette Cooper and Todd Schultz">murder and dismemberment of his stepdaughter and her fiancé in 1982</a></b>, 30 years after being sentenced to death for it?]]></content>
+        <content type="html"><![CDATA[... that in 2012, Dale Johnston was declared innocent of the <b><a href="/wiki/Murders_of_Annette_Cooper_and_Todd_Schultz" title="Murders of Annette Cooper and Todd Schultz">1982 murder and dismemberment of his stepdaughter and her fiancé</a></b>, after being sentenced to death for it in 1984?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kasman Singodimedjo]]></title>
