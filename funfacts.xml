@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-02T05:37:28.579Z</updated>
+    <updated>2023-04-02T17:38:12.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Lewes_Road,_Brighton</id>
         <link href="https://en.wikipedia.org/wiki/Lewes_Road,_Brighton"/>
         <updated>2023-04-02T05:37:24.118Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Lewes_Road,_Brighton" title="Lewes Road, Brighton">Lewes Road</a></b> in Brighton has a gyratory named after a pornographic cinema?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Lewes_Road,_Brighton" title="Lewes Road, Brighton">Lewes Road</a></b> in Brighton has a <a href="/wiki/Roundabout#Gyratory_system" title="Roundabout">gyratory</a> named after a pornographic cinema?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Firebird]]></title>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Avi_Kwa_Ame_National_Monument</id>
         <link href="https://en.wikipedia.org/wiki/Avi_Kwa_Ame_National_Monument"/>
         <updated>2023-04-02T05:37:24.124Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Avi_Kwa_Ame_National_Monument" title="Avi Kwa Ame National Monument">Avi Kwa Ame National Monument</a></b>, protected as a <a href="/wiki/National_monument_(United_States)" title="National monument (United States)">national monument</a> since March&nbsp;21, is a significant habitat of <a href="/wiki/Yucca_brevifolia" title="Yucca brevifolia">Joshua trees</a> and threatened <a href="/wiki/Desert_tortoise" title="Desert tortoise">desert tortoises</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Avi_Kwa_Ame_National_Monument" title="Avi Kwa Ame National Monument">Avi Kwa Ame National Monument</a></b>, protected as a <a href="/wiki/National_monument_(United_States)" title="National monument (United States)">national monument</a> since March&nbsp;21, 2023, is a significant habitat of <a href="/wiki/Yucca_brevifolia" title="Yucca brevifolia">Joshua trees</a> and threatened <a href="/wiki/Desert_tortoise" title="Desert tortoise">desert tortoises</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jen Zee]]></title>
