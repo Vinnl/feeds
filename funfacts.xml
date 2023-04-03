@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-03T05:37:46.327Z</updated>
+    <updated>2023-04-03T17:37:21.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Chemirocha</id>
         <link href="https://en.wikipedia.org/wiki/Chemirocha"/>
         <updated>2023-04-03T05:37:41.812Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Kipsigis_people" title="Kipsigis people">Kipsigis people</a> referred to American singer <a href="/wiki/Jimmie_Rodgers" title="Jimmie Rodgers">Jimmie Rodgers</a> as "<b><a href="/wiki/Chemirocha" title="Chemirocha">Chemirocha</a></b>" and they had a folk song about him?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Kipsigis_people" title="Kipsigis people">Kipsigis people</a> wrote a folk song about American singer <a href="/wiki/Jimmie_Rodgers" title="Jimmie Rodgers">Jimmie Rodgers</a>, whom they called "<b><a href="/wiki/Chemirocha" title="Chemirocha">Chemirocha</a></b>"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iyarkai]]></title>
