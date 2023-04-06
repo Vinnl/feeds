@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-06T05:38:09.904Z</updated>
+    <updated>2023-04-06T17:37:36.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Omar_(opera)</id>
         <link href="https://en.wikipedia.org/wiki/Omar_(opera)"/>
         <updated>2023-04-06T05:38:05.681Z</updated>
-        <content type="html"><![CDATA[... that the opera&nbsp;<i><b><a href="/wiki/Omar_(opera)" title="Omar (opera)">Omar</a></b></i>, about the Muslim scholar&nbsp;<a href="/wiki/Omar_ibn_Said" title="Omar ibn Said">Omar ibn Said</a>, had its world premiere in a theater located less than a mile (1.6&nbsp;km) from the site where he was sold as a slave?]]></content>
+        <content type="html"><![CDATA[... that the opera&nbsp;<i><b><a href="/wiki/Omar_(opera)" title="Omar (opera)">Omar</a></b></i>, about the Muslim scholar&nbsp;<a href="/wiki/Omar_ibn_Said" title="Omar ibn Said">Omar ibn Said</a>, had its world premiere in a theater located less than a mile from the site where he was sold as a slave?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Panzer Dragoon II Zwei]]></title>
