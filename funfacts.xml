@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-08T05:37:40.697Z</updated>
+    <updated>2023-04-08T17:38:15.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Samuele_Parlati</id>
         <link href="https://en.wikipedia.org/wiki/Samuele_Parlati"/>
         <updated>2023-04-08T05:37:36.150Z</updated>
-        <content type="html"><![CDATA[... that in February&nbsp;2023, <b><a href="/wiki/Samuele_Parlati" title="Samuele Parlati">Samuele Parlati</a></b> became one of the few Italian professional <a href="/wiki/Association_football#Gameplay" title="Association football">outfield footballers</a> to save a <a href="/wiki/Penalty_kick_(association_football)" title="Penalty kick (association football)">penalty kick</a> while <a href="/wiki/List_of_outfield_association_footballers_who_played_in_goal" title="List of outfield association footballers who played in goal">playing in goal</a>?]]></content>
+        <content type="html"><![CDATA[... that in February&nbsp;2023, Italian footballer <b><a href="/wiki/Samuele_Parlati" title="Samuele Parlati">Samuele Parlati</a></b> saved a <a href="/wiki/Penalty_kick_(association_football)" title="Penalty kick (association football)">penalty kick</a> while playing as an <a href="/wiki/List_of_outfield_association_footballers_who_played_in_goal" title="List of outfield association footballers who played in goal">emergency goalkeeper</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Beautiful Letdown]]></title>
