@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-10T05:37:42.024Z</updated>
+    <updated>2023-04-10T17:37:24.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://en.wikipedia.org/wiki/Hummingbird</id>
         <link href="https://en.wikipedia.org/wiki/Hummingbird"/>
         <updated>2023-04-10T05:37:37.857Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hummingbird" title="Hummingbird">hummingbirds</a></b> <i>(example pictured)</i> need the <a href="/wiki/Human_equivalent" title="Human equivalent">human equivalent</a> of more than 150,000 calories every day?]]></content>
+        <content type="html"><![CDATA[... that flying <b><a href="/wiki/Hummingbird" title="Hummingbird">hummingbirds</a></b> <i>(example pictured)</i> use oxygen at a rate which is relatively ten times greater than elite athletes?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the Apthorp]]></title>
         <id>https://en.wikipedia.org/wiki/The_Apthorp</id>
         <link href="https://en.wikipedia.org/wiki/The_Apthorp"/>
         <updated>2023-04-10T05:37:37.863Z</updated>
-        <content type="html"><![CDATA[... that when a tourist's corpse was found atop <b><a href="/wiki/The_Apthorp" title="The Apthorp">the Apthorp</a></b>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> wrote that it struck some tenants not as an oddity but as a metaphor for life there?]]></content>
+        <content type="html"><![CDATA[... that when a tourist's corpse was found atop <b><a href="/wiki/The_Apthorp" title="The Apthorp">the Apthorp</a></b>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> wrote that "it struck some tenants not as an oddity but as a metaphor" for life there?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agus Salim Rangkuti]]></title>
