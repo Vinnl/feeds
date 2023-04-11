@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-11T05:37:50.259Z</updated>
+    <updated>2023-04-11T17:37:47.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/BRAAAM</id>
         <link href="https://en.wikipedia.org/wiki/BRAAAM"/>
         <updated>2023-04-11T05:37:45.956Z</updated>
-        <content type="html"><![CDATA[... that there is a name&nbsp;– <i><b><a href="/wiki/BRAAAM" title="BRAAAM">BRAAAM</a></b></i>&nbsp;– for the loud&nbsp;– <i>BRAAAM</i>&nbsp;– low horn sound <i>(featured)</i>&nbsp;– <i>BRAAAM</i>&nbsp;– made popular by action film <a href="/wiki/Trailer_(promotion)" title="Trailer (promotion)">trailers</a>?]]></content>
+        <content type="html"><![CDATA[... that the loud low horn sound <i>(featured)</i> that often appears in action film <a href="/wiki/Trailer_(promotion)" title="Trailer (promotion)">trailers</a> is known as <b><a href="/wiki/BRAAAM" title="BRAAAM">BRAAAM</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100 beerhouses were licensed in Brighton]]></title>
