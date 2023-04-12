@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-12T05:37:56.630Z</updated>
+    <updated>2023-04-12T17:38:13.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Pizza_dolce_di_Beridde</id>
         <link href="https://en.wikipedia.org/wiki/Pizza_dolce_di_Beridde"/>
         <updated>2023-04-12T05:37:52.469Z</updated>
-        <content type="html"><![CDATA[... that the <i><b><a href="/wiki/Pizza_dolce_di_Beridde" title="Pizza dolce di Beridde">pizza dolce di Beridde</a></b></i> <i>(pictured)</i> was reportedly the favorite dessert of <a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">Pope Benedict&nbsp;XVI</a>?]]></content>
+        <content type="html"><![CDATA[... that the Jewish-Roman <i><b><a href="/wiki/Pizza_dolce_di_Beridde" title="Pizza dolce di Beridde">pizza dolce di Beridde</a></b></i> <i>(pictured)</i> was reportedly the favorite dessert of <a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">Pope Benedict&nbsp;XVI</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[John Hoke III]]></title>
