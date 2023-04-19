@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-04-19T05:42:03.952Z</updated>
+    <updated>2023-04-19T17:37:37.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Letitia_Christian_Tyler</id>
         <link href="https://en.wikipedia.org/wiki/Letitia_Christian_Tyler"/>
         <updated>2023-04-19T05:41:59.272Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Letitia_Christian_Tyler" title="Letitia Christian Tyler">Letitia Christian Tyler</a></b> <i>(pictured)</i> was the first <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">United States first lady</a> to die in the role?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Letitia_Christian_Tyler" title="Letitia Christian Tyler">Letitia Christian Tyler</a></b> <i>(depicted)</i> was the first <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">United States first lady</a> to die in the role?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Northeastern Army]]></title>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/BlueforSudan</id>
         <link href="https://en.wikipedia.org/wiki/BlueforSudan"/>
         <updated>2023-04-19T05:41:59.274Z</updated>
-        <content type="html"><![CDATA[... that Rihanna and Dua Lipa participated in <b><a href="/wiki/BlueforSudan" title="BlueforSudan">#BlueforSudan</a></b> to bring attention to the 3&nbsp;June 2019 <a href="/wiki/Khartoum_massacre" title="Khartoum massacre">Khartoum massacre</a>?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Rihanna" title="Rihanna">Rihanna</a> and <a href="/wiki/Dua_Lipa" title="Dua Lipa">Dua Lipa</a> participated in <b><a href="/wiki/BlueforSudan" title="BlueforSudan">#BlueforSudan</a></b> to bring attention to the 3&nbsp;June 2019 <a href="/wiki/Khartoum_massacre" title="Khartoum massacre">Khartoum massacre</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[323P/SOHO]]></title>
