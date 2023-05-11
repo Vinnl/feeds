@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-11T05:37:36.700Z</updated>
+    <updated>2023-05-11T17:37:45.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that German president <a href="/wiki/Joachim_Gauck" title="Joachim Gauck">Joachim Gauck</a>, a former <a href="/wiki/Lutheranism" title="Lutheranism">Lutheran</a> pastor, visited <b><a href="/wiki/St._Francis_Cathedral,_Xi%27an" title="St. Francis Cathedral, Xi'an">St.&nbsp;Francis Cathedral</a></b> in <a href="/wiki/Xi%27an" title="Xi'an">Xi'an</a>, China, 300 years after construction began?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M. Soegiono]]></title>
-        <id>https://en.wikipedia.org/wiki/M._Soegiono</id>
-        <link href="https://en.wikipedia.org/wiki/M._Soegiono"/>
-        <updated>2023-05-11T05:37:32.124Z</updated>
-        <content type="html"><![CDATA[... that former <a href="/wiki/East_Java" title="East Java">East Java</a> vice governor <b><a href="/wiki/M._Soegiono" title="M. Soegiono">M.&nbsp;Soegiono</a></b> was a football player before entering the civil service?]]></content>
+        <title type="html"><![CDATA[Vanita Jagdeo Borade]]></title>
+        <id>https://en.wikipedia.org/wiki/Vanita_Jagdeo_Borade</id>
+        <link href="https://en.wikipedia.org/wiki/Vanita_Jagdeo_Borade"/>
+        <updated>2023-05-11T17:37:41.337Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Vanita_Jagdeo_Borade" title="Vanita Jagdeo Borade">Vanita Jagdeo Borade</a></b> has been called the "snake woman" for having rescued more than 50,000 snakes?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[N54 road]]></title>
