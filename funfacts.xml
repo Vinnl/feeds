@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-15T05:37:31.866Z</updated>
+    <updated>2023-05-15T17:37:47.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/2023_Tour_Championship</id>
         <link href="https://en.wikipedia.org/wiki/2023_Tour_Championship"/>
         <updated>2023-05-15T05:37:27.728Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Kyren_Wilson" title="Kyren Wilson">Kyren Wilson</a> won the first four <dfn id=""><a href="/wiki/Glossary_of_cue_sports_terms#frame" title="Glossary of cue sports terms"><span title="See entry at: Glossary of cue sports terms § frame" style="color:inherit;" class="glossary-link">frames</span></a></dfn> in all of his matches at the <b><a href="/wiki/2023_Tour_Championship" title="2023 Tour Championship">2023 Tour Championship</a></b>?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Kyren_Wilson" title="Kyren Wilson">Kyren Wilson</a> won the first four <dfn id=""><a href="/wiki/Glossary_of_cue_sports_terms#frame" title="Glossary of cue sports terms"><span title="See entry at: Glossary of cue sports terms § frame" style="color:inherit;" class="glossary-link">frames</span></a></dfn> in all of his snooker matches at the <b><a href="/wiki/2023_Tour_Championship" title="2023 Tour Championship">2023 Tour Championship</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a 2020 ballot initiative]]></title>
