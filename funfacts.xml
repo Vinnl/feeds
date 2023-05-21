@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-21T05:37:25.935Z</updated>
+    <updated>2023-05-21T17:37:19.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Pimlico_tube_station</id>
         <link href="https://en.wikipedia.org/wiki/Pimlico_tube_station"/>
         <updated>2023-05-21T05:37:21.459Z</updated>
-        <content type="html"><![CDATA[... that although several buildings surrounding the <b><a href="/wiki/Pimlico_tube_station" title="Pimlico tube station">Pimlico tube station</a></b> are <a href="/wiki/Listed_building#Categories_of_listed_building" title="Listed building">Grade&nbsp;II listed</a>, the tube station itself is not?]]></content>
+        <content type="html"><![CDATA[... that although several buildings surrounding <b><a href="/wiki/Pimlico_tube_station" title="Pimlico tube station">Pimlico tube station</a></b> are <a href="/wiki/Listed_building#Categories_of_listed_building" title="Listed building">Grade&nbsp;II listed</a>, the tube station itself is not?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dafne Navarro]]></title>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Logic</id>
         <link href="https://en.wikipedia.org/wiki/Logic"/>
         <updated>2023-05-21T05:37:21.464Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s system of <b><a href="/wiki/Logic" title="Logic">logic</a></b> formed the foundation of logical thought for more than 2,000 years until the advent of modern symbolic logic?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s system of <b><a href="/wiki/Logic" title="Logic">logic</a></b> formed the foundation of logical thought in the <a href="/wiki/Western_world" title="Western world">Western world</a> for more than 2,000 years until the advent of modern symbolic logic?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Irma Blank]]></title>
