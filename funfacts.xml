@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-23T05:37:32.851Z</updated>
+    <updated>2023-05-23T17:40:08.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>https://en.wikipedia.org/wiki/Maria_Giustina_Turcotti</id>
         <link href="https://en.wikipedia.org/wiki/Maria_Giustina_Turcotti"/>
         <updated>2023-05-23T05:37:28.259Z</updated>
-        <content type="html"><![CDATA[... that according to one critic, Italian opera singer <b><a href="/wiki/Maria_Giustina_Turcotti" title="Maria Giustina Turcotti">Maria Giustina Turcotti</a></b> "sang very well but was fat to the point of deformity"?]]></content>
+        <content type="html"><![CDATA[... that several composers wrote <a href="/wiki/Coloratura" title="Coloratura">coloratura</a> arias specifically for the voice of Italian opera singer <b><a href="/wiki/Maria_Giustina_Turcotti" title="Maria Giustina Turcotti">Maria Giustina Turcotti</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1824 US presidential election in Missouri]]></title>
+        <title type="html"><![CDATA[Missourians voting for Henry Clay]]></title>
         <id>https://en.wikipedia.org/wiki/1824_United_States_presidential_election_in_Missouri</id>
         <link href="https://en.wikipedia.org/wiki/1824_United_States_presidential_election_in_Missouri"/>
         <updated>2023-05-23T05:37:28.261Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/1824_United_States_presidential_election_in_Missouri" title="1824 United States presidential election in Missouri">1824 US presidential election in Missouri</a></b> was not decided by the <a href="/wiki/United_States_Electoral_College" title="United States Electoral College">Electoral College</a>, but by Missouri representative <a href="/wiki/John_Scott_(Missouri_politician)" title="John Scott (Missouri politician)">John Scott</a>?]]></content>
+        <content type="html"><![CDATA[... that despite <b><a href="/wiki/1824_United_States_presidential_election_in_Missouri" title="1824 United States presidential election in Missouri">Missourians voting for Henry Clay</a></b>, <a href="/wiki/Missouri" title="Missouri">Missouri</a> representative <a href="/wiki/John_Scott_(Missouri_politician)" title="John Scott (Missouri politician)">John Scott</a> voted for <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Curtis Aiken]]></title>
