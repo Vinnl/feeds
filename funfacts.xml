@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-28T05:37:38.949Z</updated>
+    <updated>2023-05-28T17:37:21.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -42,10 +42,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[transgender people in Finland]]></title>
-        <id>https://en.wikipedia.org/wiki/Transgender_history_in_Finland</id>
-        <link href="https://en.wikipedia.org/wiki/Transgender_history_in_Finland"/>
-        <updated>2023-05-28T05:37:34.298Z</updated>
-        <content type="html"><![CDATA[... that records of <b><a href="/wiki/Transgender_history_in_Finland" title="Transgender history in Finland">transgender people in Finland</a></b> stretch back to the 19th century?]]></content>
+        <id>https://en.wikipedia.org/wiki/History_of_transgender_people_in_Finland</id>
+        <link href="https://en.wikipedia.org/wiki/History_of_transgender_people_in_Finland"/>
+        <updated>2023-05-28T17:37:17.167Z</updated>
+        <content type="html"><![CDATA[... that records of <b><a href="/wiki/History_of_transgender_people_in_Finland" title="History of transgender people in Finland">transgender people in Finland</a></b> stretch back to the 19th century?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hold on Tight!]]></title>
