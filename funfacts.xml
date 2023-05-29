@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-05-29T05:37:49.115Z</updated>
+    <updated>2023-05-29T17:37:25.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Wager_Island</id>
         <link href="https://en.wikipedia.org/wiki/Wager_Island"/>
         <updated>2023-05-29T05:37:44.762Z</updated>
-        <content type="html"><![CDATA[... that of approximately 140 men stranded after a shipwreck on&nbsp;<b><a href="/wiki/Wager_Island" title="Wager Island">Wager Island</a></b>&nbsp;in 1741, only 36 returned alive to England, according to Rear Admiral C. H. Layman?]]></content>
+        <content type="html"><![CDATA[... that of approximately 140 men stranded after a shipwreck on&nbsp;<b><a href="/wiki/Wager_Island" title="Wager Island">Wager Island</a></b>&nbsp;in 1741, only 36 returned alive to Britain, according to Rear Admiral C. H. Layman?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roy McGrath]]></title>
