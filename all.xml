@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-30T05:37:58.626Z</updated>
+    <updated>2023-05-30T17:37:45.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[four sons of Horus (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/475_%C2%B0C_embrittlement</id>
         <link href="https://en.wikipedia.org/wiki/475_%C2%B0C_embrittlement"/>
         <updated>2023-05-30T05:37:54.059Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Duplex_stainless_steel" title="Duplex stainless steel">duplex stainless steel</a> can undergo <b><a href="/wiki/475_%C2%B0C_embrittlement" title="475 °C embrittlement">475&nbsp;°C embrittlement</a></b> that causes a loss of <a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">plasticity</a> when it is heated between 315&nbsp;°C (599&nbsp;°F) and 540&nbsp;°C (1,004&nbsp;°F)?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Duplex_stainless_steel" title="Duplex stainless steel">duplex stainless steel</a> can undergo <b><a href="/wiki/475_%C2%B0C_embrittlement" title="475 °C embrittlement">475&nbsp;°C embrittlement</a></b> that causes a loss of <a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">plasticity</a> when it is heated between 250&nbsp;°C and 550&nbsp;°C?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Art Greenspon (Wikipedia — did you know?)]]></title>
