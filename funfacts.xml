@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-06-05T05:37:18.856Z</updated>
+    <updated>2023-06-05T17:37:45.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Dominic_Olejniczak</id>
         <link href="https://en.wikipedia.org/wiki/Dominic_Olejniczak"/>
         <updated>2023-06-05T05:37:14.730Z</updated>
-        <content type="html"><![CDATA[... that after going <span class="nowrap">1–10–1</span> in the first season of his tenure, <a href="/wiki/Green_Bay_Packers" title="Green Bay Packers">Green Bay Packers</a> president <b><a href="/wiki/Dominic_Olejniczak" title="Dominic Olejniczak">Dominic Olejniczak</a></b> hired <a href="/wiki/Vince_Lombardi" title="Vince Lombardi">Vince Lombardi</a> and the team would go on to win five <a href="/wiki/History_of_the_National_Football_League_championship" title="History of the National Football League championship">NFL championships</a> in nine years?]]></content>
+        <content type="html"><![CDATA[... that after going <abbr title="1 win, 10 losses, 1 tie">1–10–1</abbr> in the first season of his tenure, <a href="/wiki/Green_Bay_Packers" title="Green Bay Packers">Green Bay Packers</a> president <b><a href="/wiki/Dominic_Olejniczak" title="Dominic Olejniczak">Dominic Olejniczak</a></b> hired <a href="/wiki/Vince_Lombardi" title="Vince Lombardi">Vince Lombardi</a> and the team would go on to win five <a href="/wiki/History_of_the_National_Football_League_championship" title="History of the National Football League championship">NFL championships</a> in nine years?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Confederate ship named after himself]]></title>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Caroline_Breese_Hall</id>
         <link href="https://en.wikipedia.org/wiki/Caroline_Breese_Hall"/>
         <updated>2023-06-05T05:37:14.733Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Caroline_Breese_Hall" title="Caroline Breese Hall">Caroline Breese Hall</a></b> and her father, who were both <a href="/wiki/Pediatrics" title="Pediatrics">pediatricians</a>, once wrote the same book?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Caroline_Breese_Hall" title="Caroline Breese Hall">Caroline Breese Hall</a></b> and her father, who were both <a href="/wiki/Pediatrics" title="Pediatrics">pediatricians</a>, wrote a book together?]]></content>
     </entry>
 </feed>
