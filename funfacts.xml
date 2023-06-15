@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-06-15T05:37:49.064Z</updated>
+    <updated>2023-06-15T17:38:03.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://en.wikipedia.org/wiki/Elfie_Caroline_Huntington</id>
         <link href="https://en.wikipedia.org/wiki/Elfie_Caroline_Huntington"/>
         <updated>2023-06-15T05:37:44.335Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Elfie_Caroline_Huntington" title="Elfie Caroline Huntington">Elfie Caroline Huntington</a></b> <i>(pictured)</i> took photos of turn-of-the-century <a href="/wiki/Utah" title="Utah">Utah</a>'s darker side such as drunks and fights, while her husband <b><a href="/wiki/Joseph_Daniel_Bagley" title="Joseph Daniel Bagley">Joseph Daniel Bagley</a></b> was a portrait photographer?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Elfie_Caroline_Huntington" title="Elfie Caroline Huntington">Elfie Caroline Huntington</a></b> <i>(pictured)</i> took photos of early-20th-century <a href="/wiki/Springville,_Utah" title="Springville, Utah">Springville, Utah</a>'s negative side, such as drunks and fights, while her husband <b><a href="/wiki/Joseph_Daniel_Bagley" title="Joseph Daniel Bagley">Joseph Daniel Bagley</a></b> was a portrait photographer?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MangaDex]]></title>
         <id>https://en.wikipedia.org/wiki/MangaDex</id>
         <link href="https://en.wikipedia.org/wiki/MangaDex"/>
         <updated>2023-06-15T05:37:44.335Z</updated>
-        <content type="html"><![CDATA[... that piracy website <b><a href="/wiki/MangaDex" title="MangaDex">MangaDex</a></b> had its users host its content during the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>?]]></content>
+        <content type="html"><![CDATA[... that manga aggregation website <b><a href="/wiki/MangaDex" title="MangaDex">MangaDex</a></b> had its users host its content during the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[El-Tigani el-Mahi]]></title>
