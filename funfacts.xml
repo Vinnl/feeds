@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-07-12T05:39:02.546Z</updated>
+    <updated>2023-07-12T17:38:41.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Maatamees</id>
         <link href="https://en.wikipedia.org/wiki/Maatamees"/>
         <updated>2023-07-12T05:38:58.079Z</updated>
-        <content type="html"><![CDATA[... that during the <a href="/wiki/July_Days" title="July Days">July Days</a> the Estonian Bolshevik rural newspaper <i><b><a href="/wiki/Maatamees" title="Maatamees">Maatamees</a></b></i> <i>(pictured)</i> could continue to appear, whilst its urban counterparts were banned?]]></content>
+        <content type="html"><![CDATA[... that during the <a href="/wiki/July_Days" title="July Days">July Days</a>, the Estonian Bolshevik rural newspaper <i><b><a href="/wiki/Maatamees" title="Maatamees">Maatamees</a></b></i> <i>(pictured)</i> could continue to appear whilst its urban counterparts were banned?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M. Farooqui]]></title>
