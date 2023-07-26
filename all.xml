@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T05:37:55.129Z</updated>
+    <updated>2023-07-26T17:37:41.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[the weather forecast (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Exometeorology</id>
         <link href="https://en.wikipedia.org/wiki/Exometeorology"/>
         <updated>2023-07-26T05:37:49.676Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Exometeorology" title="Exometeorology">the weather forecast</a></b> for HD 189733&nbsp;b <i>(pictured)</i> is "Westerly winds at 2000 m/s, with molten glass showers"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Exometeorology" title="Exometeorology">the weather forecast</a></b> for <a href="/wiki/HD_189733_b" title="HD 189733 b">HD&nbsp;189733&nbsp;b</a> <i>(pictured)</i> is "Westerly winds at 2000 m/s, with molten glass showers"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adamson Tannehill (Wikipedia — did you know?)]]></title>
@@ -23,7 +23,7 @@
         <id>https://en.wikipedia.org/wiki/Viriditoxin</id>
         <link href="https://en.wikipedia.org/wiki/Viriditoxin"/>
         <updated>2023-07-26T05:37:49.677Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Viriditoxin" title="Viriditoxin">viriditoxin</a></b> may be able to inhibit cancer growth?]]></content>
+        <content type="html"><![CDATA[... that in a 2014 study <b><a href="/wiki/Viriditoxin" title="Viriditoxin">viriditoxin</a></b> was able to inhibit <a href="/wiki/Prostate_cancer" title="Prostate cancer">prostate cancer</a> cells' growth in a lab environment?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cornel Țăranu (Wikipedia — did you know?)]]></title>
