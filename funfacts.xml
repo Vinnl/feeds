@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-01T05:44:39.722Z</updated>
+    <updated>2023-08-01T17:37:39.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Ben_Collins_(reporter)" title="Ben Collins (reporter)">Ben Collins</a></b> accepted a job with <a href="/wiki/NBC_News" title="NBC News">NBC News</a> on the condition that the company also hire <a href="/wiki/Brandy_Zadrozny" title="Brandy Zadrozny">Brandy Zadrozny</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dmitri Shostakovich's Symphony No. 7]]></title>
+        <title type="html"><![CDATA[premiering Shostakovich's Symphony No. 7 in the US]]></title>
         <id>https://en.wikipedia.org/wiki/American_premieres_of_Dmitri_Shostakovich%27s_Symphony_No._7</id>
         <link href="https://en.wikipedia.org/wiki/American_premieres_of_Dmitri_Shostakovich%27s_Symphony_No._7"/>
         <updated>2023-08-01T05:44:35.353Z</updated>
-        <content type="html"><![CDATA[... that years after <a href="/wiki/Arturo_Toscanini" title="Arturo Toscanini">Arturo Toscanini</a> premiered <b><a href="/wiki/American_premieres_of_Dmitri_Shostakovich%27s_Symphony_No._7" title="American premieres of Dmitri Shostakovich's Symphony No. 7">Dmitri Shostakovich's Symphony No. 7</a></b> in the US, he allegedly asked if he had really learned and conducted "such junk"?]]></content>
+        <content type="html"><![CDATA[... that years after <b><a href="/wiki/American_premieres_of_Dmitri_Shostakovich%27s_Symphony_No._7" title="American premieres of Dmitri Shostakovich's Symphony No. 7">premiering Shostakovich's Symphony No. 7 in the US</a></b>, conductor <a href="/wiki/Arturo_Toscanini" title="Arturo Toscanini">Arturo Toscanini</a> allegedly asked if he had really learned and conducted "such junk"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Martin Farquhar Tupper]]></title>
