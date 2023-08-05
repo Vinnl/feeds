@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-05T05:37:42.841Z</updated>
+    <updated>2023-08-05T17:37:42.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Nerodia_clarkii</id>
         <link href="https://en.wikipedia.org/wiki/Nerodia_clarkii"/>
         <updated>2023-08-05T05:37:38.281Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Nerodia_clarkii" title="Nerodia clarkii">salt marsh snakes</a></b> <i>(examples pictured)</i> can be as short as 15 inches (38&nbsp;cm)?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Nerodia_clarkii" title="Nerodia clarkii">salt marsh snakes</a></b> <i>(examples pictured)</i> drink only rainwater?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I Gede Pasek Suardika]]></title>
@@ -32,13 +32,6 @@
         <link href="https://en.wikipedia.org/wiki/Sudakshina_Sarma"/>
         <updated>2023-08-05T05:37:38.293Z</updated>
         <content type="html"><![CDATA[... that Indian singer <b><a href="/wiki/Sudakshina_Sarma" title="Sudakshina Sarma">Sudakshina Sarma</a></b> sang in <a href="/wiki/Assamese_language" title="Assamese language">Assamese</a> as <a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a>'s ashes were immersed in the <a href="/wiki/Brahmaputra_River" title="Brahmaputra River">Brahmaputra River</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solo Per Due]]></title>
-        <id>https://en.wikipedia.org/wiki/Solo_Per_Due</id>
-        <link href="https://en.wikipedia.org/wiki/Solo_Per_Due"/>
-        <updated>2023-08-05T05:37:38.294Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Solo_Per_Due" title="Solo Per Due">Solo Per Due</a></b> claims to be the smallest restaurant in the world and only serves meals for two?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jarren Horton]]></title>
