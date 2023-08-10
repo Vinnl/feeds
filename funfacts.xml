@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-10T05:37:49.040Z</updated>
+    <updated>2023-08-10T17:37:26.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Thomas_Carlyle</id>
         <link href="https://en.wikipedia.org/wiki/Thomas_Carlyle"/>
         <updated>2023-08-10T05:37:43.245Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Thomas Carlyle</a></b> <i>(pictured)</i> was the first writer to use the expression "<a href="/wiki/Meaning_of_life" title="Meaning of life">meaning of life</a>"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Thomas Carlyle</a></b> <i>(pictured)</i> was the first writer to use the expression "<a href="/wiki/Meaning_of_life" title="Meaning of life">meaning of life</a>" in English?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[T Express]]></title>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jack_Langer</id>
         <link href="https://en.wikipedia.org/wiki/Jack_Langer"/>
         <updated>2023-08-10T05:37:43.266Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/National_Collegiate_Athletic_Association" title="National Collegiate Athletic Association">NCAA</a> suspended all <a href="/wiki/Yale_University" title="Yale University">Yale University</a> athletes for two years after basketball player <b><a href="/wiki/Jack_Langer" title="Jack Langer">Jack Langer</a></b> played in the <a href="/wiki/1969_Maccabiah_Games" title="1969 Maccabiah Games">1969 Maccabiah Games</a>?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/National_Collegiate_Athletic_Association" title="National Collegiate Athletic Association">NCAA</a> placed <a href="/wiki/Yale_University" title="Yale University">Yale University</a> athletics on probation for two years after basketball player <b><a href="/wiki/Jack_Langer" title="Jack Langer">Jack Langer</a></b> played in the <a href="/wiki/1969_Maccabiah_Games" title="1969 Maccabiah Games">1969 Maccabiah Games</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Wicked Prince]]></title>
