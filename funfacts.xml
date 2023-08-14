@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-14T05:38:05.375Z</updated>
+    <updated>2023-08-14T17:37:50.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Pamela_Stephenson</id>
         <link href="https://en.wikipedia.org/wiki/Pamela_Stephenson"/>
         <updated>2023-08-14T05:37:59.774Z</updated>
-        <content type="html"><![CDATA[... that comedian <b><a href="/wiki/Pamela_Stephenson" title="Pamela Stephenson">Pamela Stephenson</a></b> was pleased that her 1987 book <i>How to be a Complete Bitch</i> was described as "sexist, violent and crude"?]]></content>
+        <content type="html"><![CDATA[... that comedian <b><a href="/wiki/Pamela_Stephenson" title="Pamela Stephenson">Pamela Stephenson</a></b> was pleased that her 1987 book <i>How to Be a Complete Bitch</i> was described as "sexist, violent and crude"?]]></content>
     </entry>
 </feed>
