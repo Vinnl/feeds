@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-29T05:37:17.845Z</updated>
+    <updated>2023-08-29T17:37:23.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://en.wikipedia.org/wiki/Fulton_Street_station_(New_York_City_Subway)"/>
         <updated>2023-08-29T05:37:13.599Z</updated>
         <content type="html"><![CDATA[... that before the <b><a href="/wiki/Fulton_Street_station_(New_York_City_Subway)" title="Fulton Street station (New York City Subway)">Fulton Street station</a></b> <i>(entrance pictured)</i> was renovated in the 2010s, a <i><a href="/wiki/The_New_York_Times" title="The New York Times">New York Times</a></i> reporter said the station "might be a good spot for M.&nbsp;C. Escher to set up an easel"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plácido Ramón de Torres]]></title>
+        <id>https://en.wikipedia.org/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres</id>
+        <link href="https://en.wikipedia.org/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres"/>
+        <updated>2023-08-29T05:37:13.608Z</updated>
+        <content type="html"><![CDATA[... that a stamp depicting an elephant compelled <b><a href="/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres" title="Plácido Ramón de Torres">Plácido Ramón de Torres</a></b> to flee Italy for his native Spain?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[an Iowa TV station]]></title>
@@ -39,13 +46,6 @@
         <link href="https://en.wikipedia.org/wiki/Kississing_Lake"/>
         <updated>2023-08-29T05:37:13.606Z</updated>
         <content type="html"><![CDATA[... that although <b><a href="/wiki/Kississing_Lake" title="Kississing Lake">Kississing Lake</a></b> is threatened by water contaminated with <a href="/wiki/Tailings" title="Tailings">tailings</a>, it is the main resource for nearby residents?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plácido Ramón de Torres]]></title>
-        <id>https://en.wikipedia.org/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres</id>
-        <link href="https://en.wikipedia.org/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres"/>
-        <updated>2023-08-29T05:37:13.608Z</updated>
-        <content type="html"><![CDATA[... that a stamp depicting an elephant compelled <b><a href="/wiki/Pl%C3%A1cido_Ram%C3%B3n_de_Torres" title="Plácido Ramón de Torres">Plácido Ramón de Torres</a></b> to flee Italy for his native Spain?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hanhart syndrome]]></title>
