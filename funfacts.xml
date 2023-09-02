@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-09-02T05:37:38.688Z</updated>
+    <updated>2023-09-02T17:37:27.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Tanner_Brown</id>
         <link href="https://en.wikipedia.org/wiki/Tanner_Brown"/>
         <updated>2023-09-02T05:37:34.240Z</updated>
-        <content type="html"><![CDATA[... that American <b><a href="/wiki/Tanner_Brown" title="Tanner Brown">Tanner Brown</a></b> went from being a <a href="/wiki/Walk-on_(sports)" title="Walk-on (sports)">walk-on</a> to a semifinalist for the <a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a> as the best college <a href="/wiki/Placekicker" title="Placekicker">placekicker</a> in the nation?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/American_football" title="American football">American football</a> player <b><a href="/wiki/Tanner_Brown" title="Tanner Brown">Tanner Brown</a></b> went from being a <a href="/wiki/Walk-on_(sports)" title="Walk-on (sports)">walk-on</a> to a semifinalist for the <a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a> as the best college <a href="/wiki/Placekicker" title="Placekicker">placekicker</a> in the United States?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[unus testis, nullus testis]]></title>
