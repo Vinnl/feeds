@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-09-08T05:37:20.063Z</updated>
+    <updated>2023-09-08T17:37:22.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,18 +20,11 @@
         <content type="html"><![CDATA[... that <i><b><a href="/wiki/Provatura" title="Provatura">provatura</a></b></i> cheese was mentioned in a 12th-century <a href="/wiki/Chronicle" title="Chronicle">chronicle</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[J. Lewis Crozer Library]]></title>
+        <title type="html"><![CDATA[J. Lewis Crozer Library]]></title>
         <id>https://en.wikipedia.org/wiki/J._Lewis_Crozer_Library</id>
         <link href="https://en.wikipedia.org/wiki/J._Lewis_Crozer_Library"/>
         <updated>2023-09-08T05:37:15.692Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/J._Lewis_Crozer_Library" title="J. Lewis Crozer Library">J.&nbsp;Lewis Crozer Library</a></b> was the third library established in Pennsylvania?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nike Phantom Luna]]></title>
-        <id>https://en.wikipedia.org/wiki/Nike_Phantom_Luna</id>
-        <link href="https://en.wikipedia.org/wiki/Nike_Phantom_Luna"/>
-        <updated>2023-09-08T05:37:15.696Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Nike_Phantom_Luna" title="Nike Phantom Luna">Nike Phantom Luna</a></b> football boot considers women's anatomy and the playing style of women's football in its design?]]></content>
+        <content type="html"><![CDATA[... that when the <b><a href="/wiki/J._Lewis_Crozer_Library" title="J. Lewis Crozer Library">J. Lewis Crozer Library</a></b> was founded in 1769, it had 163 books?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lee Fook Hong]]></title>
