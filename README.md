@@ -24,8 +24,8 @@ and publish your feeds at `https://<username>.github.io/feeds/`.
 To automatically generate feeds on GitLab:
 
 1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
+2. [Create a new pipeline schedule](../../pipeline_schedules/new) (Build ˃
+   Pipeline schedules).
 3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
    17:30).
 4. Hit "Save pipeline schedule".
