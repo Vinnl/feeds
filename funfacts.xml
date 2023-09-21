@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-09-21T05:38:25.041Z</updated>
+    <updated>2023-09-21T17:37:50.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Wade_Meckler</id>
         <link href="https://en.wikipedia.org/wiki/Wade_Meckler"/>
         <updated>2023-09-21T05:38:20.242Z</updated>
-        <content type="html"><![CDATA[... that Major League Baseball player <b><a href="/wiki/Wade_Meckler" title="Wade Meckler">Wade Meckler</a></b> was 4 feet 10 inches (1.47 metres) tall, and weighed 75 pounds (34 kilograms), as a high-school freshman?]]></content>
+        <content type="html"><![CDATA[... that Major League Baseball player <b><a href="/wiki/Wade_Meckler" title="Wade Meckler">Wade Meckler</a></b> was 4 feet 10 inches (1.47 metres) tall and weighed 75 pounds (34 kilograms) when he was a high-school freshman?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jergins Trust Building]]></title>
