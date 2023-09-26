@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-09-26T05:37:27.993Z</updated>
+    <updated>2023-09-26T17:37:32.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Paul_Needham_(librarian)</id>
         <link href="https://en.wikipedia.org/wiki/Paul_Needham_(librarian)"/>
         <updated>2023-09-26T05:37:23.363Z</updated>
-        <content type="html"><![CDATA[... that the librarian <b><a href="/wiki/Paul_Needham_(librarian)" title="Paul Needham (librarian)">Paul Needham</a></b> has argued for the "respectful burial of the human remains" included in a book bound in human skin?]]></content>
+        <content type="html"><![CDATA[... that the librarian <b><a href="/wiki/Paul_Needham_(librarian)" title="Paul Needham (librarian)">Paul Needham</a></b> has argued for the "respectful burial of the human remains" included in a <a href="/wiki/Anthropodermic_bibliopegy" title="Anthropodermic bibliopegy">book bound in human skin</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solution and EU Party]]></title>

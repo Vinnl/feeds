@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-26T05:37:27.999Z</updated>
+    <updated>2023-09-26T17:37:32.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cyprian Norwid (Wikipedia — did you know?)]]></title>
@@ -23,7 +23,7 @@
         <id>https://en.wikipedia.org/wiki/Paul_Needham_(librarian)</id>
         <link href="https://en.wikipedia.org/wiki/Paul_Needham_(librarian)"/>
         <updated>2023-09-26T05:37:23.363Z</updated>
-        <content type="html"><![CDATA[... that the librarian <b><a href="/wiki/Paul_Needham_(librarian)" title="Paul Needham (librarian)">Paul Needham</a></b> has argued for the "respectful burial of the human remains" included in a book bound in human skin?]]></content>
+        <content type="html"><![CDATA[... that the librarian <b><a href="/wiki/Paul_Needham_(librarian)" title="Paul Needham (librarian)">Paul Needham</a></b> has argued for the "respectful burial of the human remains" included in a <a href="/wiki/Anthropodermic_bibliopegy" title="Anthropodermic bibliopegy">book bound in human skin</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solution and EU Party (Wikipedia — did you know?)]]></title>
@@ -102,7 +102,7 @@
         <link href="https://en.wikivoyage.org/wiki/Kill_Bill_tour"/>
         <updated>2023-09-22T05:37:21.263Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize">
+<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-left">
