@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-10-04T05:37:47.333Z</updated>
+    <updated>2023-10-04T17:37:36.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Emeliana_Aiza</id>
         <link href="https://en.wikipedia.org/wiki/Emeliana_Aiza"/>
         <updated>2023-10-04T05:37:42.466Z</updated>
-        <content type="html"><![CDATA[... that while serving in the <a href="/wiki/Chamber_of_Deputies_(Bolivia)" title="Chamber of Deputies (Bolivia)">Bolivian parliament</a>, legislator <b><a href="/wiki/Emeliana_Aiza" title="Emeliana Aiza">Emeliana Aiza</a></b> <i>(pictured)</i> took night courses to receive her <a href="/wiki/Spanish_Baccalaureate" title="Spanish Baccalaureate">high school baccalaureate</a>?]]></content>
+        <content type="html"><![CDATA[... that while serving in the <a href="/wiki/Chamber_of_Deputies_(Bolivia)" title="Chamber of Deputies (Bolivia)">Bolivian parliament</a>, legislator <b><a href="/wiki/Emeliana_Aiza" title="Emeliana Aiza">Emeliana Aiza</a></b> <i>(pictured)</i> took night courses to receive her high school baccalaureate?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hove's first public library]]></title>
