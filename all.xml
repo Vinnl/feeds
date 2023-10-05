@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-05T05:37:38.536Z</updated>
+    <updated>2023-10-05T17:38:01.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[composite miniature paintings (Wikipedia — did you know?)]]></title>
@@ -12,11 +12,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Composite_miniature_painting" title="Composite miniature painting">composite miniature paintings</a></b> <i>(example pictured)</i> fuse together humans and animals?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fly With Me (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Fly_With_Me_(musical)</id>
-        <link href="https://en.wikipedia.org/wiki/Fly_With_Me_(musical)"/>
-        <updated>2023-10-05T05:37:29.061Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Fly_With_Me_(musical)" class="mw-redirect" title="Fly With Me (musical)">Fly With Me</a></b></i>, one of the first collaborations by <a href="/wiki/Rodgers_and_Hart" title="Rodgers and Hart">Rodgers and Hart</a>, was written for the 1920 <a href="/wiki/Varsity_Show" title="Varsity Show">Varsity Show</a>?]]></content>
+        <title type="html"><![CDATA[Fly with Me (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Fly_with_Me_(musical)</id>
+        <link href="https://en.wikipedia.org/wiki/Fly_with_Me_(musical)"/>
+        <updated>2023-10-05T17:37:56.648Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Fly_with_Me_(musical)" title="Fly with Me (musical)">Fly with Me</a></b></i>, one of the first collaborations by <a href="/wiki/Rodgers_and_Hart" title="Rodgers and Hart">Rodgers and Hart</a>, was written for the 1920 <a href="/wiki/Varsity_Show" title="Varsity Show">Varsity Show</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Sims 2: Open for Business (Wikipedia — did you know?)]]></title>
