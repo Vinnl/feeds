@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-10-20T05:37:25.294Z</updated>
+    <updated>2023-10-20T17:37:35.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Humpbacked_limia</id>
         <link href="https://en.wikipedia.org/wiki/Humpbacked_limia"/>
         <updated>2023-10-20T05:37:20.423Z</updated>
-        <content type="html"><![CDATA[... that being critically endangered does not prevent the <b><a href="/wiki/Humpbacked_limia" title="Humpbacked limia">humpbacked limia</a></b> from eating its own young?]]></content>
+        <content type="html"><![CDATA[... that in aquariums, the <b><a href="/wiki/Humpbacked_limia" title="Humpbacked limia">humpbacked limia</a></b> is known to cannibalise the young?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[John Buck Wilkin]]></title>
