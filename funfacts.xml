@@ -2,63 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-10-30T17:37:39.294Z</updated>
+    <updated>2023-10-31T05:37:33.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[John Company]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Company_(board_game)</id>
-        <link href="https://en.wikipedia.org/wiki/John_Company_(board_game)"/>
-        <updated>2023-10-30T05:37:13.151Z</updated>
-        <content type="html"><![CDATA[... that the box cover of the board game <i><b><a href="/wiki/John_Company_(board_game)" title="John Company (board game)">John Company</a></b></i> shows <a href="/wiki/Georgiana_Cavendish,_Duchess_of_Devonshire" title="Georgiana Cavendish, Duchess of Devonshire">Georgiana, Duchess of Devonshire</a>, and <a href="/wiki/George_IV" title="George IV">George, Prince of Wales</a>, gambling at <a href="/wiki/Hazard_(game)" title="Hazard (game)">hazard</a> <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Night of the Living Dead]]></title>
+        <id>https://en.wikipedia.org/wiki/Night_of_the_Living_Dead</id>
+        <link href="https://en.wikipedia.org/wiki/Night_of_the_Living_Dead"/>
+        <updated>2023-10-31T05:37:29.293Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Night_of_the_Living_Dead" title="Night of the Living Dead">Night of the Living Dead</a></b></i> <i>(film featured)</i> was mistakenly released into the <a href="/wiki/Public_domain" title="Public domain">public domain</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Premana Premadi]]></title>
-        <id>https://en.wikipedia.org/wiki/Premana_Premadi</id>
-        <link href="https://en.wikipedia.org/wiki/Premana_Premadi"/>
-        <updated>2023-10-30T05:37:13.152Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Premana_Premadi" title="Premana Premadi">Premana Premadi</a></b> is the first Indonesian female astronomer to have an <a href="/wiki/Asteroid" title="Asteroid">asteroid</a> named in her honor?]]></content>
+        <title type="html"><![CDATA[Connecticut field pumpkin]]></title>
+        <id>https://en.wikipedia.org/wiki/Connecticut_field_pumpkin</id>
+        <link href="https://en.wikipedia.org/wiki/Connecticut_field_pumpkin"/>
+        <updated>2023-10-31T05:37:29.297Z</updated>
+        <content type="html"><![CDATA[... that a variety of the <b><a href="/wiki/Connecticut_field_pumpkin" title="Connecticut field pumpkin">Connecticut field pumpkin</a></b> is known as "the original commercial jack-o'-lantern pumpkin"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Highs]]></title>
-        <id>https://en.wikipedia.org/wiki/No_Highs</id>
-        <link href="https://en.wikipedia.org/wiki/No_Highs"/>
-        <updated>2023-10-30T05:37:13.154Z</updated>
-        <content type="html"><![CDATA[... that the album <i><b><a href="/wiki/No_Highs" title="No Highs">No Highs</a></b></i> is a response to the "corporate" <a href="/wiki/Ambient_music" title="Ambient music">ambient music</a> of streaming services?]]></content>
+        <title type="html"><![CDATA[.monsters]]></title>
+        <id>https://en.wikipedia.org/wiki/.monster</id>
+        <link href="https://en.wikipedia.org/wiki/.monster"/>
+        <updated>2023-10-31T05:37:29.300Z</updated>
+        <content type="html"><![CDATA[... that there are nearly one hundred thousand <b><a href="/wiki/.monster" title=".monster">.monsters</a></b> on the internet?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Myriel Davies]]></title>
-        <id>https://en.wikipedia.org/wiki/Myriel_Davies</id>
-        <link href="https://en.wikipedia.org/wiki/Myriel_Davies"/>
-        <updated>2023-10-30T05:37:13.157Z</updated>
-        <content type="html"><![CDATA[... that telephone operator <b><a href="/wiki/Myriel_Davies" title="Myriel Davies">Myriel Davies</a></b> began her long career as a peace activist during the <a href="/wiki/Suez_Crisis" title="Suez Crisis">Suez Crisis</a>?]]></content>
+        <title type="html"><![CDATA[Faculty Club at UC Berkeley]]></title>
+        <id>https://en.wikipedia.org/wiki/Berkeley_Faculty_Club</id>
+        <link href="https://en.wikipedia.org/wiki/Berkeley_Faculty_Club"/>
+        <updated>2023-10-31T05:37:29.302Z</updated>
+        <content type="html"><![CDATA[... that The <b><a href="/wiki/Berkeley_Faculty_Club" title="Berkeley Faculty Club">Faculty Club at UC Berkeley</a></b>, built in 1902, has been reported to be a hotspot for paranormal activity?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Native Island]]></title>
-        <id>https://en.wikipedia.org/wiki/Native_Island</id>
-        <link href="https://en.wikipedia.org/wiki/Native_Island"/>
-        <updated>2023-10-30T05:37:13.158Z</updated>
-        <content type="html"><![CDATA[... that New Zealand's <b><a href="/wiki/Native_Island" title="Native Island">Native Island</a></b> hosted a colony of Samoyeds and huskies used in both the <i>Southern Cross</i> and <i>Nimrod</i> expeditions to the South Pole?]]></content>
+        <title type="html"><![CDATA[The Hunger]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Hunger_(Alexander_McQueen_collection)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Hunger_(Alexander_McQueen_collection)"/>
+        <updated>2023-10-31T05:37:29.305Z</updated>
+        <content type="html"><![CDATA[... that British designer <a href="/wiki/Alexander_McQueen" title="Alexander McQueen">Alexander McQueen</a> pressed live worms into a translucent corset to evoke vampirism and undeath for his collection <i><b><a href="/wiki/The_Hunger_(Alexander_McQueen_collection)" title="The Hunger (Alexander McQueen collection)">The Hunger</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a deadly shooting]]></title>
-        <id>https://en.wikipedia.org/wiki/Killing_of_Zijie_Yan</id>
-        <link href="https://en.wikipedia.org/wiki/Killing_of_Zijie_Yan"/>
-        <updated>2023-10-30T05:37:13.160Z</updated>
-        <content type="html"><![CDATA[... that the suspect in <b><a href="/wiki/Killing_of_Zijie_Yan" title="Killing of Zijie Yan">a deadly shooting</a></b> at the <a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">University of North Carolina</a> was a graduate student of the victim?]]></content>
+        <title type="html"><![CDATA[erotic horror]]></title>
+        <id>https://en.wikipedia.org/wiki/Erotic_horror</id>
+        <link href="https://en.wikipedia.org/wiki/Erotic_horror"/>
+        <updated>2023-10-31T05:37:29.307Z</updated>
+        <content type="html"><![CDATA[... that various online retailers removed hundreds of books featuring <b><a href="/wiki/Erotic_horror" title="Erotic horror">erotic horror</a></b> from their stores?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Rustling of Leaves: Inside the Philippine Revolution]]></title>
-        <id>https://en.wikipedia.org/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution</id>
-        <link href="https://en.wikipedia.org/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution"/>
-        <updated>2023-10-30T05:37:13.162Z</updated>
-        <content type="html"><![CDATA[... that the sound for the film <i><b><a href="/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution" title="A Rustling of Leaves: Inside the Philippine Revolution">A Rustling of Leaves: Inside the Philippine Revolution</a></b></i> was recorded using a <a href="/wiki/Walkman" title="Walkman">Walkman</a>?]]></content>
+        <title type="html"><![CDATA[Halloween song]]></title>
+        <id>https://en.wikipedia.org/wiki/Halloween_music</id>
+        <link href="https://en.wikipedia.org/wiki/Halloween_music"/>
+        <updated>2023-10-31T05:37:29.309Z</updated>
+        <content type="html"><![CDATA[... that "<a href="/wiki/Thriller_(song)" title="Thriller (song)">Thriller</a>" is the most popular <b><a href="/wiki/Halloween_music" title="Halloween music">Halloween song</a></b> in the United States?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Milverine]]></title>
-        <id>https://en.wikipedia.org/wiki/Milverine</id>
-        <link href="https://en.wikipedia.org/wiki/Milverine"/>
-        <updated>2023-10-30T05:37:13.166Z</updated>
-        <content type="html"><![CDATA[... that a man from Milwaukee who goes on walks shirtless is known as the "<b><a href="/wiki/Milverine" title="Milverine">Milverine</a></b>"?]]></content>
+        <title type="html"><![CDATA[The Exorcist]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Exorcist</id>
+        <link href="https://en.wikipedia.org/wiki/The_Exorcist"/>
+        <updated>2023-10-31T05:37:29.311Z</updated>
+        <content type="html"><![CDATA[... that film critics accused the <a href="/wiki/Motion_Picture_Association" title="Motion Picture Association">MPAA</a> ratings board of having yielded to studio pressure to rate <i><b><a href="/wiki/The_Exorcist" title="The Exorcist">The Exorcist</a></b></i> R rather than X?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miss Pumpkin]]></title>
+        <id>https://en.wikipedia.org/wiki/Pumpkin_queen</id>
+        <link href="https://en.wikipedia.org/wiki/Pumpkin_queen"/>
+        <updated>2023-10-31T05:37:29.313Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Circleville_Pumpkin_Show" title="Circleville Pumpkin Show">Circleville Pumpkin Show</a>, the oldest pumpkin show in the United States, has been selecting a <b><a href="/wiki/Pumpkin_queen" title="Pumpkin queen">Miss Pumpkin</a></b> since 1933?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wiccan Web]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Wiccan_Web</id>
+        <link href="https://en.wikipedia.org/wiki/The_Wiccan_Web"/>
+        <updated>2023-10-31T05:37:29.317Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Wiccan_Web" title="The Wiccan Web">The Wiccan Web</a></b></i> recommends drawing pentagrams on your computer screen in oil?]]></content>
     </entry>
 </feed>
