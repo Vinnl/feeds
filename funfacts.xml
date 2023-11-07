@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-11-07T05:37:21.857Z</updated>
+    <updated>2023-11-07T17:37:23.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Get_Him_Back!</id>
         <link href="https://en.wikipedia.org/wiki/Get_Him_Back!"/>
         <updated>2023-11-07T05:37:16.886Z</updated>
-        <content type="html"><![CDATA[... that the music video for <a href="/wiki/Olivia_Rodrigo" title="Olivia Rodrigo">Olivia Rodrigo</a>'s song "<b><a href="/wiki/Get_Him_Back!" title="Get Him Back!">Get Him Back!</a></b>" was shot on an <a href="/wiki/IPhone_15_Pro" title="IPhone 15 Pro">iPhone&nbsp;15 Pro</a>?]]></content>
+        <content type="html"><![CDATA[... that the music video for <a href="/wiki/Olivia_Rodrigo" title="Olivia Rodrigo">Olivia Rodrigo</a>'s song "<b><a href="/wiki/Get_Him_Back!" title="Get Him Back!">Get Him Back!</a></b>" was shot on a smartphone?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a former rayon mill]]></title>
