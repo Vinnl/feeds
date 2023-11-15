@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-11-15T05:37:12.297Z</updated>
+    <updated>2023-11-15T17:37:20.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[North Koreans in Kamchatka]]></title>
         <id>https://en.wikipedia.org/wiki/Main_Page</id>
         <link href="https://en.wikipedia.org/wiki/Main_Page"/>
-        <updated>2023-11-15T05:37:07.137Z</updated>
+        <updated>2023-11-15T17:37:15.172Z</updated>
         <content type="html"><![CDATA[... that in the <a href="/wiki/Russian_Far_East" title="Russian Far East">Russian Far East</a>, there is a population of <a href="/wiki/Koreans_in_Kamchatka" title="Koreans in Kamchatka"><b>North Koreans in Kamchatka</b></a> that now aligns itself with South Korea?]]></content>
     </entry>
     <entry>
