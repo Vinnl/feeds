@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-11-17T05:37:14.744Z</updated>
+    <updated>2023-11-17T17:37:15.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Saikabo</id>
         <link href="https://en.wikipedia.org/wiki/Saikabo"/>
         <updated>2023-11-17T05:37:09.822Z</updated>
-        <content type="html"><![CDATA[... that the Korean restaurant in Japan <b><a href="/wiki/Saikabo" title="Saikabo">Saikabo</a></b> suffered a 30% drop in sales after the South Korean president visited the disputed <a href="/wiki/Liancourt_Rocks" title="Liancourt Rocks">Liancourt Rocks</a>?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Saikabo" title="Saikabo">Saikabo</a></b> Korean restaurant chain in Japan suffered a 30% drop in sales after the South Korean president visited the disputed <a href="/wiki/Liancourt_Rocks" title="Liancourt Rocks">Liancourt Rocks</a>?]]></content>
     </entry>
 </feed>
