@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-11-22T05:37:32.066Z</updated>
+    <updated>2023-11-22T17:37:21.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Deshong_Art_Museum</id>
         <link href="https://en.wikipedia.org/wiki/Deshong_Art_Museum"/>
         <updated>2023-11-22T05:37:28.085Z</updated>
-        <content type="html"><![CDATA[... that a teenage boy stole over $300,000 worth of paintings from the <b><a href="/wiki/Deshong_Art_Museum" title="Deshong Art Museum">Deshong Art Museum</a></b> <i>(pictured)</i> by simply taking them off the wall and sliding them through a window?]]></content>
+        <content type="html"><![CDATA[... that a teenage boy stole over US$300,000 worth of paintings from the <b><a href="/wiki/Deshong_Art_Museum" title="Deshong Art Museum">Deshong Art Museum</a></b> <i>(pictured)</i> by simply taking them off the wall and sliding them through a window?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Güzin Müjde Karakaşlı]]></title>
