@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-11-29T05:37:08.260Z</updated>
+    <updated>2023-11-29T17:37:06.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Semarang_City_Regional_House_of_Representatives</id>
         <link href="https://en.wikipedia.org/wiki/Semarang_City_Regional_House_of_Representatives"/>
         <updated>2023-11-29T05:37:03.334Z</updated>
-        <content type="html"><![CDATA[... that a former Dutch villa houses both the <b><a href="/wiki/Semarang_City_Regional_House_of_Representatives" title="Semarang City Regional House of Representatives">city council of Semarang, Indonesia</a></b> and the city's mayor?]]></content>
+        <content type="html"><![CDATA[... that a former Dutch villa houses both the <b><a href="/wiki/Semarang_City_Regional_House_of_Representatives" title="Semarang City Regional House of Representatives">city council of Semarang, Indonesia</a></b>, and the city's mayor?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Salty Parker]]></title>
