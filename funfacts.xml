@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-12-13T05:38:12.506Z</updated>
+    <updated>2023-12-13T17:37:16.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Al-Rantisi_Hospital</id>
         <link href="https://en.wikipedia.org/wiki/Al-Rantisi_Hospital"/>
         <updated>2023-12-13T05:38:08.501Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Al-Rantisi_Hospital" title="Al-Rantisi Hospital">Al-Rantisi Hospital</a></b> can make water from air?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Al-Rantisi_Hospital" title="Al-Rantisi Hospital">Al-Rantisi Hospital</a></b> can extract drinking water from air?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Molly Burman]]></title>
