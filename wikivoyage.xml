@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2023-12-15T17:37:16.874Z</updated>
+    <updated>2023-12-16T05:37:10.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -16,7 +16,7 @@
 </p>
 	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
 		<h2><span class="mw-headline" id="Rovaniemi"><a href="/wiki/Rovaniemi" title="Rovaniemi">Rovaniemi</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_Month"><a href="/w/index.php?title=Previously_Destination_of_the_month&amp;action=edit&amp;redlink=1" class="new" title="Previously Destination of the month (page does not exist)">Destination of the Month</a></span></h3>
+		<h3><span class="mw-headline" id="Destination_of_the_Month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></span></h3>
 		<div class="quote"><a href="/wiki/Rovaniemi" title="Rovaniemi">The capital of Lapland in northern Finland sits on the Arctic Circle, attracting tourists for the Midnight Sun, Northern Lights, and Santa Claus Village.</a></div>
 	</div>
 <p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Rovaniemi"><img alt="Rovaniemi" src="//upload.wikimedia.org/wikivoyage/en/4/40/Rovaniemi_WV_Banner_1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" data-file-width="1700" data-file-height="567"></span></span>
