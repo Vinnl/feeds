@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-22T05:37:14.574Z</updated>
+    <updated>2023-12-22T17:37:30.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Härnösand Residence (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Greg_Foran</id>
         <link href="https://en.wikipedia.org/wiki/Greg_Foran"/>
         <updated>2023-12-22T05:37:09.615Z</updated>
-        <content type="html"><![CDATA[... that as CEO of <a href="/wiki/Walmart" title="Walmart">Walmart</a> U.S., <b><a href="/wiki/Greg_Foran" title="Greg Foran">Greg Foran</a></b> would go undercover as a shopper?]]></content>
+        <content type="html"><![CDATA[... that as CEO of <a href="/wiki/Walmart" title="Walmart">Walmart</a> US, <b><a href="/wiki/Greg_Foran" title="Greg Foran">Greg Foran</a></b> would go undercover as a shopper?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mario Party DS (Wikipedia — did you know?)]]></title>
