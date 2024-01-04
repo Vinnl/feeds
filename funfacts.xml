@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-01-04T05:37:09.829Z</updated>
+    <updated>2024-01-04T17:37:08.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Poison:_Iitai_Koto_mo_Ienai_Konna_Yo_no_Naka_wa</id>
         <link href="https://en.wikipedia.org/wiki/Poison:_Iitai_Koto_mo_Ienai_Konna_Yo_no_Naka_wa"/>
         <updated>2024-01-04T05:37:04.871Z</updated>
-        <content type="html"><![CDATA[... that "<b><a href="/wiki/Poison:_Iitai_Koto_mo_Ienai_Konna_Yo_no_Naka_wa" title="Poison: Iitai Koto mo Ienai Konna Yo no Naka wa">Poison</a></b>" can soothe babies?]]></content>
+        <content type="html"><![CDATA[... that the song "<b><a href="/wiki/Poison:_Iitai_Koto_mo_Ienai_Konna_Yo_no_Naka_wa" title="Poison: Iitai Koto mo Ienai Konna Yo no Naka wa">Poison</a></b>" can soothe babies?]]></content>
     </entry>
 </feed>
