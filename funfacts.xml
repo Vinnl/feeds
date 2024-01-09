@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-01-09T05:37:16.372Z</updated>
+    <updated>2024-01-09T17:37:31.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Kathanar_%E2%80%93_The_Wild_Sorcerer</id>
         <link href="https://en.wikipedia.org/wiki/Kathanar_%E2%80%93_The_Wild_Sorcerer"/>
         <updated>2024-01-09T05:37:11.287Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Kathanar_%E2%80%93_The_Wild_Sorcerer" title="Kathanar – The Wild Sorcerer">Kathanar – The Wild Sorcerer</a></b></i> is being shot on a custom-built studio spanning 45,000 square feet, utilizing the <a href="/wiki/On-set_virtual_production" title="On-set virtual production">virtual production</a> technology?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Kathanar_%E2%80%93_The_Wild_Sorcerer" title="Kathanar – The Wild Sorcerer">Kathanar – The Wild Sorcerer</a></b></i> is being shot on a custom-built studio spanning 45,000 square feet (4,200&nbsp;m<sup>2</sup>), utilizing the <a href="/wiki/On-set_virtual_production" title="On-set virtual production">virtual production</a> technology?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Origins of Early Christian Literature]]></title>
