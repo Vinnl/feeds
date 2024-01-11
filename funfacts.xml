@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-01-11T05:37:31.205Z</updated>
+    <updated>2024-01-11T17:37:19.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Languages_of_Lebanon</id>
         <link href="https://en.wikipedia.org/wiki/Languages_of_Lebanon"/>
         <updated>2024-01-11T05:37:26.746Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Languages_of_Lebanon" title="Languages of Lebanon">code-switching in Lebanon</a></b> is so common that "hi, <span title="Levantine Arabic-language text"><span lang="apc" dir="rtl">كيفك؟</span></span> <span title="French-language text"><i lang="fr">Ça&nbsp;va&nbsp;?</i></span><span style="padding-left:.15em;">"</span>, which combines <a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Levantine_Arabic" title="Levantine Arabic">Levantine Arabic</a> and <a href="/wiki/French_language" title="French language">French</a>, is a typical greeting?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Languages_of_Lebanon" title="Languages of Lebanon">code-switching in Lebanon</a></b> is so common that "hi, <span title="Levantine Arabic-language text"><span lang="apc" dir="rtl">كيفك؟</span></span> <span title="French-language text"><i lang="fr">Ça&nbsp;va&nbsp;?</i></span><span style="padding-left:.15em;">"</span>, which combines <a href="/wiki/English_language_in_Lebanon" title="English language in Lebanon">English</a>, <a href="/wiki/Levantine_Arabic" title="Levantine Arabic">Levantine Arabic</a> and <a href="/wiki/French_language_in_Lebanon" title="French language in Lebanon">French</a>, is a typical greeting?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peanut]]></title>
