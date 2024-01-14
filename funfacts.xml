@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-01-14T05:37:14.092Z</updated>
+    <updated>2024-01-14T17:37:10.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Roar-o-Saurus</id>
         <link href="https://en.wikipedia.org/wiki/Roar-o-Saurus"/>
         <updated>2024-01-14T05:37:09.590Z</updated>
-        <content type="html"><![CDATA[... that despite being only 40 feet (12&nbsp;m) tall, <a href="/wiki/CNN" title="CNN">CNN</a> described <b><a href="/wiki/Roar-o-Saurus" title="Roar-o-Saurus">Roar-o-Saurus</a></b> as one of the "most insane" new roller coasters of 2014?]]></content>
+        <content type="html"><![CDATA[... that despite being only 40 feet (12&nbsp;m) tall, <b><a href="/wiki/Roar-o-Saurus" title="Roar-o-Saurus">Roar-o-Saurus</a></b> was described by <a href="/wiki/CNN" title="CNN">CNN</a> as one of the "most insane" new roller coasters of 2014?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[William Carter]]></title>
