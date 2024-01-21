@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-01-21T05:37:38.343Z</updated>
+    <updated>2024-01-21T17:37:03.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Vivi_Vassileva" title="Vivi Vassileva">Vivi Vassileva</a></b>, a percussionist who was the youngest member of the <a href="/wiki/Bundesjugendorchester" title="Bundesjugendorchester">German national youth orchestra</a>, has played <a href="/wiki/Gregor_Mayrhofer" title="Gregor Mayrhofer">Gregor Mayrhofer</a>'s <i>Recycling Concerto</i> on instruments derived from garbage?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[building dioramas]]></title>
+        <title type="html"><![CDATA[build dioramas]]></title>
         <id>https://en.wikipedia.org/wiki/California_mission_project</id>
         <link href="https://en.wikipedia.org/wiki/California_mission_project"/>
         <updated>2024-01-21T05:37:33.457Z</updated>
-        <content type="html"><![CDATA[... that California schoolchildren "learn" about Spanish missions by <b><a href="/wiki/California_mission_project" title="California mission project">building dioramas</a></b>?]]></content>
+        <content type="html"><![CDATA[... that some California schoolchildren <b><a href="/wiki/California_mission_project" title="California mission project">build dioramas</a></b> when learning about their state's Spanish missions?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thomas J. Wright]]></title>
