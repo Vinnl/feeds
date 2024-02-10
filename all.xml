@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-10T05:37:40.076Z</updated>
+    <updated>2024-02-10T17:37:07.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Maria Trubnikova (Wikipedia — did you know?)]]></title>
@@ -20,10 +20,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[besieging Baghdad in 1258 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)</id>
-        <link href="https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)"/>
-        <updated>2024-02-10T05:37:35.652Z</updated>
-        <content type="html"><![CDATA[... that before <b><a href="/wiki/Siege_of_Baghdad_(1258)" title="Siege of Baghdad (1258)">besieging Baghdad in 1258</a></b>, the Mongol prince <a href="/wiki/Hulegu_Khan" title="Hulegu Khan">Hulegu Khan</a> ended a letter to <a href="/wiki/Al-Musta%27sim" title="Al-Musta'sim">the city's ruler</a> with the words "I will show you the meaning of the will of God"?]]></content>
+        <id>https://en.wikipedia.org/wiki/Siege_of_Baghdad</id>
+        <link href="https://en.wikipedia.org/wiki/Siege_of_Baghdad"/>
+        <updated>2024-02-10T17:37:02.194Z</updated>
+        <content type="html"><![CDATA[... that before <b><a href="/wiki/Siege_of_Baghdad" title="Siege of Baghdad">besieging Baghdad in 1258</a></b>, the Mongol prince <a href="/wiki/Hulegu_Khan" title="Hulegu Khan">Hulegu Khan</a> ended a letter to <a href="/wiki/Al-Musta%27sim" title="Al-Musta'sim">the city's ruler</a> with the words "I will show you the meaning of the will of God"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kips Bay Towers (Wikipedia — did you know?)]]></title>
