@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-02-20T05:37:02.067Z</updated>
+    <updated>2024-02-20T17:37:23.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Prey_(2022_film)</id>
         <link href="https://en.wikipedia.org/wiki/Prey_(2022_film)"/>
         <updated>2024-02-20T05:36:56.937Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Prey_(2022_film)" title="Prey (2022 film)">Prey</a></b></i> is the only feature film to have a full <a href="/wiki/Comanche_language" title="Comanche language">Comanche language</a> dub?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Prey_(2022_film)" title="Prey (2022 film)">Prey</a></b></i> is the first feature film to have a full <a href="/wiki/Comanche_language" title="Comanche language">Comanche language</a> dub?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Margaret Donahue]]></title>
