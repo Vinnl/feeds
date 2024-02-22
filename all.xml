@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-22T05:37:18.912Z</updated>
+    <updated>2024-02-22T17:37:27.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Maruxa and Coralia Fandiño Ricart (Wikipedia — did you know?)]]></title>
@@ -37,7 +37,7 @@
         <id>https://en.wikipedia.org/wiki/Geno_(Super_Mario_RPG)</id>
         <link href="https://en.wikipedia.org/wiki/Geno_(Super_Mario_RPG)"/>
         <updated>2024-02-22T05:37:14.934Z</updated>
-        <content type="html"><![CDATA[... that despite knowing of <b><a href="/wiki/Geno_(Super_Mario_RPG)" title="Geno (Super Mario RPG)">Geno</a></b><span class="nowrap">'s</span> popularity, <i><a href="/wiki/Super_Mario_RPG" title="Super Mario RPG">Super Mario RPG</a></i>'s <a href="/wiki/Chihiro_Fujioka" title="Chihiro Fujioka">co-director</a> wasn't sure why the character was popular?]]></content>
+        <content type="html"><![CDATA[... that despite knowing of <b><a href="/wiki/Geno_(Super_Mario_RPG)" title="Geno (Super Mario RPG)">Geno</a></b><span class="nowrap">'s</span> popularity, <i><a href="/wiki/Super_Mario_RPG" title="Super Mario RPG">Super Mario RPG</a></i><span class="nowrap" style="padding-left:0.1em;">'s</span> <a href="/wiki/Chihiro_Fujioka" title="Chihiro Fujioka">co-director</a> wasn't sure why the character was popular?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[D-Date (Wikipedia — did you know?)]]></title>
