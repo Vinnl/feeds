@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-02-29T05:37:20.218Z</updated>
+    <updated>2024-02-29T17:37:24.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Okunoin</id>
         <link href="https://en.wikipedia.org/wiki/Okunoin"/>
         <updated>2024-02-29T05:37:16.280Z</updated>
-        <content type="html"><![CDATA[... that the hall of worship of <b><a href="/wiki/Okunoin" title="Okunoin">Okunoin</a></b> holds more than 10,000 perpetually lit lanterns <i>(pictured)</i>, some of which are said to have been burning for more than 900 years?]]></content>
+        <content type="html"><![CDATA[... that the hall of worship of <b><a href="/wiki/Okunoin" title="Okunoin">Okunoin</a></b> holds more than 10,000 perpetually lit lanterns <i>(pictured)</i>, two of which are believed to have been continually lit for more than 900 years?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[António Corea]]></title>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/1928_Liechtenstein_embezzlement_scandal</id>
         <link href="https://en.wikipedia.org/wiki/1928_Liechtenstein_embezzlement_scandal"/>
         <updated>2024-02-29T05:37:16.288Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/1928_Liechtenstein_embezzlement_scandal" title="1928 Liechtenstein embezzlement scandal">1928 Liechtenstein embezzlement scandal</a></b> cost 1.8 million Swiss francs, the equivalent of two yearly state budgets?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/1928_Liechtenstein_embezzlement_scandal" title="1928 Liechtenstein embezzlement scandal">1928 Liechtenstein embezzlement scandal</a></b> cost 1.8&nbsp;million Swiss francs, the equivalent of two yearly state budgets?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maxine North]]></title>
