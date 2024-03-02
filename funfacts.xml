@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-03-02T05:38:25.093Z</updated>
+    <updated>2024-03-02T17:37:54.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/John_Williams_Reynolds</id>
         <link href="https://en.wikipedia.org/wiki/John_Williams_Reynolds"/>
         <updated>2024-03-02T05:38:20.039Z</updated>
-        <content type="html"><![CDATA[... that a well-publicized conflict with a superior officer led British cavalry officer <b><a href="/wiki/John_Williams_Reynolds" title="John Williams Reynolds">John Williams Reynolds</a></b> to take a break from his military career, study chemistry and discover <a href="/wiki/Propylene" title="Propylene">propylene</a>?]]></content>
+        <content type="html"><![CDATA[... that a well-publicised conflict with a superior officer led British cavalry officer <b><a href="/wiki/John_Williams_Reynolds" title="John Williams Reynolds">John Williams Reynolds</a></b> to take a break from his military career, study chemistry and discover <a href="/wiki/Propylene" title="Propylene">propylene</a>?]]></content>
     </entry>
 </feed>
