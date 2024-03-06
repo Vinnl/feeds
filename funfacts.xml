@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-03-06T05:37:18.592Z</updated>
+    <updated>2024-03-06T17:37:41.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[... that the horse <b><a href="/wiki/Sardar_(horse)" title="Sardar (horse)">Sardar</a></b> was gifted to <a href="/wiki/Jacqueline_Kennedy_Onassis" title="Jacqueline Kennedy Onassis">Jacqueline Kennedy</a> during <a href="/wiki/Jacqueline_Kennedy%27s_1962_goodwill_tour_of_India_and_Pakistan" title="Jacqueline Kennedy's 1962 goodwill tour of India and Pakistan">her 1962 goodwill tour of Pakistan</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a Renaissance palazzo]]></title>
+        <title type="html"><![CDATA[a Renaissance-style palazzo]]></title>
         <id>https://en.wikipedia.org/wiki/Otto_H._Kahn_House</id>
         <link href="https://en.wikipedia.org/wiki/Otto_H._Kahn_House"/>
         <updated>2024-03-06T05:37:13.773Z</updated>
-        <content type="html"><![CDATA[... that a school in New York City occupies <b><a href="/wiki/Otto_H._Kahn_House" title="Otto H. Kahn House">a Renaissance palazzo</a></b> and <b><a href="/wiki/James_A._Burden_House" title="James A. Burden House">a "French Renaissance hotel"</a></b>?]]></content>
+        <content type="html"><![CDATA[... that a school in New York City occupies <b><a href="/wiki/Otto_H._Kahn_House" title="Otto H. Kahn House">a Renaissance-style palazzo</a></b> and <b><a href="/wiki/James_A._Burden_House" title="James A. Burden House">a "French Renaissance hotel"</a></b>?]]></content>
     </entry>
 </feed>
