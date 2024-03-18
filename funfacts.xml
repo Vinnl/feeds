@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-03-17T17:37:15.356Z</updated>
+    <updated>2024-03-18T05:37:21.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Leeds 2023]]></title>
-        <id>https://en.wikipedia.org/wiki/Leeds_2023</id>
-        <link href="https://en.wikipedia.org/wiki/Leeds_2023"/>
-        <updated>2024-03-17T05:37:03.739Z</updated>
-        <content type="html"><![CDATA[... that a seven-metre-tall (23&nbsp;ft) "sculptural forest" <i>(pictured)</i> was created during <b><a href="/wiki/Leeds_2023" title="Leeds 2023">Leeds 2023</a></b>, inspired by the region's ancient woodland?]]></content>
+        <title type="html"><![CDATA[Joseph Bosworth]]></title>
+        <id>https://en.wikipedia.org/wiki/Joseph_Bosworth_(Kentucky_politician)</id>
+        <link href="https://en.wikipedia.org/wiki/Joseph_Bosworth_(Kentucky_politician)"/>
+        <updated>2024-03-18T05:37:17.674Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Joseph_Bosworth_(Kentucky_politician)" title="Joseph Bosworth (Kentucky politician)">Joseph Bosworth</a></b> <i>(pictured)</i> was the last <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a> speaker of the <a href="/wiki/Kentucky_House_of_Representatives" title="Kentucky House of Representatives">Kentucky House of Representatives</a> until the election of <a href="/wiki/Jeff_Hoover" title="Jeff Hoover">Jeff Hoover</a> in 2017?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Blair]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Blair_(surgeon)</id>
-        <link href="https://en.wikipedia.org/wiki/John_Blair_(surgeon)"/>
-        <updated>2024-03-17T05:37:03.747Z</updated>
-        <content type="html"><![CDATA[... that the Scottish surgeon <b><a href="/wiki/John_Blair_(surgeon)" title="John Blair (surgeon)">John Blair</a></b> was the only <a href="/wiki/Dux#Education" title="Dux">dux</a> of his high school to receive his gold medal in the presence of his wife and child?]]></content>
+        <title type="html"><![CDATA[Schönhardt polyhedron]]></title>
+        <id>https://en.wikipedia.org/wiki/Sch%C3%B6nhardt_polyhedron</id>
+        <link href="https://en.wikipedia.org/wiki/Sch%C3%B6nhardt_polyhedron"/>
+        <updated>2024-03-18T05:37:17.677Z</updated>
+        <content type="html"><![CDATA[... that Latvian-Soviet artist <a href="/wiki/Karlis_Johansons" title="Karlis Johansons">Karlis Johansons</a> exhibited a skeletal <a href="/wiki/Tensegrity" title="Tensegrity">tensegrity</a> form of the <b><a href="/wiki/Sch%C3%B6nhardt_polyhedron" title="Schönhardt polyhedron">Schönhardt polyhedron</a></b> seven years before <a href="/wiki/Erich_Sch%C3%B6nhardt" title="Erich Schönhardt">Erich Schönhardt</a>'s 1928 paper on its mathematics?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time Still Turns the Pages]]></title>
-        <id>https://en.wikipedia.org/wiki/Time_Still_Turns_the_Pages</id>
-        <link href="https://en.wikipedia.org/wiki/Time_Still_Turns_the_Pages"/>
-        <updated>2024-03-17T05:37:03.747Z</updated>
-        <content type="html"><![CDATA[... that the 2023 drama film <i><b><a href="/wiki/Time_Still_Turns_the_Pages" title="Time Still Turns the Pages">Time Still Turns the Pages</a></b></i> won the <a href="/wiki/Golden_Horse_Audience_Choice_Award" title="Golden Horse Audience Choice Award">Audience Choice Award</a> at the <a href="/wiki/60th_Golden_Horse_Awards" title="60th Golden Horse Awards">60th Golden Horse Awards</a>?]]></content>
+        <title type="html"><![CDATA[Walker Keith Baylor]]></title>
+        <id>https://en.wikipedia.org/wiki/Walker_Keith_Baylor</id>
+        <link href="https://en.wikipedia.org/wiki/Walker_Keith_Baylor"/>
+        <updated>2024-03-18T05:37:17.678Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Walker_Keith_Baylor" title="Walker Keith Baylor">Walker Keith Baylor</a></b>, a strong believer in <a href="/wiki/Phrenology" title="Phrenology">phrenology</a> and <a href="/wiki/Physiognomy" title="Physiognomy">physiognomy</a>, determined the fitness of political candidates by measuring their faces and heads with a <a href="/wiki/Tape_measure" title="Tape measure">tape measure</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New World Department Store]]></title>
-        <id>https://en.wikipedia.org/wiki/New_World_Department_Store_(Bangkok)</id>
-        <link href="https://en.wikipedia.org/wiki/New_World_Department_Store_(Bangkok)"/>
-        <updated>2024-03-17T05:37:03.747Z</updated>
-        <content type="html"><![CDATA[... that the abandoned <b><a href="/wiki/New_World_Department_Store_(Bangkok)" title="New World Department Store (Bangkok)">New World Department Store</a></b> in Bangkok became home to thousands of fish?]]></content>
+        <title type="html"><![CDATA[Bellingham fishermen's memorial]]></title>
+        <id>https://en.wikipedia.org/wiki/Safe_Return_(statue)</id>
+        <link href="https://en.wikipedia.org/wiki/Safe_Return_(statue)"/>
+        <updated>2024-03-18T05:37:17.680Z</updated>
+        <content type="html"><![CDATA[... that names have been steadily added to a <b><a href="/wiki/Safe_Return_(statue)" title="Safe Return (statue)">Bellingham fishermen's memorial</a></b> as local fishermen are lost at sea?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tan Kue Kim]]></title>
-        <id>https://en.wikipedia.org/wiki/Tan_Kue_Kim</id>
-        <link href="https://en.wikipedia.org/wiki/Tan_Kue_Kim"/>
-        <updated>2024-03-17T05:37:03.748Z</updated>
-        <content type="html"><![CDATA[... that Singaporean chef and restaurateur <b><a href="/wiki/Tan_Kue_Kim" title="Tan Kue Kim">Tan Kue Kim</a></b> cooked while wearing a <a href="/wiki/Singapore_dollar" title="Singapore dollar">S$</a>40,000 gold <a href="/wiki/Rolex" title="Rolex">Rolex</a> watch?]]></content>
+        <title type="html"><![CDATA[Adrian Ward-Jackson]]></title>
+        <id>https://en.wikipedia.org/wiki/Adrian_Ward-Jackson</id>
+        <link href="https://en.wikipedia.org/wiki/Adrian_Ward-Jackson"/>
+        <updated>2024-03-18T05:37:17.681Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Diana,_Princess_of_Wales" title="Diana, Princess of Wales">Diana, Princess of Wales</a>, drove through the night to be with <b><a href="/wiki/Adrian_Ward-Jackson" title="Adrian Ward-Jackson">Adrian Ward-Jackson</a></b> before he died?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[arguing about whether a beer promotional calendar was "demonic"]]></title>
-        <id>https://en.wikipedia.org/wiki/Calendargate</id>
-        <link href="https://en.wikipedia.org/wiki/Calendargate"/>
-        <updated>2024-03-17T05:37:03.749Z</updated>
-        <content type="html"><![CDATA[... that some online <a href="/wiki/Social_conservatism" title="Social conservatism">social</a> and "<a href="/wiki/Barstool_conservatism" title="Barstool conservatism">Barstool conservatives</a>" spent their Christmas holidays <b><a href="/wiki/Calendargate" title="Calendargate">arguing about whether a beer promotional calendar was "demonic"</a></b>?]]></content>
+        <title type="html"><![CDATA[outcome switching]]></title>
+        <id>https://en.wikipedia.org/wiki/Outcome_switching</id>
+        <link href="https://en.wikipedia.org/wiki/Outcome_switching"/>
+        <updated>2024-03-18T05:37:17.683Z</updated>
+        <content type="html"><![CDATA[... that in nearly one in three <a href="/wiki/Clinical_trial" title="Clinical trial">clinical trials</a>, authors engage in <b><a href="/wiki/Outcome_switching" title="Outcome switching">outcome switching</a></b>, which can undermine the reliability of the trials?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Majella O'Donnell]]></title>
-        <id>https://en.wikipedia.org/wiki/Majella_O%27Donnell</id>
-        <link href="https://en.wikipedia.org/wiki/Majella_O%27Donnell"/>
-        <updated>2024-03-17T05:37:03.750Z</updated>
-        <content type="html"><![CDATA[... that as she commenced <a href="/wiki/Chemotherapy" title="Chemotherapy">chemotherapy</a>, Irish singer <b><a href="/wiki/Majella_O%27Donnell" title="Majella O'Donnell">Majella O'Donnell</a></b> raised more than €350,000 for the <a href="/wiki/Irish_Cancer_Society" title="Irish Cancer Society">Irish Cancer Society</a> with a sponsored <a href="/wiki/Head_shaving#Cancer" title="Head shaving">head shave</a> live on <i><a href="/wiki/The_Late_Late_Show_(Irish_talk_show)" title="The Late Late Show (Irish talk show)">The Late Late Show</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Lewes Friends Meeting House]]></title>
+        <id>https://en.wikipedia.org/wiki/Lewes_Friends_Meeting_House</id>
+        <link href="https://en.wikipedia.org/wiki/Lewes_Friends_Meeting_House"/>
+        <updated>2024-03-18T05:37:17.684Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Lewes_Friends_Meeting_House" title="Lewes Friends Meeting House">Lewes Friends Meeting House</a></b>, built in 1784, replaced an earlier building whose proximity to a slaughterhouse made it "unfit to sit in"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mystic, South Dakota]]></title>
-        <id>https://en.wikipedia.org/wiki/Mystic,_South_Dakota</id>
-        <link href="https://en.wikipedia.org/wiki/Mystic,_South_Dakota"/>
-        <updated>2024-03-17T05:37:03.752Z</updated>
-        <content type="html"><![CDATA[... that US president <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Calvin Coolidge</a> left <b><a href="/wiki/Mystic,_South_Dakota" title="Mystic, South Dakota">Mystic, South Dakota</a></b>, in a lumber wagon?]]></content>
+        <title type="html"><![CDATA[Beck–Fahrner syndrome]]></title>
+        <id>https://en.wikipedia.org/wiki/Beck%E2%80%93Fahrner_syndrome</id>
+        <link href="https://en.wikipedia.org/wiki/Beck%E2%80%93Fahrner_syndrome"/>
+        <updated>2024-03-18T05:37:17.685Z</updated>
+        <content type="html"><![CDATA[... that only approximately 50 individuals have been diagnosed with <b><a href="/wiki/Beck%E2%80%93Fahrner_syndrome" title="Beck–Fahrner syndrome">Beck–Fahrner syndrome</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[runology]]></title>
+        <id>https://en.wikipedia.org/wiki/Run_(meme)</id>
+        <link href="https://en.wikipedia.org/wiki/Run_(meme)"/>
+        <updated>2024-03-18T05:37:17.687Z</updated>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/Run_(meme)" title="Run (meme)">runology</a></b>" is the study of how to run away from China?]]></content>
     </entry>
 </feed>
