@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T05:36:59.718Z</updated>
+    <updated>2024-04-01T17:37:01.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Pep (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Pep_(dog)</id>
-        <link href="https://en.wikipedia.org/wiki/Pep_(dog)"/>
-        <updated>2024-04-01T05:36:54.885Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Pep_(dog)" title="Pep (dog)">Pep</a></b> <i>(pictured)</i> was falsely accused of murdering a cat and sent to <a href="/wiki/Eastern_State_Penitentiary" title="Eastern State Penitentiary">Eastern State Penitentiary</a>?]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[color-changing cats (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Ray_cat</id>
         <link href="https://en.wikipedia.org/wiki/Ray_cat"/>
         <updated>2024-04-01T05:36:54.887Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ray_cat" title="Ray cat">color-changing cats</a></b> could help us communicate with the future?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ray_cat" title="Ray cat">color-changing cats</a></b> <i>(artist's impression pictured)</i> could help us communicate with the future?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pep (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Pep_(dog)</id>
+        <link href="https://en.wikipedia.org/wiki/Pep_(dog)"/>
+        <updated>2024-04-01T05:36:54.885Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Pep_(dog)" title="Pep (dog)">Pep</a></b> the dog was falsely accused of murdering a cat and sent to <a href="/wiki/Eastern_State_Penitentiary" title="Eastern State Penitentiary">Eastern State Penitentiary</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[charm quark (Wikipedia — did you know?)]]></title>
