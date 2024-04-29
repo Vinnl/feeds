@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-04-29T05:39:32.032Z</updated>
+    <updated>2024-04-29T17:37:56.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/G299.2-2.9</id>
         <link href="https://en.wikipedia.org/wiki/G299.2-2.9"/>
         <updated>2024-04-29T05:39:28.167Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/G299.2-2.9" title="G299.2-2.9">G299.2-2.9</a></b> <i>(pictured)</i> is one of the oldest known <a href="/wiki/Supernova" title="Supernova">supernova</a> remnants in the Milky Way?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/G299.2-2.9" title="G299.2-2.9">G299.2-2.9</a></b> <i>(pictured)</i> is one of the oldest known <a href="/wiki/Type_Ia_supernova" title="Type Ia supernova">Type Ia supernova</a> remnants in the Milky Way?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Camberley Kate]]></title>
