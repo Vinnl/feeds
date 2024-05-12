@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2024-05-11T17:37:15.745Z</updated>
+    <updated>2024-05-12T05:37:01.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -24,22 +24,22 @@
 	<span typeof="mw:File/Frameless"><a href="/wiki/Tirana" title="Tirana"><img alt="Tirana" src="//upload.wikimedia.org/wikivoyage/en/thumb/6/6a/TiranaBanner1.jpg/1700px-TiranaBanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/6/6a/TiranaBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></a></span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hagi]]></title>
-        <id>https://en.wikivoyage.org/wiki/Hagi</id>
-        <link href="https://en.wikivoyage.org/wiki/Hagi"/>
-        <updated>2024-04-12T05:38:09.888Z</updated>
+        <title type="html"><![CDATA[Bethlehem (Pennsylvania)]]></title>
+        <id>https://en.wikivoyage.org/wiki/Bethlehem_(Pennsylvania)</id>
+        <link href="https://en.wikivoyage.org/wiki/Bethlehem_(Pennsylvania)"/>
+        <updated>2024-05-12T05:36:59.878Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
 <div class="banner-image js-proportonal-resize notheme" style="font-size: 117.222%;">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:50%">
-		<h2><span class="mw-headline" id="Hagi"><a href="/wiki/Hagi" title="Hagi">Hagi</a></span></h2>
+	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
+		<h2><span id="Bethlehem_.28Pennsylvania.29"></span><span class="mw-headline" id="Bethlehem_(Pennsylvania)"><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)">Bethlehem (Pennsylvania)</a></span></h2>
 		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Hagi" title="Hagi">One of Japan's most beautiful castle towns, of the 17th century castle itself only the moat, walls and garden remain.</a></div>
+		<div class="quote"><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)">Named after lyrics in Christmas carols, the town that once was a main steel producer now has a lot of industrial heritage and festivals.</a></div>
 	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Hagi"><img alt="Hagi" src="//upload.wikimedia.org/wikivoyage/en/thumb/b/bb/HagiBanner1.jpg/1700px-HagiBanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/b/bb/HagiBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></span></span>
+<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Bethlehem (Pennsylvania)"><img alt="Bethlehem (Pennsylvania)" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/48/BethlehemPABanner1.jpg/1700px-BethlehemPABanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/4/48/BethlehemPABanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></span></span>
 </p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/Hagi" title="Hagi"><img alt="Hagi" src="//upload.wikimedia.org/wikivoyage/en/thumb/b/bb/HagiBanner1.jpg/1700px-HagiBanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/b/bb/HagiBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></a></span></div>]]></content>
+	<span typeof="mw:File/Frameless"><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)"><img alt="Bethlehem (Pennsylvania)" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/48/BethlehemPABanner1.jpg/1700px-BethlehemPABanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/4/48/BethlehemPABanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></a></span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Volcanoes]]></title>
