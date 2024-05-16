@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-05-16T05:38:17.361Z</updated>
+    <updated>2024-05-16T17:38:32.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jonny_Pelham</id>
         <link href="https://en.wikipedia.org/wiki/Jonny_Pelham"/>
         <updated>2024-05-16T05:38:13.066Z</updated>
-        <content type="html"><![CDATA[... that the comedian <b><a href="/wiki/Jonny_Pelham" title="Jonny Pelham">Jonny Pelham</a></b> is one of only 200 people in the UK to suffer from <a href="/wiki/Popliteal_pterygium_syndrome" title="Popliteal pterygium syndrome">popliteal pterygium syndrome</a>?]]></content>
+        <content type="html"><![CDATA[... that the comedian <b><a href="/wiki/Jonny_Pelham" title="Jonny Pelham">Jonny Pelham</a></b> is one of an estimated 200 people in the UK to suffer from <a href="/wiki/Popliteal_pterygium_syndrome" title="Popliteal pterygium syndrome">popliteal pterygium syndrome</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[You're Losing Me]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that <i><a href="/wiki/BBC_Breakfast" title="BBC Breakfast">BBC Breakfast</a></i><span class="nowrap" style="padding-left:0.1em;">'s</span> resident doctor <b><a href="/wiki/Nighat_Arif" title="Nighat Arif">Nighat Arif</a></b> has advocated for more women to be given <a href="/wiki/Vibrator_(sex_toy)" title="Vibrator (sex toy)">vibrators</a> for medical reasons?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soviet prisoners of war were]]></title>
+        <title type="html"><![CDATA[Soviet prisoners of war]]></title>
         <id>https://en.wikipedia.org/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war</id>
         <link href="https://en.wikipedia.org/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war"/>
         <updated>2024-05-16T05:38:13.070Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war" title="German atrocities committed against Soviet prisoners of war">Soviet prisoners of war were</a></b> the second-largest group of victims of Nazi mass killing?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war" title="German atrocities committed against Soviet prisoners of war">Soviet prisoners of war</a></b> were the second-largest group of victims of Nazi mass killing?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Katherine Sleeper Walden]]></title>
