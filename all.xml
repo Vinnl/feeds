@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-17T05:39:27.550Z</updated>
+    <updated>2024-05-17T17:37:12.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[George Jenkins (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Golden_State_Valkyries</id>
         <link href="https://en.wikipedia.org/wiki/Golden_State_Valkyries"/>
         <updated>2024-05-17T05:39:22.739Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Golden_State_Valkyries" title="Golden State Valkyries">Golden State Valkyries</a></b> are the first expansion franchise in the <a href="/wiki/Women%27s_National_Basketball_Association" title="Women's National Basketball Association">WNBA</a> since 2008?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Golden_State_Valkyries" title="Golden State Valkyries">Golden State Valkyries</a></b> are the first <a href="/wiki/Expansion_team" title="Expansion team">expansion franchise</a> in the <a href="/wiki/Women%27s_National_Basketball_Association" title="Women's National Basketball Association">WNBA</a> since 2008?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a 2021 Dutch translation (Wikipedia — did you know?)]]></title>
