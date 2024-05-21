@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-05-21T05:37:09.336Z</updated>
+    <updated>2024-05-21T17:37:04.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://en.wikipedia.org/wiki/Horvat_%27Eqed</id>
         <link href="https://en.wikipedia.org/wiki/Horvat_%27Eqed"/>
         <updated>2024-05-21T05:37:04.428Z</updated>
-        <content type="html"><![CDATA[... that excavations at <b><a href="/wiki/Horvat_%27Eqed" title="Horvat 'Eqed">Horvat 'Eqed</a></b> <i>(pictured)</i> uncovered <a href="/wiki/Bar_Kokhba_revolt_coinage" title="Bar Kokhba revolt coinage">coinage</a> and <a href="/wiki/Bar_Kokhba_hiding_complexes" title="Bar Kokhba hiding complexes">hiding complexes</a> dating from the <a href="/wiki/Bar_Kokhba_revolt" title="Bar Kokhba revolt">Bar Kokhba revolt</a>, as well as arrowheads, armor scales, slingshots, and ballistae?]]></content>
+        <content type="html"><![CDATA[... that excavations at <b><a href="/wiki/Horvat_%27Eqed" title="Horvat 'Eqed">Horvat 'Eqed</a></b> <i>(pictured)</i> uncovered <a href="/wiki/Bar_Kokhba_revolt_coinage" title="Bar Kokhba revolt coinage">coinage</a> and <a href="/wiki/Bar_Kokhba_hiding_complexes" title="Bar Kokhba hiding complexes">hiding complexes</a> dating from the <a href="/wiki/Bar_Kokhba_revolt" title="Bar Kokhba revolt">Bar Kokhba revolt</a>, as well as arrowheads, armor scales, slingshots, and <a href="/wiki/Ballista" title="Ballista">ballistae</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spider]]></title>
         <id>https://en.wikipedia.org/wiki/Spider_(musician)</id>
         <link href="https://en.wikipedia.org/wiki/Spider_(musician)"/>
         <updated>2024-05-21T05:37:04.429Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Spider_(musician)" title="Spider (musician)">Spider</a></b> began making <a href="/wiki/Alternative_music" title="Alternative music">alternative music</a> because she felt that not enough Black women were doing so?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Spider_(musician)" title="Spider (musician)">Spider</a></b> began making <a href="/wiki/Alternative_rock#Alternative_pop" title="Alternative rock">alternative music</a> because she felt that not enough Black women were doing so?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Southern Railway Building]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Bed_of_nails_defense</id>
         <link href="https://en.wikipedia.org/wiki/Bed_of_nails_defense"/>
         <updated>2024-05-21T05:37:04.439Z</updated>
-        <content type="html"><![CDATA[... that Richard Garwin proposed using a <b><a href="/wiki/Bed_of_nails_defense" title="Bed of nails defense">bed of nails</a></b> to protect the <a href="/wiki/LGM-30_Minuteman" title="LGM-30 Minuteman">Minuteman missile</a> silos from attack?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Richard_Garwin" title="Richard Garwin">Richard Garwin</a> proposed using a <b><a href="/wiki/Bed_of_nails_defense" title="Bed of nails defense">bed of nails</a></b> to protect the <a href="/wiki/LGM-30_Minuteman" title="LGM-30 Minuteman">Minuteman missile</a> silos from attack?]]></content>
     </entry>
 </feed>
