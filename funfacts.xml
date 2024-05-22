@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-05-22T05:37:52.132Z</updated>
+    <updated>2024-05-22T17:39:18.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,13 +59,13 @@
         <id>https://en.wikipedia.org/wiki/Liviu_Holender</id>
         <link href="https://en.wikipedia.org/wiki/Liviu_Holender"/>
         <updated>2024-05-22T05:37:47.322Z</updated>
-        <content type="html"><![CDATA[... that baritone <b><a href="/wiki/Liviu_Holender" title="Liviu Holender">Liviu Holender</a></b> chose <a href="/wiki/Lied" title="Lied">lieder</a> by five composers whose music was banned by the Nazis—<a href="/wiki/Franz_Schreker" title="Franz Schreker">Schreker</a>, <a href="/wiki/Alexander_von_Zemlinsky" title="Alexander von Zemlinsky">Zemlinsky</a>, <a href="/wiki/Gustav_Mahler" title="Gustav Mahler">Mahler</a>, <a href="/wiki/Erich_Wolfgang_Korngold" title="Erich Wolfgang Korngold">Korngold</a> and <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Schönberg</a>—for a recital at the <a href="/wiki/Oper_Frankfurt" title="Oper Frankfurt">Oper Frankfurt</a>?]]></content>
+        <content type="html"><![CDATA[... that baritone <b><a href="/wiki/Liviu_Holender" title="Liviu Holender">Liviu Holender</a></b> chose <i><a href="/wiki/Lied" title="Lied">lieder</a></i> by five composers whose music was banned by the Nazis—<a href="/wiki/Franz_Schreker" title="Franz Schreker">Schreker</a>, <a href="/wiki/Alexander_von_Zemlinsky" title="Alexander von Zemlinsky">Zemlinsky</a>, <a href="/wiki/Gustav_Mahler" title="Gustav Mahler">Mahler</a>, <a href="/wiki/Erich_Wolfgang_Korngold" title="Erich Wolfgang Korngold">Korngold</a> and <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Schönberg</a>—for a recital at the <a href="/wiki/Oper_Frankfurt" title="Oper Frankfurt">Oper Frankfurt</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Estoppey D-8]]></title>
         <id>https://en.wikipedia.org/wiki/Estoppey_D-series</id>
         <link href="https://en.wikipedia.org/wiki/Estoppey_D-series"/>
         <updated>2024-05-22T05:37:47.323Z</updated>
-        <content type="html"><![CDATA[... that some members of the <a href="/wiki/United_States_Army_Air_Corps" title="United States Army Air Corps">U.S. Army Air Corps</a> were so unimpressed by the <b><a href="/wiki/Estoppey_D-series" title="Estoppey D-series">Estoppey <span class="nowrap">D-8</span></a></b> that one member stated that he would rather use "nails and a wire"?]]></content>
+        <content type="html"><![CDATA[... that one member of the <a href="/wiki/United_States_Army_Air_Corps" title="United States Army Air Corps">U.S. Army Air Corps</a> was so unimpressed by the <b><a href="/wiki/Estoppey_D-series" title="Estoppey D-series">Estoppey <span class="nowrap">D-8</span></a></b> that he stated that he would rather use "nails and a wire"?]]></content>
     </entry>
 </feed>
