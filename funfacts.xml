@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-05-24T05:37:03.068Z</updated>
+    <updated>2024-05-24T17:37:11.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Axel Downard-Wilke]]></title>
-        <id>https://en.wikipedia.org/wiki/Axel_Downard-Wilke</id>
-        <link href="https://en.wikipedia.org/wiki/Axel_Downard-Wilke"/>
-        <updated>2024-05-24T05:36:58.167Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Axel_Downard-Wilke" title="Axel Downard-Wilke">Axel Downard-Wilke</a></b> <i>(pictured)</i> led a campaign in 2020 to have <a href="/wiki/Macron_(diacritic)" title="Macron (diacritic)">macrons</a> used in <a href="/wiki/M%C4%81ori_language" title="Māori language">Māori</a> place names in Wikipedia articles?]]></content>
+        <title type="html"><![CDATA[Nellie McCoy]]></title>
+        <id>https://en.wikipedia.org/wiki/Nellie_McCoy</id>
+        <link href="https://en.wikipedia.org/wiki/Nellie_McCoy"/>
+        <updated>2024-05-24T05:36:58.176Z</updated>
+        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Nellie_McCoy" title="Nellie McCoy">Nellie McCoy</a></b> <i>(pictured)</i> suffered a <a href="/wiki/Mental_disorder#Definition" title="Mental disorder">mental breakdown</a> after her theatre performance was criticized, leading to her being committed to a <a href="/wiki/Sanatorium" title="Sanatorium">sanatorium</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[icosian game]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Theo_Benedet" title="Theo Benedet">Theo Benedet</a></b> is the first <a href="/wiki/Lineman_(gridiron_football)#Offensive_line" title="Lineman (gridiron football)">offensive lineman</a> to be named the best Canadian university football lineman two years in a row?]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Luo Wenzao]]></title>
+        <id>https://en.wikipedia.org/wiki/Luo_Wenzao</id>
+        <link href="https://en.wikipedia.org/wiki/Luo_Wenzao"/>
+        <updated>2024-05-24T17:37:06.701Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Luo_Wenzao" title="Luo Wenzao">Luo Wenzao</a></b> became the first <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic</a> bishop from China in 1685, after initially declining the appointment in 1677?]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bulgur Palas]]></title>
         <id>https://en.wikipedia.org/wiki/Bulgur_Palas</id>
         <link href="https://en.wikipedia.org/wiki/Bulgur_Palas"/>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[... that the historic mansion <b><a href="/wiki/Bulgur_Palas" title="Bulgur Palas">Bulgur Palas</a></b> in <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a> hosted a birdhouse for hundreds of domestic canaries in one room during its ownership by the <a href="/wiki/Ottoman_Bank" title="Ottoman Bank">Ottoman Bank</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nellie McCoy]]></title>
-        <id>https://en.wikipedia.org/wiki/Nellie_McCoy</id>
-        <link href="https://en.wikipedia.org/wiki/Nellie_McCoy"/>
-        <updated>2024-05-24T05:36:58.176Z</updated>
-        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Nellie_McCoy" title="Nellie McCoy">Nellie McCoy</a></b> suffered a <a href="/wiki/Mental_disorder#Definition" title="Mental disorder">mental breakdown</a> after her theatre performance was criticized, leading to her being committed to a <a href="/wiki/Sanatorium" title="Sanatorium">sanatorium</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[search for clown pornography]]></title>
+        <title type="html"><![CDATA[clown pornography]]></title>
         <id>https://en.wikipedia.org/wiki/Coulrophilia</id>
         <link href="https://en.wikipedia.org/wiki/Coulrophilia"/>
         <updated>2024-05-24T05:36:58.177Z</updated>
-        <content type="html"><![CDATA[... that women were 33 percent more likely than men to <b><a href="/wiki/Coulrophilia" title="Coulrophilia">search for clown pornography</a></b> in 2016?]]></content>
+        <content type="html"><![CDATA[... that women were 33 percent more likely than men to search for <b><a href="/wiki/Coulrophilia" title="Coulrophilia">clown pornography</a></b> on <a href="/wiki/Pornhub" title="Pornhub">Pornhub</a> in 2016?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[United States' Telegraph]]></title>
