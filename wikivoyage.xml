@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2024-06-07T05:37:36.608Z</updated>
+    <updated>2024-06-07T17:37:52.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -15,8 +15,8 @@
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
-		<h2><span class="mw-headline" id="Bonn"><a href="/wiki/Bonn" title="Bonn">Bonn</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_Month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></span></h3>
+		<div class="mw-heading mw-heading2"><h2 id="Bonn"><a href="/wiki/Bonn" title="Bonn">Bonn</a></h2></div>
+		<div class="mw-heading mw-heading3"><h3 id="Destination_of_the_Month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></h3></div>
 		<div class="quote"><a href="/wiki/Bonn" title="Bonn">Founded by the Romans, the former West German capital was also the home of Beethoven and its lively streets has given it the nickname "Italy's most northern city ".</a></div>
 	</div>
 <p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Bonn"><img alt="Bonn" src="//upload.wikimedia.org/wikivoyage/en/thumb/f/fc/BonnBanner1.jpg/1700px-BonnBanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/f/fc/BonnBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></span></span>
@@ -33,8 +33,8 @@
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
-		<h2><span id="Bethlehem_.28Pennsylvania.29"></span><span class="mw-headline" id="Bethlehem_(Pennsylvania)"><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)">Bethlehem (Pennsylvania)</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
+		<div class="mw-heading mw-heading2"><h2 id="Bethlehem_(Pennsylvania)"><span id="Bethlehem_.28Pennsylvania.29"></span><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)">Bethlehem (Pennsylvania)</a></h2></div>
+		<div class="mw-heading mw-heading3"><h3 id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></h3></div>
 		<div class="quote"><a href="/wiki/Bethlehem_(Pennsylvania)" title="Bethlehem (Pennsylvania)">Named after lyrics in Christmas carols, the town that once was a main steel producer now has a lot of industrial heritage and festivals.</a></div>
 	</div>
 <p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Bethlehem (Pennsylvania)"><img alt="Bethlehem (Pennsylvania)" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/48/BethlehemPABanner1.jpg/1700px-BethlehemPABanner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/4/48/BethlehemPABanner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></span></span>
@@ -51,8 +51,8 @@
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
-		<h2><span class="mw-headline" id="E8_through_Finland_and_Norway"><a href="/wiki/E8_through_Finland_and_Norway" title="E8 through Finland and Norway">E8 through Finland and Norway</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
+		<div class="mw-heading mw-heading2"><h2 id="E8_through_Finland_and_Norway"><a href="/wiki/E8_through_Finland_and_Norway" title="E8 through Finland and Norway">E8 through Finland and Norway</a></h2></div>
+		<div class="mw-heading mw-heading3"><h3 id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></h3></div>
 		<div class="quote"><a href="/wiki/E8_through_Finland_and_Norway" title="E8 through Finland and Norway">From Turku to Tromsø, European route E8 passes through various types of Finnish and Norwegian landscapes.</a></div>
 	</div>
 <p>	<span class="nolink" typeof="mw:File/Frameless"><span title="E8 through Finland and Norway"><img alt="E8 through Finland and Norway" src="//upload.wikimedia.org/wikivoyage/en/thumb/9/95/E8Banner1.jpg/1700px-E8Banner1.jpg" decoding="async" width="1700" height="567" class="mw-file-element" srcset="//upload.wikimedia.org/wikivoyage/en/9/95/E8Banner1.jpg 1.5x" data-file-width="1710" data-file-height="570"></span></span>
