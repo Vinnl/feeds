@@ -2,70 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-10T17:37:11.749Z</updated>
+    <updated>2024-06-11T05:38:03.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Tobias and the Angel]]></title>
-        <id>https://en.wikipedia.org/wiki/Tobias_and_the_Angel</id>
-        <link href="https://en.wikipedia.org/wiki/Tobias_and_the_Angel"/>
-        <updated>2024-06-10T05:37:57.426Z</updated>
-        <content type="html"><![CDATA[... that depictions of <b><a href="/wiki/Tobias_and_the_Angel" title="Tobias and the Angel">Tobias and the Angel</a></b> <i>(example pictured)</i>, unusually for a religious subject, typically show Tobias's dog?]]></content>
+        <title type="html"><![CDATA[a Catholic church]]></title>
+        <id>https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Moxi</id>
+        <link href="https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Moxi"/>
+        <updated>2024-06-11T05:37:58.998Z</updated>
+        <content type="html"><![CDATA[... that two European missionaries stationed in <b><a href="/wiki/St._Anne%27s_Church,_Moxi" title="St. Anne's Church, Moxi">a Catholic church</a></b> <i>(pictured)</i> were beheaded by Chinese Red Army soldiers led by <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a> in 1935?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zer0]]></title>
-        <id>https://en.wikipedia.org/wiki/Zer0</id>
-        <link href="https://en.wikipedia.org/wiki/Zer0"/>
-        <updated>2024-06-10T05:37:57.427Z</updated>
-        <content type="html"><![CDATA[... that Australian gamer <b><a href="/wiki/Zer0" title="Zer0">Zer0</a></b> led his team to an <a href="/wiki/Apex_Legends_Global_Series" title="Apex Legends Global Series"><i>Apex Legends</i> Global Series</a> championship with a substitution teammate to whom he had never spoken before?]]></content>
+        <title type="html"><![CDATA[Felipe Lara]]></title>
+        <id>https://en.wikipedia.org/wiki/Felipe_Lara</id>
+        <link href="https://en.wikipedia.org/wiki/Felipe_Lara"/>
+        <updated>2024-06-11T05:37:58.998Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Felipe_Lara" title="Felipe Lara">Felipe Lara</a></b><span class="nowrap">'s</span> <a href="/wiki/Pulitzer_Prize_for_Music" title="Pulitzer Prize for Music">Pulitzer finalist</a> <i>Double Concerto</i> turns its soloists into a "many-tentacled creature"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Modern Mephistopheles]]></title>
-        <id>https://en.wikipedia.org/wiki/A_Modern_Mephistopheles</id>
-        <link href="https://en.wikipedia.org/wiki/A_Modern_Mephistopheles"/>
-        <updated>2024-06-10T05:37:57.427Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Louisa_May_Alcott" title="Louisa May Alcott">Louisa May Alcott</a> wrote <i><b><a href="/wiki/A_Modern_Mephistopheles" title="A Modern Mephistopheles">A Modern Mephistopheles</a></b></i> as part of an anonymous series in which readers were meant to guess the author?]]></content>
+        <title type="html"><![CDATA[more uniform in appearance]]></title>
+        <id>https://en.wikipedia.org/wiki/Phenotypic_disparity</id>
+        <link href="https://en.wikipedia.org/wiki/Phenotypic_disparity"/>
+        <updated>2024-06-11T05:37:59.000Z</updated>
+        <content type="html"><![CDATA[... that birds have more species than mammals, but are relatively <b><a href="/wiki/Phenotypic_disparity" title="Phenotypic disparity">more uniform in appearance</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a Soviet physicist]]></title>
-        <id>https://en.wikipedia.org/wiki/Alexei_Starobinsky</id>
-        <link href="https://en.wikipedia.org/wiki/Alexei_Starobinsky"/>
-        <updated>2024-06-10T05:37:57.428Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Starobinsky_inflation" title="Starobinsky inflation">the first model of cosmic inflation</a> was formulated by <b><a href="/wiki/Alexei_Starobinsky" title="Alexei Starobinsky">a Soviet physicist</a></b> but initially remained unknown outside the Soviet Union?]]></content>
+        <title type="html"><![CDATA[Ryoko Kui]]></title>
+        <id>https://en.wikipedia.org/wiki/Ryoko_Kui</id>
+        <link href="https://en.wikipedia.org/wiki/Ryoko_Kui"/>
+        <updated>2024-06-11T05:37:59.001Z</updated>
+        <content type="html"><![CDATA[... that in addition to her popular manga series <i><a href="/wiki/Delicious_in_Dungeon" title="Delicious in Dungeon">Delicious in Dungeon</a></i>, <b><a href="/wiki/Ryoko_Kui" title="Ryoko Kui">Ryoko Kui</a></b> has drawn fan art of the games <i><a href="/wiki/Baldur%27s_Gate" title="Baldur's Gate">Baldur's Gate</a></i>, <i><a href="/wiki/Pathfinder_Roleplaying_Game" title="Pathfinder Roleplaying Game">Pathfinder</a></i> and <i><a href="/wiki/Planescape:_Torment" title="Planescape: Torment">Planescape: Torment</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Star Beast]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Star_Beast_(Doctor_Who)</id>
-        <link href="https://en.wikipedia.org/wiki/The_Star_Beast_(Doctor_Who)"/>
-        <updated>2024-06-10T05:37:57.429Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/List_of_Doctor_Who_villains#Beep_the_Meep" title="List of Doctor Who villains">Beep the Meep</a> puppet created for "<b><a href="/wiki/The_Star_Beast_(Doctor_Who)" title="The Star Beast (Doctor Who)">The Star Beast</a></b>" took six people to operate?]]></content>
+        <title type="html"><![CDATA[Eurovision Song Contest 1974]]></title>
+        <id>https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974</id>
+        <link href="https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974"/>
+        <updated>2024-06-11T05:37:59.002Z</updated>
+        <content type="html"><![CDATA[... that one Italian broadcaster delayed airing <b><a href="/wiki/Eurovision_Song_Contest_1974" title="Eurovision Song Contest 1974">Eurovision Song Contest 1974</a></b> by two months to avoid influencing <a href="/wiki/1974_Italian_divorce_referendum" title="1974 Italian divorce referendum">an upcoming divorce law referendum</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levi Drake Rodriguez]]></title>
-        <id>https://en.wikipedia.org/wiki/Levi_Drake_Rodriguez</id>
-        <link href="https://en.wikipedia.org/wiki/Levi_Drake_Rodriguez"/>
-        <updated>2024-06-10T05:37:57.430Z</updated>
-        <content type="html"><![CDATA[... that football player <b><a href="/wiki/Levi_Drake_Rodriguez" title="Levi Drake Rodriguez">Levi Drake Rodriguez</a></b>, considered small for his position, went on an "eat-as-much-as-humanly-possible diet" to be noticed by NFL teams?]]></content>
+        <title type="html"><![CDATA[Jude McAtamney]]></title>
+        <id>https://en.wikipedia.org/wiki/Jude_McAtamney</id>
+        <link href="https://en.wikipedia.org/wiki/Jude_McAtamney"/>
+        <updated>2024-06-11T05:37:59.003Z</updated>
+        <content type="html"><![CDATA[... that Irish <a href="/wiki/Gaelic_football" title="Gaelic football">Gaelic footballer</a> <b><a href="/wiki/Jude_McAtamney" title="Jude McAtamney">Jude McAtamney</a></b> became interested in <a href="/wiki/American_football" title="American football">American football</a> after reading a Twitter post in 2020, and became an <a href="/wiki/National_Football_League" title="National Football League">NFL</a> player in 2024?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hind's Hall]]></title>
-        <id>https://en.wikipedia.org/wiki/Hind%27s_Hall</id>
-        <link href="https://en.wikipedia.org/wiki/Hind%27s_Hall"/>
-        <updated>2024-06-10T05:37:57.432Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Macklemore" title="Macklemore">Macklemore</a>'s song "<b><a href="/wiki/Hind%27s_Hall" title="Hind's Hall">Hind's Hall</a></b>" refers to <a href="/wiki/Killing_of_Hind_Rajab" title="Killing of Hind Rajab">Hind Rajab</a>, a six-year-old girl who was killed in the Gaza Strip in January&nbsp;2024?]]></content>
+        <title type="html"><![CDATA[Episode 8851]]></title>
+        <id>https://en.wikipedia.org/wiki/Episode_8851</id>
+        <link href="https://en.wikipedia.org/wiki/Episode_8851"/>
+        <updated>2024-06-11T05:37:59.007Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Tim_Robards" title="Tim Robards">Tim Robards</a> returned to <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i> in <b><a href="/wiki/Episode_8851" title="Episode 8851">Episode&nbsp;8851</a></b>, two years after he had to quit his role early?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brad Banducci]]></title>
-        <id>https://en.wikipedia.org/wiki/Brad_Banducci</id>
-        <link href="https://en.wikipedia.org/wiki/Brad_Banducci"/>
-        <updated>2024-06-10T05:37:57.433Z</updated>
-        <content type="html"><![CDATA[... that starting at age 16, future <a href="/wiki/Woolworths_Group_(Australia)" title="Woolworths Group (Australia)">Woolworths</a> CEO <b><a href="/wiki/Brad_Banducci" title="Brad Banducci">Brad Banducci</a></b> was named top sewing machine salesperson three years in a row?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[polis]]></title>
-        <id>https://en.wikipedia.org/wiki/Polis_(board_game)</id>
-        <link href="https://en.wikipedia.org/wiki/Polis_(board_game)"/>
-        <updated>2024-06-10T05:37:57.436Z</updated>
-        <content type="html"><![CDATA[... that the ancient Greek game <b><a href="/wiki/Polis_(board_game)" title="Polis (board game)">polis</a></b> is one of the world's oldest known strategy games?]]></content>
+        <title type="html"><![CDATA[Franz Liszt]]></title>
+        <id>https://en.wikipedia.org/wiki/Franz_Liszt</id>
+        <link href="https://en.wikipedia.org/wiki/Franz_Liszt"/>
+        <updated>2024-06-11T05:37:59.008Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Franz_Liszt" title="Franz Liszt">Franz Liszt</a></b><span class="nowrap">'s</span> female admirers would fight over his cigar stubs and coffee dregs as souvenirs?]]></content>
     </entry>
 </feed>
