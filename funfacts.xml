@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-15T05:37:33.440Z</updated>
+    <updated>2024-06-15T17:37:19.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[... that a mob in <a href="/wiki/Lunenburg,_Nova_Scotia" title="Lunenburg, Nova Scotia">Lunenburg, Nova Scotia</a>, detained <b><a href="/wiki/Jean_Pettrequin" title="Jean Pettrequin">Jean Pettrequin</a></b> and searched for <b><a href="/wiki/Sebastian_Zouberbuhler" title="Sebastian Zouberbuhler">Sebastian Zouberbuhler</a></b> because of a letter?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACS-1]]></title>
-        <id>https://en.wikipedia.org/wiki/IBM_Advanced_Computer_Systems_project</id>
-        <link href="https://en.wikipedia.org/wiki/IBM_Advanced_Computer_Systems_project"/>
-        <updated>2024-06-15T05:37:29.033Z</updated>
-        <content type="html"><![CDATA[... that although it was never built, <a href="/wiki/Lynn_Conway" title="Lynn Conway">Lynn Conway</a> notes that IBM's <b><a href="/wiki/IBM_Advanced_Computer_Systems_project" title="IBM Advanced Computer Systems project">ACS-1</a></b> would have been the premier <a href="/wiki/Supercomputer" title="Supercomputer">supercomputer</a> of the era?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Caitlyn Wurzburger]]></title>
         <id>https://en.wikipedia.org/wiki/Caitlyn_Wurzburger</id>
         <link href="https://en.wikipedia.org/wiki/Caitlyn_Wurzburger"/>
@@ -66,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Radio_Yerevan_jokes</id>
         <link href="https://en.wikipedia.org/wiki/Radio_Yerevan_jokes"/>
         <updated>2024-06-15T05:37:29.039Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Radio_Yerevan_jokes" title="Radio Yerevan jokes">Armenian Radio jokes</a></b> are neither about radio nor are they Armenian?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Radio_Yerevan_jokes" class="mw-redirect" title="Radio Yerevan jokes">Armenian Radio jokes</a></b> are neither about radio nor are they Armenian?]]></content>
     </entry>
 </feed>
