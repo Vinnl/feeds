@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-17T05:39:59.932Z</updated>
+    <updated>2024-06-17T17:37:10.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Manganese_nitrides</id>
         <link href="https://en.wikipedia.org/wiki/Manganese_nitrides"/>
         <updated>2024-06-17T05:39:55.038Z</updated>
-        <content type="html"><![CDATA[... that making the <b><a href="/wiki/Manganese_nitrides" title="Manganese nitrides">manganese nitride</a></b> Mn<sub>2</sub>N requires a <a href="/wiki/Metal_foam" title="Metal foam">sponge</a>?]]></content>
+        <content type="html"><![CDATA[... that making a <b><a href="/wiki/Manganese_nitrides" title="Manganese nitrides">manganese nitride</a></b> in 1894 required a <a href="/wiki/Metal_foam" title="Metal foam">sponge</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jan Leike]]></title>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Zombie_Plane</id>
         <link href="https://en.wikipedia.org/wiki/Zombie_Plane"/>
         <updated>2024-06-17T05:39:55.043Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Zombie_Plane" title="Zombie Plane">Zombie Plane</a></b></i> cannot take flight from <a href="/wiki/Chuck_Norris" title="Chuck Norris">Chuck Norris</a>?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Zombie_Plane" title="Zombie Plane">Zombie Plane</a></b></i> "mercilessly mocks its main stars", according to <i><a href="/wiki/The_Hollywood_Reporter" title="The Hollywood Reporter">The Hollywood Reporter</a></i>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Two Roosters Ice Cream]]></title>
