@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-21T05:37:22.105Z</updated>
+    <updated>2024-06-21T17:37:11.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://en.wikipedia.org/wiki/Metaphysics"/>
         <updated>2024-06-21T05:37:15.325Z</updated>
         <content type="html"><![CDATA[... that a <a href="/wiki/Mereological_nihilism" title="Mereological nihilism">nihilist school</a> of <b><a href="/wiki/Metaphysics" title="Metaphysics">metaphysics</a></b> contends that tables and chairs do not exist?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cora Babbitt Johnson]]></title>
-        <id>https://en.wikipedia.org/wiki/Cora_Babbitt_Johnson</id>
-        <link href="https://en.wikipedia.org/wiki/Cora_Babbitt_Johnson"/>
-        <updated>2024-06-21T05:37:15.326Z</updated>
-        <content type="html"><![CDATA[... that the efforts of <b><a href="/wiki/Cora_Babbitt_Johnson" title="Cora Babbitt Johnson">Cora Babbitt Johnson</a></b> helped delay the construction of <a href="/wiki/Mount_Rushmore" title="Mount Rushmore">Mount Rushmore</a> until 1927?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sea of Voices]]></title>
