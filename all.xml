@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-23T05:37:04.556Z</updated>
+    <updated>2024-06-23T17:37:12.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Yulia Lipnitskaya (Wikipedia — did you know?)]]></title>
@@ -44,7 +44,7 @@
         <id>https://en.wikipedia.org/wiki/Climate_change_in_Asia</id>
         <link href="https://en.wikipedia.org/wiki/Climate_change_in_Asia"/>
         <updated>2024-06-23T05:36:59.702Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Climate_change_in_Asia" title="Climate change in Asia">climate change in Asia</a></b> is expected to increase already-high flood risks in Asian cities, potentially affecting 932&nbsp;million people?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Climate_change_in_Asia" title="Climate change in Asia">climate change in Asia</a></b> is expected to increase flood risks in the continent's cities, which are already high for 932&nbsp;million people?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkyBridge Alternatives Conference (Wikipedia — did you know?)]]></title>
