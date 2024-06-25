@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-25T05:37:57.414Z</updated>
+    <updated>2024-06-25T17:37:10.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Erismatopterus</id>
         <link href="https://en.wikipedia.org/wiki/Erismatopterus"/>
         <updated>2024-06-25T05:37:54.582Z</updated>
-        <content type="html"><![CDATA[... that young <i><b><a href="/wiki/Erismatopterus" title="Erismatopterus">Erismatopterus</a></b></i> formed shoals as a likely way to avoid predators?]]></content>
+        <content type="html"><![CDATA[... that young <i><b><a href="/wiki/Erismatopterus" title="Erismatopterus">Erismatopterus</a></b></i> formed <a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">shoals</a>, likely as a way to avoid predators?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[al-Ma'mun al-Bata'ihi]]></title>
