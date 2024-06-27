@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-27T05:39:31.852Z</updated>
+    <updated>2024-06-27T17:37:43.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Minnesota_State_Highway_36</id>
         <link href="https://en.wikipedia.org/wiki/Minnesota_State_Highway_36"/>
         <updated>2024-06-27T05:39:28.790Z</updated>
-        <content type="html"><![CDATA[... that there's a <a href="/wiki/Little_Canada,_Minnesota" title="Little Canada, Minnesota">little Canada</a> on <b><a href="/wiki/Minnesota_State_Highway_36" title="Minnesota State Highway 36">Minnesota State Highway&nbsp;36</a></b>?]]></content>
+        <content type="html"><![CDATA[... that there's a <a href="/wiki/Little_Canada,_Minnesota" title="Little Canada, Minnesota">Little Canada</a> on <b><a href="/wiki/Minnesota_State_Highway_36" title="Minnesota State Highway 36">Minnesota State Highway&nbsp;36</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[David W. Music]]></title>
