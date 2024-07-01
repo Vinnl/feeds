@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-01T05:37:59.007Z</updated>
+    <updated>2024-07-01T17:37:03.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that when <b><a href="/wiki/DarkZero_Esports" title="DarkZero Esports">DarkZero</a></b> contracted Xynew, his teammates highlighted his "communication skills and game brain", which they deemed unusual for a controller player?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op. 1]]></title>
+        <title type="html"><![CDATA[Zwei Gesänge, Op. 1]]></title>
         <id>https://en.wikipedia.org/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)</id>
         <link href="https://en.wikipedia.org/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)"/>
         <updated>2024-07-01T05:37:56.180Z</updated>
-        <content type="html"><![CDATA[... that the first public performance of the two songs of <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>'s <b><a href="/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)" title="Zwei Gesänge, Op. 1 (Schoenberg)">Op.&nbsp;1</a></b> was met with hostile audience reactions?]]></content>
+        <content type="html"><![CDATA[... that the first public performance of the two songs of <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>'s <b><a href="/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)" title="Zwei Gesänge, Op. 1 (Schoenberg)"><i>Zwei Gesänge</i>,&nbsp;Op.&nbsp;1</a></b> was met with hostile audience reactions?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Score: A Hockey Musical]]></title>
