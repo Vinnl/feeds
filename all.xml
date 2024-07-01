@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-30T17:37:05.905Z</updated>
+    <updated>2024-07-01T05:37:59.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Brighton Aquarium (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sea_Life_Brighton</id>
-        <link href="https://en.wikipedia.org/wiki/Sea_Life_Brighton"/>
-        <updated>2024-06-30T05:36:59.099Z</updated>
-        <content type="html"><![CDATA[... that when <b><a href="/wiki/Sea_Life_Brighton" title="Sea Life Brighton">Brighton Aquarium</a></b> <i>(entrance pictured)</i> opened, it had no exhibits?]]></content>
+        <title type="html"><![CDATA[Battle of the Frogs (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Battle_of_the_Frogs</id>
+        <link href="https://en.wikipedia.org/wiki/Battle_of_the_Frogs"/>
+        <updated>2024-07-01T05:37:56.170Z</updated>
+        <content type="html"><![CDATA[... that the 1754 <b><a href="/wiki/Battle_of_the_Frogs" title="Battle of the Frogs">Battle of the Frogs</a></b> was commemorated on banknotes <i>(detail pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charleen Kinser (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Charleen_Kinser</id>
-        <link href="https://en.wikipedia.org/wiki/Charleen_Kinser"/>
-        <updated>2024-06-30T05:36:59.101Z</updated>
-        <content type="html"><![CDATA[... that a mail-order catalogue offered a "Rocking Ram" toy, designed by <b><a href="/wiki/Charleen_Kinser" title="Charleen Kinser">Charleen Kinser</a></b>, for <span style="white-space: nowrap">US$1,600</span> in 1985?]]></content>
+        <title type="html"><![CDATA[International Register of Electors (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/International_Register_of_Electors</id>
+        <link href="https://en.wikipedia.org/wiki/International_Register_of_Electors"/>
+        <updated>2024-07-01T05:37:56.172Z</updated>
+        <content type="html"><![CDATA[... that as of 2019, inclusion in the <b><a href="/wiki/International_Register_of_Electors" title="International Register of Electors">International Register of Electors</a></b> no longer requires residency in Canada in the preceding five years?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Called by Name (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Called_by_Name</id>
-        <link href="https://en.wikipedia.org/wiki/Called_by_Name"/>
-        <updated>2024-06-30T05:36:59.102Z</updated>
-        <content type="html"><![CDATA[... that the project <b><a href="/wiki/Called_by_Name" title="Called by Name">Called by Name</a></b> aims to commemorate <a href="/wiki/German_retribution_against_Poles_who_helped_Jews" title="German retribution against Poles who helped Jews">Poles who were murdered for aiding Jews during World War&nbsp;II</a>?]]></content>
+        <title type="html"><![CDATA[a propaganda campaign (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/ChinaAngVirus_disinformation_campaign</id>
+        <link href="https://en.wikipedia.org/wiki/ChinaAngVirus_disinformation_campaign"/>
+        <updated>2024-07-01T05:37:56.173Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">United States Department of Defense</a> ran <b><a href="/wiki/ChinaAngVirus_disinformation_campaign" title="ChinaAngVirus disinformation campaign">a propaganda campaign</a></b> against Chinese vaccines during the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic"><span class="nowrap">COVID-19</span> pandemic</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Sea mangroves (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Red_Sea_mangroves</id>
-        <link href="https://en.wikipedia.org/wiki/Red_Sea_mangroves"/>
-        <updated>2024-06-30T05:36:59.104Z</updated>
-        <content type="html"><![CDATA[... that despite a global decline in <a href="/wiki/Mangrove_forest" title="Mangrove forest">mangrove forests</a>, <b><a href="/wiki/Red_Sea_mangroves" title="Red Sea mangroves">Red Sea mangroves</a></b> have expanded in area since 1972?]]></content>
+        <title type="html"><![CDATA[Peewee Jarrett (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Peewee_Jarrett</id>
+        <link href="https://en.wikipedia.org/wiki/Peewee_Jarrett"/>
+        <updated>2024-07-01T05:37:56.174Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Peewee_Jarrett" title="Peewee Jarrett">Peewee Jarrett</a></b> went from having a two-year span with no playing time and being "set on quitting football" to signing into the National Football League?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voyager 2 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Voyager_2</id>
-        <link href="https://en.wikipedia.org/wiki/Voyager_2"/>
-        <updated>2024-06-30T05:36:59.105Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Voyager_2" title="Voyager 2">Voyager&nbsp;2</a></b></i> has been transmitting data for more than 46 years, making it the oldest active space probe in history?]]></content>
+        <title type="html"><![CDATA[Wellesbourne (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Wellesbourne,_Brighton</id>
+        <link href="https://en.wikipedia.org/wiki/Wellesbourne,_Brighton"/>
+        <updated>2024-07-01T05:37:56.177Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Wellesbourne,_Brighton" title="Wellesbourne, Brighton">Wellesbourne</a></b>, Brighton's lost river, stopped flowing in 1889?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brittany Luse (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Brittany_Luse</id>
-        <link href="https://en.wikipedia.org/wiki/Brittany_Luse"/>
-        <updated>2024-06-30T05:36:59.107Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Brittany_Luse" title="Brittany Luse">Brittany Luse</a></b><span class="nowrap">'s</span> podcast <i>The Nod</i> was praised for its exploration of "the diversity and richness of the Black experience"?]]></content>
+        <title type="html"><![CDATA[Max Weil (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Max_Weil</id>
+        <link href="https://en.wikipedia.org/wiki/Max_Weil"/>
+        <updated>2024-07-01T05:37:56.178Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Max_Weil" title="Max Weil">Max Weil</a></b>, founder of the <a href="/wiki/Halifax_Symphony_Orchestra" title="Halifax Symphony Orchestra">Halifax Symphony Orchestra</a>, spent his later years in real estate?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1964 New York World's Fair (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/1964_New_York_World%27s_Fair</id>
-        <link href="https://en.wikipedia.org/wiki/1964_New_York_World%27s_Fair"/>
-        <updated>2024-06-30T05:36:59.112Z</updated>
-        <content type="html"><![CDATA[... that despite lagging attendance at the <b><a href="/wiki/1964_New_York_World%27s_Fair" title="1964 New York World's Fair">1964 New York World's Fair</a></b>, its organizer rejected nearly every suggestion to increase attendance?]]></content>
+        <title type="html"><![CDATA[DarkZero (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/DarkZero_Esports</id>
+        <link href="https://en.wikipedia.org/wiki/DarkZero_Esports"/>
+        <updated>2024-07-01T05:37:56.179Z</updated>
+        <content type="html"><![CDATA[... that when <b><a href="/wiki/DarkZero_Esports" title="DarkZero Esports">DarkZero</a></b> contracted Xynew, his teammates highlighted his "communication skills and game brain", which they deemed unusual for a controller player?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[David Marchese (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/David_Marchese</id>
-        <link href="https://en.wikipedia.org/wiki/David_Marchese"/>
-        <updated>2024-06-30T05:36:59.114Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/David_Marchese" title="David Marchese">David Marchese</a></b> recalled accidentally posting a picture of a cat's testicles on <i><a href="/wiki/Salon.com" title="Salon.com">Salon.com</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Op. 1 (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)</id>
+        <link href="https://en.wikipedia.org/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)"/>
+        <updated>2024-07-01T05:37:56.180Z</updated>
+        <content type="html"><![CDATA[... that the first public performance of the two songs of <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>'s <b><a href="/wiki/Zwei_Ges%C3%A4nge,_Op._1_(Schoenberg)" title="Zwei Gesänge, Op. 1 (Schoenberg)">Op.&nbsp;1</a></b> was met with hostile audience reactions?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score: A Hockey Musical (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Score:_A_Hockey_Musical</id>
+        <link href="https://en.wikipedia.org/wiki/Score:_A_Hockey_Musical"/>
+        <updated>2024-07-01T05:37:56.182Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Score:_A_Hockey_Musical" title="Score: A Hockey Musical">Score: A Hockey Musical</a></b></i> has been described as "so Canadian it hurts"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bonn (Wikivoyage recommendations)]]></title>
