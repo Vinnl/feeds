@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-02T05:37:38.312Z</updated>
+    <updated>2024-07-02T17:37:25.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://en.wikipedia.org/wiki/Ernest_J._King</id>
         <link href="https://en.wikipedia.org/wiki/Ernest_J._King"/>
         <updated>2024-07-02T05:37:35.432Z</updated>
-        <content type="html"><![CDATA[... that it was said Admiral <b><a href="/wiki/Ernest_J._King" title="Ernest J. King">Ernest J. King</a></b> <i>(pictured)</i> was so tough he shaved with a blowtorch?]]></content>
+        <content type="html"><![CDATA[... that according to a popular myth, Admiral <b><a href="/wiki/Ernest_J._King" title="Ernest J. King">Ernest J. King</a></b> <i>(pictured)</i> shaved with a blowtorch?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["Lunch"]]></title>
         <id>https://en.wikipedia.org/wiki/Lunch_(song)</id>
         <link href="https://en.wikipedia.org/wiki/Lunch_(song)"/>
         <updated>2024-07-02T05:37:35.434Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Billie_Eilish" title="Billie Eilish">Billie Eilish</a> first served <b>"<a href="/wiki/Lunch_(song)" title="Lunch (song)">Lunch</a>"</b> during a private party at Coachella?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Billie_Eilish" title="Billie Eilish">Billie Eilish</a> first served <b>"<a href="/wiki/Lunch_(song)" title="Lunch (song)">Lunch</a>"</b> during a party at Coachella?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Han Bong-zin]]></title>
