@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2024-07-04T05:38:07.004Z</updated>
+    <updated>2024-07-04T17:37:22.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Land_Art_Trail_on_Mount_U%C4%8Dka"/>
         <updated>2024-06-21T17:37:09.500Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize notheme" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize notheme">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:30%">
