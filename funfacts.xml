@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-07T05:38:21.052Z</updated>
+    <updated>2024-07-07T17:37:10.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,14 +38,14 @@
         <id>https://en.wikipedia.org/wiki/Mercantile_Library_Company_(Philadelphia)</id>
         <link href="https://en.wikipedia.org/wiki/Mercantile_Library_Company_(Philadelphia)"/>
         <updated>2024-07-07T05:38:18.224Z</updated>
-        <content type="html"><![CDATA[... that after after operating for 168 years and moving to three buildings, the <b><a href="/wiki/Mercantile_Library_Company_(Philadelphia)" title="Mercantile Library Company (Philadelphia)">Mercantile Library</a></b> in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> was closed due to concerns of <a href="/wiki/Asbestos" title="Asbestos">asbestos</a>?]]></content>
+        <content type="html"><![CDATA[... that after operating for 168 years and moving to three buildings, the <b><a href="/wiki/Mercantile_Library_Company_(Philadelphia)" title="Mercantile Library Company (Philadelphia)">Mercantile Library</a></b> in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> was closed due to concerns about <a href="/wiki/Asbestos" title="Asbestos">asbestos</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fume hood]]></title>
         <id>https://en.wikipedia.org/wiki/Fume_hood</id>
         <link href="https://en.wikipedia.org/wiki/Fume_hood"/>
         <updated>2024-07-07T05:38:18.226Z</updated>
-        <content type="html"><![CDATA[... that the energy cost of a single <b><a href="/wiki/Fume_hood" title="Fume hood">fume hood</a></b> in Singapore can be up to $9,300?]]></content>
+        <content type="html"><![CDATA[... that the annual energy cost of a single <b><a href="/wiki/Fume_hood" title="Fume hood">fume hood</a></b> in Singapore can be up to US$9,300?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Laura Veale]]></title>
