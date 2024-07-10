@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-10T05:37:46.038Z</updated>
+    <updated>2024-07-10T17:37:29.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Gedling_Town_F.C." title="Gedling Town F.C.">Gedling Town F.C.</a></b><span class="nowrap">'s</span> nickname "The Ferrymen" was inspired by the name of a pub located next to the team's stadium?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pascal Maynard]]></title>
-        <id>https://en.wikipedia.org/wiki/Pascal_Maynard</id>
-        <link href="https://en.wikipedia.org/wiki/Pascal_Maynard"/>
-        <updated>2024-07-10T05:37:43.012Z</updated>
-        <content type="html"><![CDATA[... that the <i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> player <b><a href="/wiki/Pascal_Maynard" title="Pascal Maynard">Pascal Maynard</a></b> was criticized for selecting a valuable card over a competitive one in a tournament?]]></content>
+        <title type="html"><![CDATA[Antonio Dini]]></title>
+        <id>https://en.wikipedia.org/wiki/Antonio_Dini</id>
+        <link href="https://en.wikipedia.org/wiki/Antonio_Dini"/>
+        <updated>2024-07-10T17:37:26.696Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Antonio_Dini" title="Antonio Dini">Antonio Dini</a></b> was the only survivor of a three-man crew after he crashed a plane into the sea, but had no recollection of the crash due to concussion?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pigeon sculpture in Wellington]]></title>
