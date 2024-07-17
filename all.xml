@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-17T05:37:59.468Z</updated>
+    <updated>2024-07-17T17:37:19.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nathan Steuer (Wikipedia — did you know?)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://en.wikipedia.org/wiki/Nathan_Steuer"/>
         <updated>2024-07-17T05:37:56.383Z</updated>
         <content type="html"><![CDATA[... that <i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> world champion <b><a href="/wiki/Nathan_Steuer" title="Nathan Steuer">Nathan Steuer</a></b> <i>(pictured)</i> started tournament-level play as a pre-teen, saying that the "13 and up" label on <i>Magic</i> packaging was "just recommended"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[upgrading of the A9 in Scotland (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/A9_dualling_project</id>
-        <link href="https://en.wikipedia.org/wiki/A9_dualling_project"/>
-        <updated>2024-07-17T05:37:56.385Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/A9_dualling_project" title="A9 dualling project">upgrading of the A9 in Scotland</a></b> between <a href="/wiki/Perth,_Scotland" title="Perth, Scotland">Perth</a> and <a href="/wiki/Inverness" title="Inverness">Inverness</a> is far from being complete despite its 2025 deadline?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vladimir Zitta (Wikipedia — did you know?)]]></title>
