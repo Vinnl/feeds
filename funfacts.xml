@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-21T05:37:52.261Z</updated>
+    <updated>2024-07-21T17:37:14.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/2024_European_Athletics_Championships_%E2%80%93_Women%27s_400_metres_hurdles</id>
         <link href="https://en.wikipedia.org/wiki/2024_European_Athletics_Championships_%E2%80%93_Women%27s_400_metres_hurdles"/>
         <updated>2024-07-21T05:37:49.236Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Femke_Bol" title="Femke Bol">Femke Bol</a> won the <b><a href="/wiki/2024_European_Athletics_Championships_%E2%80%93_Women%27s_400_metres_hurdles" title="2024 European Athletics Championships – Women's 400 metres hurdles">women's 400 metres hurdles at the 2024 European Athletics Championships</a></b> <i>(medallists pictured)</i> in a championship record of 52.49 seconds?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Femke_Bol" title="Femke Bol">Femke Bol</a> won the <b><a href="/wiki/2024_European_Athletics_Championships_%E2%80%93_Women%27s_400_metres_hurdles" title="2024 European Athletics Championships – Women's 400 metres hurdles">women's 400 metres hurdles at the 2024 European Athletics Championships</a></b> <i>(medallists pictured)</i> in a championship record of 52.49&nbsp;seconds?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Steve Elcock]]></title>
