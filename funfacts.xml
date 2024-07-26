@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-26T05:39:08.747Z</updated>
+    <updated>2024-07-26T17:37:31.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Grand_Army_Plaza_(Manhattan)</id>
         <link href="https://en.wikipedia.org/wiki/Grand_Army_Plaza_(Manhattan)"/>
         <updated>2024-07-26T05:39:05.826Z</updated>
-        <content type="html"><![CDATA[... that the Guinness World Record holder for the world's largest menorah, in <b><a href="/wiki/Grand_Army_Plaza_(Manhattan)" title="Grand Army Plaza (Manhattan)">Grand Army Plaza</a></b>, is smaller than a menorah in <a href="/wiki/Grand_Army_Plaza" title="Grand Army Plaza">Grand Army Plaza</a>?]]></content>
+        <content type="html"><![CDATA[... that the Guinness World Record holder for the world's largest menorah, in Manhattan's <b><a href="/wiki/Grand_Army_Plaza_(Manhattan)" title="Grand Army Plaza (Manhattan)">Grand Army Plaza</a></b>, is smaller than a menorah in Brooklyn's <a href="/wiki/Grand_Army_Plaza" title="Grand Army Plaza">Grand Army Plaza</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Camil Doua]]></title>
