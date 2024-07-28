@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2024-07-27T17:37:41.835Z</updated>
+    <updated>2024-07-28T05:38:58.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -29,7 +29,7 @@
         <link href="https://en.wikivoyage.org/wiki/Mount_Buller"/>
         <updated>2024-07-14T17:49:16.740Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize notheme" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize notheme">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
@@ -47,7 +47,7 @@
         <link href="https://en.wikivoyage.org/wiki/Right_to_access_in_the_Nordic_countries"/>
         <updated>2024-07-21T05:37:51.638Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize notheme" style="font-size: 117.222%;">
+<div class="banner-image js-proportonal-resize notheme">
 <p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200"></span></span>
 </p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:50%">
