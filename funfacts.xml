@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-28T05:38:58.643Z</updated>
+    <updated>2024-07-28T17:37:10.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jane_Wallis_Burrell</id>
         <link href="https://en.wikipedia.org/wiki/Jane_Wallis_Burrell"/>
         <updated>2024-07-28T05:38:55.508Z</updated>
-        <content type="html"><![CDATA[... that in 1948 <b><a href="/wiki/Jane_Wallis_Burrell" title="Jane Wallis Burrell">Jane Wallis Burrell</a></b> became the first CIA officer to die in service?]]></content>
+        <content type="html"><![CDATA[... that in 1948, <b><a href="/wiki/Jane_Wallis_Burrell" title="Jane Wallis Burrell">Jane Wallis Burrell</a></b> became the first CIA officer to die in service?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Buq Buq labor camp]]></title>
