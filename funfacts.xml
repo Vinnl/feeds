@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-30T05:38:41.331Z</updated>
+    <updated>2024-07-30T17:37:28.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax</id>
         <link href="https://en.wikipedia.org/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax"/>
         <updated>2024-07-30T05:38:38.409Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> hoax <b><a href="/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax" title="Carlos Bandeirense Mirandópolis hoax">Carlos Bandeirense Mirandópolis</a></b> was cited in a judicial decision by the Rio de Janeiro Court of Justice?]]></content>
+        <content type="html"><![CDATA[... that the Wikipedia hoax <b><a href="/wiki/Carlos_Bandeirense_Mirand%C3%B3polis_hoax" title="Carlos Bandeirense Mirandópolis hoax">Carlos Bandeirense Mirandópolis</a></b> was cited in a judicial decision by the Rio de Janeiro Court of Justice?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alyssa Mendoza]]></title>
