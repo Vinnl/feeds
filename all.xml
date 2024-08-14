@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-14T05:38:48.995Z</updated>
+    <updated>2024-08-14T17:37:40.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ocean Parkway (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Island</id>
         <link href="https://en.wikipedia.org/wiki/Island"/>
         <updated>2024-08-14T05:38:45.827Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Island" title="Island">islands</a></b> are home to 50 percent of land species at risk of <a href="/wiki/Extinction" title="Extinction">extinction</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Island" title="Island">islands</a></b> are home to an estimated 41 percent of land vertebrates at risk of <a href="/wiki/Extinction" title="Extinction">extinction</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ken Goldin (Wikipedia — did you know?)]]></title>
