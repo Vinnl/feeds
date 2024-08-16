@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-08-16T05:38:40.912Z</updated>
+    <updated>2024-08-16T17:37:17.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that soprano <b><a href="/wiki/Joan_Ruth" title="Joan Ruth">Joan Ruth</a></b> rejected a marriage proposal because her suitor wanted her to abandon ambitions of a singing career?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tina and Milo]]></title>
+        <title type="html"><![CDATA[the mascots]]></title>
         <id>https://en.wikipedia.org/wiki/Tina_and_Milo</id>
         <link href="https://en.wikipedia.org/wiki/Tina_and_Milo"/>
         <updated>2024-08-16T05:38:37.801Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Tina_and_Milo" title="Tina and Milo">Tina and Milo</a></b> have been described as the "first openly <a href="/wiki/Generation_Z" title="Generation Z">Gen&nbsp;Z</a> mascots"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Tina_and_Milo" title="Tina and Milo">the mascots</a></b> of the <a href="/wiki/2026_Winter_Olympics" title="2026 Winter Olympics">2026 Winter Olympics</a> and <a href="/wiki/2026_Winter_Paralympics" title="2026 Winter Paralympics">2026 Winter Paralympics</a> were designed by schoolchildren?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bengisu Avcı]]></title>
