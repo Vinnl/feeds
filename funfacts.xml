@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-08-17T05:38:04.079Z</updated>
+    <updated>2024-08-17T17:37:55.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Samoan_branch_of_the_Nazi_Party</id>
         <link href="https://en.wikipedia.org/wiki/Samoan_branch_of_the_Nazi_Party"/>
         <updated>2024-08-17T05:38:01.082Z</updated>
-        <content type="html"><![CDATA[... that non-white Samoan people were permitted to join <b><a href="/wiki/Samoan_branch_of_the_Nazi_Party" title="Samoan branch of the Nazi Party">the local branch of the Nazi Party</a></b> in the 1930s?]]></content>
+        <content type="html"><![CDATA[... that non-white <a href="/wiki/Samoans" title="Samoans">Samoan people</a> were permitted to join <b><a href="/wiki/Samoan_branch_of_the_Nazi_Party" title="Samoan branch of the Nazi Party">the local branch of the Nazi Party</a></b> in the 1930s?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a Philadelphia TV station]]></title>
