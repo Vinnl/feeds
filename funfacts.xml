@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-08-25T05:39:05.094Z</updated>
+    <updated>2024-08-25T17:39:01.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Not_in_Love_(Crystal_Castles_song)</id>
         <link href="https://en.wikipedia.org/wiki/Not_in_Love_(Crystal_Castles_song)"/>
         <updated>2024-08-25T05:39:01.975Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Crystal_Castles" title="Crystal Castles">Crystal Castles</a> canceled their studio recording plans for "<b><a href="/wiki/Not_in_Love_(Crystal_Castles_song)" title="Not in Love (Crystal Castles song)">Not in Love</a></b>" because they became attached to <a href="/wiki/Robert_Smith_(musician)" title="Robert Smith (musician)">Robert Smith</a>'s <a href="/wiki/Demo_(music)" title="Demo (music)">demo</a> vocals?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Crystal_Castles" title="Crystal Castles">Crystal Castles</a> canceled their studio recording plans for "<b><a href="/wiki/Not_in_Love_(Crystal_Castles_song)" title="Not in Love (Crystal Castles song)">Not in Love</a></b>" because of <a href="/wiki/Robert_Smith_(musician)" title="Robert Smith (musician)">Robert Smith</a>'s demo vocals?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[John Henry Hirst]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Bardi_(surname)</id>
         <link href="https://en.wikipedia.org/wiki/Bardi_(surname)"/>
         <updated>2024-08-25T05:39:01.981Z</updated>
-        <content type="html"><![CDATA[... that though <a href="/wiki/Donatello" title="Donatello">Donatello</a> was a <b><a href="/wiki/Bardi_(surname)" title="Bardi (surname)">Bardi</a></b>, he was not part of the <a href="/wiki/Bardi_family" title="Bardi family">Bardi family</a>?]]></content>
+        <content type="html"><![CDATA[... that though <a href="/wiki/Donatello" title="Donatello">Donatello</a> was a <b><a href="/wiki/Bardi_(surname)" title="Bardi (surname)">Bardi</a></b>, he was not a <a href="/wiki/Bardi_family" title="Bardi family">Bardi</a>?]]></content>
     </entry>
 </feed>
