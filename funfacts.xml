@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-08-26T05:43:39.891Z</updated>
+    <updated>2024-08-26T17:37:45.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Oedipus_(opera)</id>
         <link href="https://en.wikipedia.org/wiki/Oedipus_(opera)"/>
         <updated>2024-08-26T05:43:36.634Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Wolfgang_Rihm" title="Wolfgang Rihm">Wolfgang Rihm</a> said of the music of his 1987 opera <i><b><a href="/wiki/Oedipus_(opera)" title="Oedipus (opera)">Oedipus</a></b></i>: "Sound is a weapon here&nbsp;– or a scalpel"?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Wolfgang_Rihm" title="Wolfgang Rihm">Wolfgang Rihm</a> asked of the music of his 1987 opera <i><b><a href="/wiki/Oedipus_(opera)" title="Oedipus (opera)">Oedipus</a></b></i>: "Sound is a weapon here&nbsp;– or a scalpel?"]]></content>
     </entry>
 </feed>
