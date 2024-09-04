@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-04T05:39:59.203Z</updated>
+    <updated>2024-09-04T17:40:29.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kitāb al-ṭabīẖ (Wikipedia — did you know?)]]></title>
@@ -23,7 +23,7 @@
         <id>https://en.wikipedia.org/wiki/River</id>
         <link href="https://en.wikipedia.org/wiki/River"/>
         <updated>2024-09-04T05:39:55.908Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/River" title="River">rivers</a></b> form up to 23% of international borders?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/River" title="River">rivers</a></b> form 23% of international borders?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maxim Berezovsky (Wikipedia — did you know?)]]></title>
