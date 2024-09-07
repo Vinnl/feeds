@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-09-07T05:38:36.420Z</updated>
+    <updated>2024-09-07T17:37:16.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Love_Is_Embarrassing</id>
         <link href="https://en.wikipedia.org/wiki/Love_Is_Embarrassing"/>
         <updated>2024-09-07T05:38:33.074Z</updated>
-        <content type="html"><![CDATA[... that while performing "<b><a href="/wiki/Love_Is_Embarrassing" title="Love Is Embarrassing">Love Is Embarrassing</a></b>", <a href="/wiki/Olivia_Rodrigo" title="Olivia Rodrigo">Olivia Rodrigo</a> suffered an "embarassing" wardrobe malfunction?]]></content>
+        <content type="html"><![CDATA[... that while performing "<b><a href="/wiki/Love_Is_Embarrassing" title="Love Is Embarrassing">Love Is Embarrassing</a></b>", <a href="/wiki/Olivia_Rodrigo" title="Olivia Rodrigo">Olivia Rodrigo</a> suffered an "embarrassing" wardrobe malfunction?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ivan Palmaw]]></title>
