@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2024-09-16T05:41:51.981Z</updated>
+    <updated>2024-09-16T17:41:07.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -28,7 +28,7 @@
         <link href="https://en.wikivoyage.org/wiki/Minot"/>
         <updated>2024-09-12T05:40:01.054Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;40%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Minot&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Off the Beaten Path&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previously Off the beaten path&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;MinotNDBanner.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;This air force and rail town is also - at least heritage-wise - a piece of Scandinavia on the Great Plains.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt13" id="mwkA">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt13" id="mwkQ" style="font-size: 117.222%;">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt13" id="mwkQ">
 	<p id="mwkg"><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless" id="mwkw"><span id="mwlA"><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="331" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" class="mw-file-element" id="mwlQ"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:40%" id="mwlg">
 		<section data-mw-section-id="-1" id="mwJQ"><h2 id="Minot"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Minot" title="Minot" id="mwlw">Minot</a></h2>
@@ -45,7 +45,7 @@
         <link href="https://en.wikivoyage.org/wiki/Voyages_of_James_Cook"/>
         <updated>2024-08-21T17:37:00.690Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt16" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;47%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Voyages of James Cook&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Featured Travel Topic&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previous Featured travel topics&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;Voyages of James Cook banner \&quot;HMS Endeavour\&quot; replica , Whitby.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;Follow the steps of one of the most famous British explorers around the world!&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt16" id="mwow">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt16" id="mwpA" style="font-size: 117.222%;">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt16" id="mwpA">
 	<p id="mwpQ"><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless" id="mwpg"><span id="mwpw"><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="331" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" class="mw-file-element" id="mwqA"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:47%" id="mwqQ">
 		<section data-mw-section-id="-1" id="mwKQ"><h2 id="Voyages_of_James_Cook"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Voyages_of_James_Cook" title="Voyages of James Cook" id="mwqg">Voyages of James Cook</a></h2>
