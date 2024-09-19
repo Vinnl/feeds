@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-09-19T05:40:05.736Z</updated>
+    <updated>2024-09-19T17:39:03.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jubilee_Bridge_(Tay)</id>
         <link href="https://en.wikipedia.org/wiki/Jubilee_Bridge_(Tay)"/>
         <updated>2024-09-19T05:40:02.669Z</updated>
-        <content type="html"><![CDATA[... that the course of the <a href="/wiki/River_Tay" title="River Tay">River Tay</a> was diverted to allow the construction of the <b><a href="/wiki/Jubilee_Bridge_(Tay)" title="Jubilee Bridge (Tay)">Jubilee Bridge</a></b>?]]></content>
+        <content type="html"><![CDATA[... that the construction of the <b><a href="/wiki/Jubilee_Bridge_(Tay)" title="Jubilee Bridge (Tay)">Jubilee Bridge</a></b> was featured in the 1982 documentary about the <a href="/wiki/A9_road_(Scotland)" title="A9 road (Scotland)">A9 road</a> reconstruction?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Edmilson Pedro]]></title>
