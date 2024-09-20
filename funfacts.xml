@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-09-20T05:40:10.086Z</updated>
+    <updated>2024-09-20T17:38:33.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://en.wikipedia.org/wiki/La_Mojana"/>
         <updated>2024-09-20T05:40:06.796Z</updated>
         <content type="html"><![CDATA[... that people of the <a href="/wiki/Zen%C3%BA" title="Zenú">Zenú</a> culture built canals in the <b><a href="/wiki/La_Mojana" title="La Mojana">La Mojana</a></b> wetland area of Colombia long before Spanish arrival?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the story of "freedom fighters' patriotic last stand"]]></title>
-        <id>https://en.wikipedia.org/wiki/Masada_myth</id>
-        <link href="https://en.wikipedia.org/wiki/Masada_myth"/>
-        <updated>2024-09-20T05:40:06.811Z</updated>
-        <content type="html"><![CDATA[... that although Israel honored 27 ancient <a href="/wiki/Masada" title="Masada">Masada</a> skeletons with a state funeral in 1969, <b><a href="/wiki/Masada_myth" title="Masada myth">the story of "freedom fighters' patriotic last stand"</a></b> is now known to be a myth?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kaylee Bryson]]></title>
