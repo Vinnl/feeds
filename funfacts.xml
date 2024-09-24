@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-09-24T05:40:46.230Z</updated>
+    <updated>2024-09-24T17:40:50.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Tamurbek_Dawletschin</id>
         <link href="https://en.wikipedia.org/wiki/Tamurbek_Dawletschin"/>
         <updated>2024-09-24T05:40:43.172Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Tamurbek_Dawletschin" title="Tamurbek Dawletschin">Tamurbek Dawletschin</a></b> wrote one of the only memoirs by a Soviet prisoner of war, <a href="/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war" title="German atrocities committed against Soviet prisoners of war">3&nbsp;million of whom died in German captivity</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Tamurbek_Dawletschin" title="Tamurbek Dawletschin">Tamurbek Dawletschin</a></b> wrote one of the few memoirs by a Soviet prisoner of war, <a href="/wiki/German_atrocities_committed_against_Soviet_prisoners_of_war" title="German atrocities committed against Soviet prisoners of war">3&nbsp;million of whom died in German captivity</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Car Thing]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Poecilia_vandepolli</id>
         <link href="https://en.wikipedia.org/wiki/Poecilia_vandepolli"/>
         <updated>2024-09-24T05:40:43.182Z</updated>
-        <content type="html"><![CDATA[... that the species classification <i><b><a href="/wiki/Poecilia_vandepolli" title="Poecilia vandepolli">Poecilia vandepolli</a></b></i> existed, then it did not, and now it does again?]]></content>
+        <content type="html"><![CDATA[... that the small fish species <i><b><a href="/wiki/Poecilia_vandepolli" title="Poecilia vandepolli">Poecilia vandepolli</a></b></i> solves food shortage problems by <a href="/wiki/Filial_cannibalism" title="Filial cannibalism">eating its own offspring</a>?]]></content>
     </entry>
 </feed>
