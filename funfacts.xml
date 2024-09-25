@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-09-25T05:40:49.965Z</updated>
+    <updated>2024-09-25T17:40:12.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/SDSS_J0849%2B1114</id>
         <link href="https://en.wikipedia.org/wiki/SDSS_J0849%2B1114"/>
         <updated>2024-09-25T05:40:46.875Z</updated>
-        <content type="html"><![CDATA[... that light travelled 1.06&nbsp;billion light-years from <b><a href="/wiki/SDSS_J0849%2B1114" title="SDSS J0849+1114">a trio of galaxies</a></b> in the constellation of <a href="/wiki/Cancer_(constellation)" title="Cancer (constellation)">Cancer</a>, where three <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black holes</a> were colliding?]]></content>
+        <content type="html"><![CDATA[... that as of 1.06&nbsp;billion years ago, three <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black holes</a> from <b><a href="/wiki/SDSS_J0849%2B1114" title="SDSS J0849+1114">a trio of galaxies</a></b> in the constellation of <a href="/wiki/Cancer_(constellation)" title="Cancer (constellation)">Cancer</a> were colliding?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nicholas Carlini]]></title>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Takara%27s_Treasure</id>
         <link href="https://en.wikipedia.org/wiki/Takara%27s_Treasure"/>
         <updated>2024-09-25T05:40:46.882Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Takara%27s_Treasure" title="Takara's Treasure">Takara's Treasure</a></b></i> was created because its artist wanted to draw a story about a boy who speaks with a dialect?]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Takara%27s_Treasure" title="Takara's Treasure">Takara's Treasure</a></b></i> was created because its artist wanted to draw a story about a boy who speaks a local dialect?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kuomintang Building]]></title>
