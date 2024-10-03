@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-03T05:40:58.355Z</updated>
+    <updated>2024-10-03T17:41:14.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Anders_%C3%85rfelt</id>
         <link href="https://en.wikipedia.org/wiki/Anders_%C3%85rfelt"/>
         <updated>2024-10-03T05:40:55.270Z</updated>
-        <content type="html"><![CDATA[... that after some of <b><a href="/wiki/Anders_%C3%85rfelt" title="Anders Årfelt">Anders Årfelt</a></b><span class="nowrap">'s</span> lion sculptures <i>(example pictured)</i> were struck during the <a href="/wiki/2017_Stockholm_truck_attack" title="2017 Stockholm truck attack">2017 Stockholm truck attack</a>, the city ordered new versions weighing 3 tonnes?]]></content>
+        <content type="html"><![CDATA[... that after some of <b><a href="/wiki/Anders_%C3%85rfelt" title="Anders Årfelt">Anders Årfelt</a></b><span class="nowrap">'s</span> lion sculptures <i>(example pictured)</i> were struck during the <a href="/wiki/2017_Stockholm_truck_attack" title="2017 Stockholm truck attack">2017 Stockholm truck attack</a>, the city ordered new versions weighing 3&nbsp;tonnes?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Benoit Blin]]></title>
