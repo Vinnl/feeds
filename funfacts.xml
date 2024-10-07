@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-07T05:41:52.715Z</updated>
+    <updated>2024-10-07T17:39:44.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Mokulubete_Makatisi</id>
         <link href="https://en.wikipedia.org/wiki/Mokulubete_Makatisi"/>
         <updated>2024-10-07T05:41:49.431Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mokulubete_Makatisi" title="Mokulubete Makatisi">Mokulubete Makatisi</a></b> placed eighth at the <a href="/wiki/Athletics_at_the_2022_Commonwealth_Games_%E2%80%93_Women%27s_marathon" title="Athletics at the 2022 Commonwealth Games – Women's marathon">2022 Commonwealth Games women's marathon</a> despite running in new shoes that she had received late during the race?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Mokulubete_Makatisi" title="Mokulubete Makatisi">Mokulubete Makatisi</a></b> placed eighth at the <a href="/wiki/Athletics_at_the_2022_Commonwealth_Games_%E2%80%93_Women%27s_marathon" title="Athletics at the 2022 Commonwealth Games – Women's marathon">2022 Commonwealth Games women's marathon</a> despite running in new shoes that she had received on the eve of the race?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Crimson Diamond]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that some of the work of <a href="/wiki/Lesbian_feminism" title="Lesbian feminism">lesbian feminist</a> filmmaking pioneer <b><a href="/wiki/Norma_Bahia_Pontes" title="Norma Bahia Pontes">Norma Bahia Pontes</a></b> is <a href="/wiki/Lost_media" title="Lost media">lost media</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tropical Storm Kai-tak]]></title>
+        <title type="html"><![CDATA[a tropical storm]]></title>
         <id>https://en.wikipedia.org/wiki/Tropical_Storm_Kai-tak</id>
         <link href="https://en.wikipedia.org/wiki/Tropical_Storm_Kai-tak"/>
         <updated>2024-10-07T05:41:49.449Z</updated>
-        <content type="html"><![CDATA[... that while soldiers carried out relief operations for <b><a href="/wiki/Tropical_Storm_Kai-tak" title="Tropical Storm Kai-tak">Tropical Storm Kai-tak</a></b>, the <a href="/wiki/New_People%27s_Army" title="New People's Army">New People's Army</a> attacked them?]]></content>
+        <content type="html"><![CDATA[... that the government used military trucks and bulldozers to rescue people from <b><a href="/wiki/Tropical_Storm_Kai-tak" title="Tropical Storm Kai-tak">a tropical storm</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Milan A. P. Harminc]]></title>
