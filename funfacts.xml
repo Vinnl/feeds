@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-08T05:40:37.518Z</updated>
+    <updated>2024-10-08T17:39:03.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Winfield_Blake</id>
         <link href="https://en.wikipedia.org/wiki/Winfield_Blake"/>
         <updated>2024-10-08T05:40:34.432Z</updated>
-        <content type="html"><![CDATA[... that after a career as an opera singer and Broadway musical star, <b><a href="/wiki/Winfield_Blake" title="Winfield Blake">Winfield Blake</a></b> <i>(pictured)</i>  became a comedian in <a href="/wiki/Vaudeville" title="Vaudeville">vaudeville</a> as one half of the comic duo Blake and Amber?]]></content>
+        <content type="html"><![CDATA[... that after a career as an opera singer and Broadway musical star, <b><a href="/wiki/Winfield_Blake" title="Winfield Blake">Winfield Blake</a></b> <i>(pictured)</i> became a <a href="/wiki/Vaudeville" title="Vaudeville">vaudeville</a> comedian as one half of the duo Blake and Amber?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[University Village]]></title>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Betty_Brussel</id>
         <link href="https://en.wikipedia.org/wiki/Betty_Brussel"/>
         <updated>2024-10-08T05:40:34.437Z</updated>
-        <content type="html"><![CDATA[... that 99-year-old swimmer <b><a href="/wiki/Betty_Brussel" title="Betty Brussel">Betty Brussel</a></b> broke three competitive swimming records on the same day?]]></content>
+        <content type="html"><![CDATA[... that swimmer <b><a href="/wiki/Betty_Brussel" title="Betty Brussel">Betty Brussel</a></b>, when she was 99, set three competitive swimming records on the same day?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[diet culture]]></title>
