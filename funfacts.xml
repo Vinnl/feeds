@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-09T05:41:30.991Z</updated>
+    <updated>2024-10-09T17:40:46.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Atsuko_Tanaka_(voice_actress)</id>
         <link href="https://en.wikipedia.org/wiki/Atsuko_Tanaka_(voice_actress)"/>
         <updated>2024-10-09T05:41:27.790Z</updated>
-        <content type="html"><![CDATA[... that voice actress <b><a href="/wiki/Atsuko_Tanaka_(voice_actress)" title="Atsuko Tanaka (voice actress)">Atsuko Tanaka</a></b> often named pandas?]]></content>
+        <content type="html"><![CDATA[... that voice actress <b><a href="/wiki/Atsuko_Tanaka_(voice_actress)" title="Atsuko Tanaka (voice actress)">Atsuko Tanaka</a></b> named several pandas?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a Texas TV station]]></title>
