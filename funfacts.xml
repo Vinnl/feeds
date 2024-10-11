@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-11T05:41:01.152Z</updated>
+    <updated>2024-10-11T17:39:51.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Pesto_(penguin)</id>
         <link href="https://en.wikipedia.org/wiki/Pesto_(penguin)"/>
         <updated>2024-10-11T05:40:57.939Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Pesto_(penguin)" title="Pesto (penguin)">a baby penguin from Australia</a></b> is "an absolute unit"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Pesto_(penguin)" title="Pesto (penguin)">a baby penguin from Australia</a></b> is "an <a href="https://en.wiktionary.org/wiki/absolute_unit#Etymology_2" class="extiw" title="wikt:absolute unit">absolute unit</a>"?]]></content>
     </entry>
 </feed>
