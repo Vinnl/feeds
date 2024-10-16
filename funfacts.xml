@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-16T05:41:33.712Z</updated>
+    <updated>2024-10-16T17:43:10.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Episode_7921</id>
         <link href="https://en.wikipedia.org/wiki/Episode_7921"/>
         <updated>2024-10-16T05:41:30.625Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Episode_7921" title="Episode 7921">Episode&nbsp;7921</a></b> of <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i> features Australia's first televised same-sex wedding since the country voted in favour of legalising same-sex marriage?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Episode_7921" title="Episode 7921">Episode&nbsp;7921</a></b> of <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i> featured Australia's first televised fictional same-sex wedding since the country voted in favour of legalising same-sex marriage?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 Summer Paralympics opening ceremony]]></title>
