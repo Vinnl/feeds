@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-25T05:42:09.309Z</updated>
+    <updated>2024-10-25T17:40:02.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Anna Haifisch (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Anna_Haifisch</id>
-        <link href="https://en.wikipedia.org/wiki/Anna_Haifisch"/>
-        <updated>2024-10-25T05:42:06.214Z</updated>
-        <content type="html"><![CDATA[... that cartoonist <b><a href="/wiki/Anna_Haifisch" title="Anna Haifisch">Anna Haifisch</a></b> <i>(pictured)</i> has been "bend[ing] the rules of comics"?]]></content>
+        <title type="html"><![CDATA[Granville Colliery (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Granville_Colliery</id>
+        <link href="https://en.wikipedia.org/wiki/Granville_Colliery"/>
+        <updated>2024-10-25T05:42:06.222Z</updated>
+        <content type="html"><![CDATA[... that part of the site of <b><a href="/wiki/Granville_Colliery" title="Granville Colliery">Granville Colliery</a></b> is now used as a dry ski slope <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abdur Rahman Mahmudi (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Abdur_Rahman_Mahmudi</id>
+        <link href="https://en.wikipedia.org/wiki/Abdur_Rahman_Mahmudi"/>
+        <updated>2024-10-25T05:42:06.221Z</updated>
+        <content type="html"><![CDATA[... that imprisoned Afghan politician <b><a href="/wiki/Abdur_Rahman_Mahmudi" title="Abdur Rahman Mahmudi">Abdur Rahman Mahmudi</a></b> wrote poems using onion juice as ink in his prison cell?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MyRadar (Wikipedia — did you know?)]]></title>
@@ -31,20 +38,6 @@
         <link href="https://en.wikipedia.org/wiki/YSL_Records_racketeering_trial"/>
         <updated>2024-10-25T05:42:06.219Z</updated>
         <content type="html"><![CDATA[... that song lyrics were allowed as evidence in the <b><a href="/wiki/YSL_Records_racketeering_trial" title="YSL Records racketeering trial">YSL Records racketeering trial</a></b>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abdur Rahman Mahmudi (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Abdur_Rahman_Mahmudi</id>
-        <link href="https://en.wikipedia.org/wiki/Abdur_Rahman_Mahmudi"/>
-        <updated>2024-10-25T05:42:06.221Z</updated>
-        <content type="html"><![CDATA[... that imprisoned Afghan politician <b><a href="/wiki/Abdur_Rahman_Mahmudi" title="Abdur Rahman Mahmudi">Abdur Rahman Mahmudi</a></b> wrote poems using onion juice as ink in his prison cell?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Granville Colliery (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Granville_Colliery</id>
-        <link href="https://en.wikipedia.org/wiki/Granville_Colliery"/>
-        <updated>2024-10-25T05:42:06.222Z</updated>
-        <content type="html"><![CDATA[... that part of the site of <b><a href="/wiki/Granville_Colliery" title="Granville Colliery">Granville Colliery</a></b> is now used as a dry ski slope?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathias Nkwenti (Wikipedia — did you know?)]]></title>
