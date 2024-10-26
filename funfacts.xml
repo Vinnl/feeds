@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-10-26T05:40:02.358Z</updated>
+    <updated>2024-10-26T17:39:51.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Pat_Ragusa</id>
         <link href="https://en.wikipedia.org/wiki/Pat_Ragusa"/>
         <updated>2024-10-26T05:39:59.220Z</updated>
-        <content type="html"><![CDATA[... that the only two Venezuelans ever to make the NFL, <b><a href="/wiki/Pat_Ragusa" title="Pat Ragusa">Pat Ragusa</a></b> and <b><a href="/wiki/Alan_Pringle" title="Alan Pringle">Alan Pringle</a></b>, played a combined total of four games?]]></content>
+        <content type="html"><![CDATA[... that the only two Venezuelans ever to play for the NFL, <b><a href="/wiki/Pat_Ragusa" title="Pat Ragusa">Pat Ragusa</a></b> and <b><a href="/wiki/Alan_Pringle" title="Alan Pringle">Alan Pringle</a></b>, played a combined total of four games?]]></content>
     </entry>
 </feed>
