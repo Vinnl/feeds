@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-11-12T05:40:06.906Z</updated>
+    <updated>2024-11-12T17:38:56.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Meijer_de_Hond</id>
         <link href="https://en.wikipedia.org/wiki/Meijer_de_Hond"/>
         <updated>2024-11-12T05:40:03.941Z</updated>
-        <content type="html"><![CDATA[... that Dutch rabbi <b><a href="/wiki/Meijer_de_Hond" title="Meijer de Hond">Meijer de Hond</a></b>, who grew up in poverty, was known as the "<span title="Dutch-language text"><i lang="nl">Volksrebbe</i></span>" for his popularity among the Jewish poor of Amsterdam?]]></content>
+        <content type="html"><![CDATA[... that Dutch rabbi <b><a href="/wiki/Meijer_de_Hond" title="Meijer de Hond">Meijer de Hond</a></b>, who grew up in poverty, was known as the <span title="Dutch-language text"><i lang="nl">Volksrebbe</i></span> ('people's rabbi') for his popularity among the Jewish poor of Amsterdam?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Garden MRT station]]></title>
