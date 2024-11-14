@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-11-14T05:41:06.928Z</updated>
+    <updated>2024-11-14T17:41:09.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,14 +45,7 @@
         <id>https://en.wikipedia.org/wiki/WOGX</id>
         <link href="https://en.wikipedia.org/wiki/WOGX"/>
         <updated>2024-11-14T05:41:03.690Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">FCC</a> canceled a permit to build <b><a href="/wiki/WOGX" title="WOGX">a Florida TV station</a></b>, finding that "the most prominent facility complete within the studio building appears to be a toilet"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Hawks]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Hawks_(architect)</id>
-        <link href="https://en.wikipedia.org/wiki/John_Hawks_(architect)"/>
-        <updated>2024-11-14T05:41:03.692Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Hawks_(architect)" title="John Hawks (architect)">John Hawks</a></b> was the first professionally trained architect to stay in the <a href="/wiki/Thirteen_Colonies" title="Thirteen Colonies">Thirteen Colonies</a>?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">FCC</a> canceled a permit to build <b><a href="/wiki/WOGX" title="WOGX">a Florida TV station</a></b>, finding that "the most prominent facility completed within the studio building appears to be a toilet"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[240 Centre Street]]></title>
