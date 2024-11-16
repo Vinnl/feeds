@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-11-16T05:41:11.448Z</updated>
+    <updated>2024-11-16T17:38:13.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Rinc%C3%B3n_Chileno</id>
         <link href="https://en.wikipedia.org/wiki/Rinc%C3%B3n_Chileno"/>
         <updated>2024-11-16T05:41:08.388Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Rinc%C3%B3n_Chileno" title="Rincón Chileno">Rincón Chileno</a></b> <i>(pictured)</i> was nicknamed the "second Chilean consulate" by the Chilean immigrant community in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Rinc%C3%B3n_Chileno" title="Rincón Chileno">Rincón Chileno</a></b> <i>(pictured)</i> was nicknamed the "second Chilean consulate" by the Chilean immigrant community in Los Angeles?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eddie Sheldrake]]></title>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Kichu%C5%9B_majstra_Lepigliny</id>
         <link href="https://en.wikipedia.org/wiki/Kichu%C5%9B_majstra_Lepigliny"/>
         <updated>2024-11-16T05:41:08.392Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Kichu%C5%9B_majstra_Lepigliny" title="Kichuś majstra Lepigliny">a book</a></b> known as the "Polish <i><a href="/wiki/Pinocchio" title="Pinocchio">Pinocchio</a></i>" was published a hundred years ago?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Kichu%C5%9B_majstra_Lepigliny" title="Kichuś majstra Lepigliny">a book</a></b> known as the "Polish <i>Pinocchio</i>" was published a hundred years ago?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sun Jianai]]></title>
@@ -62,10 +62,10 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Negussie_Roba" title="Negussie Roba">Negussie Roba</a></b> was an Olympic <a href="/wiki/Sprint_(running)" title="Sprint (running)">sprinter</a> who later became a top marathon coach?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ontologists]]></title>
-        <id>https://en.wikipedia.org/wiki/Ontology</id>
-        <link href="https://en.wikipedia.org/wiki/Ontology"/>
-        <updated>2024-11-16T05:41:08.401Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ontology" title="Ontology">ontologists</a></b> disagree on whether green is real?]]></content>
+        <title type="html"><![CDATA[a former rayon mill]]></title>
+        <id>https://en.wikipedia.org/wiki/American_Viscose_Plant_Historic_District</id>
+        <link href="https://en.wikipedia.org/wiki/American_Viscose_Plant_Historic_District"/>
+        <updated>2024-11-16T17:38:10.347Z</updated>
+        <content type="html"><![CDATA[... that smokestacks at <b><a href="/wiki/American_Viscose_Plant_Historic_District" title="American Viscose Plant Historic District">a former rayon mill</a></b> were stabilized by dropping bricks into them?]]></content>
     </entry>
 </feed>
