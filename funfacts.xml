@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-11-23T05:41:27.018Z</updated>
+    <updated>2024-11-23T17:38:15.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://en.wikipedia.org/wiki/2024_Talerddig_train_collision"/>
         <updated>2024-11-23T05:41:24.048Z</updated>
         <content type="html"><![CDATA[... that the <b><a href="/wiki/2024_Talerddig_train_collision" title="2024 Talerddig train collision">2024 Talerddig train collision</a></b> was the first collision between passenger trains in Wales since 1991?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StoneToss]]></title>
-        <id>https://en.wikipedia.org/wiki/StoneToss</id>
-        <link href="https://en.wikipedia.org/wiki/StoneToss"/>
-        <updated>2024-11-23T05:41:24.049Z</updated>
-        <content type="html"><![CDATA[... that X's rules were changed when <b><a href="/wiki/StoneToss" title="StoneToss">StoneToss</a></b> sought help from Elon Musk after an <a href="/wiki/Anti-fascism" title="Anti-fascism">anti-fascist</a> group published materials claiming to have revealed their identity?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New World Mall]]></title>
