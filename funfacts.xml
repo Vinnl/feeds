@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-11-24T05:41:19.158Z</updated>
+    <updated>2024-11-24T17:39:11.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Every_Night_(Hannah_Diamond_song)</id>
         <link href="https://en.wikipedia.org/wiki/Every_Night_(Hannah_Diamond_song)"/>
         <updated>2024-11-24T05:41:16.309Z</updated>
-        <content type="html"><![CDATA[... that "<b><a href="/wiki/Every_Night_(Hannah_Diamond_song)" title="Every Night (Hannah Diamond song)">Every Night</a></b>", released ten years ago today, was called "the smartest dumb music out there"?]]></content>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/Every_Night_(Hannah_Diamond_song)" title="Every Night (Hannah Diamond song)">Every Night</a></b>" was called "the smartest dumb music out there"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sixth National Eucharistic Congress]]></title>
