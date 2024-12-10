@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-12-10T05:42:42.890Z</updated>
+    <updated>2024-12-10T17:41:55.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Bob_Hobman</id>
         <link href="https://en.wikipedia.org/wiki/Bob_Hobman"/>
         <updated>2024-12-10T05:42:39.745Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bob_Hobman" title="Bob Hobman">Bob Hobman</a></b> recreated a possible sea journey by <a href="/wiki/Paleolithic" title="Paleolithic">Paleolithic</a> humans after 130,000-year-old tools were found on the island of <a href="/wiki/Crete" title="Crete">Crete</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Bob_Hobman" title="Bob Hobman">Bob Hobman</a></b> recreated a possible sea journey by <a href="/wiki/Paleolithic" title="Paleolithic">Palaeolithic</a> humans after 130,000-year-old tools were found on the island of <a href="/wiki/Crete" title="Crete">Crete</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeoNet]]></title>
