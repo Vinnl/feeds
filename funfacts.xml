@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-12-12T05:42:20.322Z</updated>
+    <updated>2024-12-12T17:42:10.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/The_Last_Dance_(2024_film)</id>
         <link href="https://en.wikipedia.org/wiki/The_Last_Dance_(2024_film)"/>
         <updated>2024-12-12T05:42:17.205Z</updated>
-        <content type="html"><![CDATA[... that to prepare for her role in <i><b><a href="/wiki/The_Last_Dance_(2024_film)" title="The Last Dance (2024 film)">The Last Dance</a></b></i>, actress <a href="/wiki/Michelle_Wai" title="Michelle Wai">Michelle Wai</a> learned to perform a <a href="/wiki/Taoism" title="Taoism">Taoist</a> funeral ritual traditionally performed only by men?]]></content>
+        <content type="html"><![CDATA[... that to prepare for her role in <i><b><a href="/wiki/The_Last_Dance_(2024_film)" title="The Last Dance (2024 film)">The Last Dance</a></b></i>, actress Michelle Wai learned to perform a <a href="/wiki/Taoism" title="Taoism">Taoist</a> funeral ritual traditionally performed only by men?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amer Ghalib]]></title>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Child_Law_Project</id>
         <link href="https://en.wikipedia.org/wiki/Child_Law_Project"/>
         <updated>2024-12-12T05:42:17.209Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Child_Law_Project" title="Child Law Project">Child Law Project</a></b> reports on <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>'s child care system?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Child_Law_Project" title="Child Law Project">Child Law Project</a></b> reports on <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>'s child-care system?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patrick Ryan]]></title>
