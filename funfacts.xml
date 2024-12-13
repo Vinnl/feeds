@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-12-13T05:42:13.668Z</updated>
+    <updated>2024-12-13T17:41:23.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Anchorage_White_Raven</id>
         <link href="https://en.wikipedia.org/wiki/Anchorage_White_Raven"/>
         <updated>2024-12-13T05:42:10.583Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Anchorage_White_Raven" title="Anchorage White Raven">a raven in Anchorage, Alaska</a></b> <i>(pictured)</i>, ate tater tots and toast, fought over ice cream, and disassembled a streetlamp?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Anchorage_White_Raven" title="Anchorage White Raven">a raven in Anchorage, Alaska</a></b> <i>(pictured)</i>, ate <a href="/wiki/Tater_tots" title="Tater tots">tater tots</a> and toast, fought over ice cream, and disassembled a streetlamp?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wang Hanlun]]></title>
