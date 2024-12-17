@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-12-17T05:42:36.739Z</updated>
+    <updated>2024-12-17T17:41:47.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Rich_Romer</id>
         <link href="https://en.wikipedia.org/wiki/Rich_Romer"/>
         <updated>2024-12-17T05:42:33.597Z</updated>
-        <content type="html"><![CDATA[... that American football player <b><a href="/wiki/Rich_Romer" title="Rich Romer">Rich Romer</a></b> was selected three times as an All-American by <a href="/wiki/Pizza_Hut" title="Pizza Hut">Pizza Hut</a>?]]></content>
+        <content type="html"><![CDATA[... that American football player <b><a href="/wiki/Rich_Romer" title="Rich Romer">Rich Romer</a></b> was selected three times as an <a href="/wiki/All-America" title="All-America">All-American</a> by <a href="/wiki/Pizza_Hut" title="Pizza Hut">Pizza Hut</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[St Peter's Church, Stapenhill]]></title>
