@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-12-30T05:40:38.261Z</updated>
+    <updated>2024-12-30T17:38:56.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Belvidere_Apollo_Theatre_collapse</id>
         <link href="https://en.wikipedia.org/wiki/Belvidere_Apollo_Theatre_collapse"/>
         <updated>2024-12-30T05:40:35.131Z</updated>
-        <content type="html"><![CDATA[... that the only fatality of the <b><a href="/wiki/Belvidere_Apollo_Theatre_collapse" title="Belvidere Apollo Theatre collapse">Belvidere Apollo Theatre collapse</a></b> was the only audience member to buy a <a href="/wiki/Concert_T-shirt" title="Concert T-shirt">band T-shirt</a> at the event?]]></content>
+        <content type="html"><![CDATA[... that the only death from the <b><a href="/wiki/Belvidere_Apollo_Theatre_collapse" title="Belvidere Apollo Theatre collapse">Belvidere Apollo Theatre collapse</a></b> was the one audience member who bought a concert t-shirt from  <a href="/wiki/Crypta" title="Crypta">Crypta</a> that night, according to their lead singer?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Music from the Merch Desk (2016–2023)]]></title>
