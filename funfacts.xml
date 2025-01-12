@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-01-12T05:39:02.318Z</updated>
+    <updated>2025-01-12T17:37:47.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Adrien_Nunez</id>
         <link href="https://en.wikipedia.org/wiki/Adrien_Nunez"/>
         <updated>2025-01-12T05:38:59.135Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Adrien_Nunez" title="Adrien Nunez">Adrien Nunez</a></b> <i>(pictured)</i>, despite limited playing time, was more highly paid than some <a href="/wiki/NBA_draft_lottery" title="NBA draft lottery">NBA draft lottery</a> picks while in college?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Adrien_Nunez" title="Adrien Nunez">Adrien Nunez</a></b> <i>(pictured)</i>, despite limited playing time, was more highly paid than a projected <a href="/wiki/NBA_draft_lottery" title="NBA draft lottery">NBA draft lottery</a> pick while in college?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aquilegia daingolica]]></title>
