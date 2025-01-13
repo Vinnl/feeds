@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-01-13T05:41:02.701Z</updated>
+    <updated>2025-01-13T17:39:41.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Julia_Hoggett</id>
         <link href="https://en.wikipedia.org/wiki/Julia_Hoggett"/>
         <updated>2025-01-13T05:40:59.575Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Julia_Hoggett" title="Julia Hoggett">the CEO</a></b> of the <a href="/wiki/London_Stock_Exchange_Group" title="London Stock Exchange Group">London Stock Exchange Group</a> described insider dealing as "the poster child of market abuse"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Julia_Hoggett" title="Julia Hoggett">the CEO</a></b> of the <a href="/wiki/London_Stock_Exchange" title="London Stock Exchange">London Stock Exchange</a> described insider dealing as "the poster child of market abuse"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Praga E-55]]></title>
