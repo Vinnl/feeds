@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-01-14T05:38:30.435Z</updated>
+    <updated>2025-01-14T17:38:35.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Conestoga_wagon</id>
         <link href="https://en.wikipedia.org/wiki/Conestoga_wagon"/>
         <updated>2025-01-14T05:38:27.385Z</updated>
-        <content type="html"><![CDATA[... that of the 156 <b><a href="/wiki/Conestoga_wagon" title="Conestoga wagon">Conestoga wagons</a></b> <i>(pictured)</i> brought to the <a href="/wiki/Braddock_Expedition" title="Braddock Expedition">Braddock Expedition</a> of the <a href="/wiki/French_and_Indian_War" title="French and Indian War">French and Indian War</a>, only one remained intact by the campaign's end?]]></content>
+        <content type="html"><![CDATA[... that of the 146 <b><a href="/wiki/Conestoga_wagon" title="Conestoga wagon">Conestoga wagons</a></b> <i>(pictured)</i> employed by the <a href="/wiki/Braddock_Expedition" title="Braddock Expedition">Braddock Expedition</a> in the <a href="/wiki/French_and_Indian_War" title="French and Indian War">French and Indian War</a>, only one remained intact by the campaign's end?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yogini with a Mynah Bird]]></title>
