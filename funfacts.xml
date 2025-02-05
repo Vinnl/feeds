@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-02-05T05:40:48.067Z</updated>
+    <updated>2025-02-05T17:38:29.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Shmuel_Hurvits</id>
         <link href="https://en.wikipedia.org/wiki/Shmuel_Hurvits"/>
         <updated>2025-02-05T05:40:44.836Z</updated>
-        <content type="html"><![CDATA[... that the Yiddish poet <b><a href="/wiki/Shmuel_Hurvits" title="Shmuel Hurvits">Shmuel Hurvits</a></b> quit his job as a teacher to become a street paver due to an ideological appreciation for manual labor?]]></content>
+        <content type="html"><![CDATA[... that the Yiddish writer <b><a href="/wiki/Shmuel_Hurvits" title="Shmuel Hurvits">Shmuel Hurvits</a></b> quit his job as a teacher to become a street paver due to an ideological appreciation for manual labor?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[extrasolar planets in fiction]]></title>
