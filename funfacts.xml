@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-02-07T05:39:48.500Z</updated>
+    <updated>2025-02-07T17:38:12.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Council_of_Tripoli</id>
         <link href="https://en.wikipedia.org/wiki/Council_of_Tripoli"/>
         <updated>2025-02-07T05:39:45.303Z</updated>
-        <content type="html"><![CDATA[... that summons to the <b><a href="/wiki/Council_of_Tripoli" title="Council of Tripoli">Council of Tripoli</a></b> were issued in the name of the Church to bypass the issue of whether a king could summon a prince?]]></content>
+        <content type="html"><![CDATA[... that a summons to the <b><a href="/wiki/Council_of_Tripoli" title="Council of Tripoli">Council of Tripoli</a></b> was issued in the name of the Church to bypass the issue of whether a king could summon a prince?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Swim School]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Franz_Jonas" title="Franz Jonas">the fourth president of Austria</a></b><span class="nowrap">'s</span> post-secondary instructors included all three of his predecessors?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Catch II]]></title>
+        <title type="html"><![CDATA[The Catch II]]></title>
         <id>https://en.wikipedia.org/wiki/The_Catch_II</id>
         <link href="https://en.wikipedia.org/wiki/The_Catch_II"/>
         <updated>2025-02-07T05:39:45.317Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/The_Catch_II" title="The Catch II">Catch&nbsp;II</a></b> game had "one of the most amazing finishes in <a href="/wiki/NFL_playoffs" title="NFL playoffs">NFL postseason</a> history", according to the <a href="/wiki/National_Football_League" title="National Football League">NFL</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/The_Catch_II" title="The Catch II">The Catch II</a></b> game had "one of the most amazing finishes in <a href="/wiki/NFL_playoffs" title="NFL playoffs">NFL postseason</a> history", according to the <a href="/wiki/National_Football_League" title="National Football League">NFL</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a cheese-filled waffle]]></title>
