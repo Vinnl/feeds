@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-02-10T05:40:05.798Z</updated>
+    <updated>2025-02-10T17:38:13.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/ToNiePok%C3%B3j_escape_room_fire</id>
         <link href="https://en.wikipedia.org/wiki/ToNiePok%C3%B3j_escape_room_fire"/>
         <updated>2025-02-10T05:40:01.938Z</updated>
-        <content type="html"><![CDATA[... that the deaths of five teenagers in Poland in the <b><a href="/wiki/ToNiePok%C3%B3j_escape_room_fire" title="ToNiePokój escape room fire">ToNiePokój escape room fire</a></b> led to inspections of escape rooms in Lithuania and Czechia?]]></content>
+        <content type="html"><![CDATA[... that the deaths of five teenagers in Poland in the <b><a href="/wiki/ToNiePok%C3%B3j_escape_room_fire" title="ToNiePokój escape room fire">ToNiePokój escape room fire</a></b> led to inspections of <a href="/wiki/Escape_room" title="Escape room">escape rooms</a> in Lithuania and Czechia?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thomas M. Robins]]></title>
