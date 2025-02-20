@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-02-20T05:40:32.915Z</updated>
+    <updated>2025-02-20T17:39:12.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Lamtiur_Andaliah_Panggabean</id>
         <link href="https://en.wikipedia.org/wiki/Lamtiur_Andaliah_Panggabean"/>
         <updated>2025-02-20T05:40:29.653Z</updated>
-        <content type="html"><![CDATA[... that the scientific name of a species of crustacean is named after ambassador <b><a href="/wiki/Lamtiur_Andaliah_Panggabean" title="Lamtiur Andaliah Panggabean">Lamtiur Andaliah Panggabean</a></b> and her two children?]]></content>
+        <content type="html"><![CDATA[... that the scientific name of a species of crustacean is in honor of ambassador <b><a href="/wiki/Lamtiur_Andaliah_Panggabean" title="Lamtiur Andaliah Panggabean">Lamtiur Andaliah Panggabean</a></b> and her two children?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Festival Internacional da Canção]]></title>
