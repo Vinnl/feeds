@@ -2,70 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-02-21T17:37:43.577Z</updated>
+    <updated>2025-02-22T05:38:46.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[some railings in London have kinks]]></title>
-        <id>https://en.wikipedia.org/wiki/Stretcher_railing</id>
-        <link href="https://en.wikipedia.org/wiki/Stretcher_railing"/>
-        <updated>2025-02-21T05:40:17.540Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Stretcher_railing" title="Stretcher railing">some railings in London have kinks</a></b> <i>(example pictured)</i>, indicating their original use as stretchers?]]></content>
+        <title type="html"><![CDATA[George Washington]]></title>
+        <id>https://en.wikipedia.org/wiki/Statue_of_George_Washington_(Trenton,_New_Jersey)</id>
+        <link href="https://en.wikipedia.org/wiki/Statue_of_George_Washington_(Trenton,_New_Jersey)"/>
+        <updated>2025-02-22T05:38:43.653Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Statue_of_George_Washington_(Trenton,_New_Jersey)" title="Statue of George Washington (Trenton, New Jersey)">George Washington</a></b></i> <i>(pictured)</i> was first exhibited at the 1876 <a href="/wiki/Centennial_Exposition" title="Centennial Exposition">Centennial Exposition</a> in Philadelphia, and later relocated during the <a href="/wiki/United_States_Bicentennial" title="United States Bicentennial">1976 Bicentennial</a> to <a href="/wiki/Trenton,_New_Jersey" title="Trenton, New Jersey">Trenton</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yu Xiangdou]]></title>
-        <id>https://en.wikipedia.org/wiki/Yu_Xiangdou</id>
-        <link href="https://en.wikipedia.org/wiki/Yu_Xiangdou"/>
-        <updated>2025-02-21T05:40:17.541Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Yu_Xiangdou" title="Yu Xiangdou">Yu Xiangdou</a></b>, unlike most other publishers in <a href="/wiki/Ming_dynasty" title="Ming dynasty">Ming-dynasty China</a>, enjoyed including illustrations of himself in his works?]]></content>
+        <title type="html"><![CDATA[Directorate General of Higher Education]]></title>
+        <id>https://en.wikipedia.org/wiki/Directorate_General_of_Higher_Education</id>
+        <link href="https://en.wikipedia.org/wiki/Directorate_General_of_Higher_Education"/>
+        <updated>2025-02-22T05:38:43.653Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Directorate_General_of_Higher_Education" title="Directorate General of Higher Education">Directorate General of Higher Education</a></b> in Indonesia had been dissolved twice before being re-established in 2019?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taliesin West]]></title>
-        <id>https://en.wikipedia.org/wiki/Taliesin_West</id>
-        <link href="https://en.wikipedia.org/wiki/Taliesin_West"/>
-        <updated>2025-02-21T05:40:17.542Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a> paid more for a well at his <b><a href="/wiki/Taliesin_West" title="Taliesin West">Taliesin West</a></b> estate than he had paid for the land itself?]]></content>
+        <title type="html"><![CDATA[Tabyana Ali]]></title>
+        <id>https://en.wikipedia.org/wiki/Tabyana_Ali</id>
+        <link href="https://en.wikipedia.org/wiki/Tabyana_Ali"/>
+        <updated>2025-02-22T05:38:43.655Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/San_Antonio" title="San Antonio">San Antonio</a> declared January&nbsp;13 to be "Tabyana Ali Day" in honor of the actress and writer <b><a href="/wiki/Tabyana_Ali" title="Tabyana Ali">Tabyana Ali</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yuval Raphael]]></title>
-        <id>https://en.wikipedia.org/wiki/Yuval_Raphael</id>
-        <link href="https://en.wikipedia.org/wiki/Yuval_Raphael"/>
-        <updated>2025-02-21T05:40:17.543Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Yuval_Raphael" title="Yuval Raphael">Yuval Raphael</a></b>, who is set to represent Israel at <a href="/wiki/Eurovision_Song_Contest_2025" title="Eurovision Song Contest 2025">Eurovision 2025</a>, survived the <a href="/wiki/October_7_Hamas-led_attack_on_Israel" title="October 7 Hamas-led attack on Israel">October&nbsp;7 Hamas-led attack on Israel</a> by hiding under dead bodies for eight hours?]]></content>
+        <title type="html"><![CDATA[Combination Pizza Hut and Taco Bell]]></title>
+        <id>https://en.wikipedia.org/wiki/Combination_Pizza_Hut_and_Taco_Bell</id>
+        <link href="https://en.wikipedia.org/wiki/Combination_Pizza_Hut_and_Taco_Bell"/>
+        <updated>2025-02-22T05:38:43.668Z</updated>
+        <content type="html"><![CDATA[... that one analysis of the song "<b><a href="/wiki/Combination_Pizza_Hut_and_Taco_Bell" title="Combination Pizza Hut and Taco Bell">Combination Pizza Hut and Taco Bell</a></b>" cites the ancient Roman orator <a href="/wiki/Quintilian" title="Quintilian">Quintilian</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Main Street Vehicles]]></title>
-        <id>https://en.wikipedia.org/wiki/Main_Street_Vehicles</id>
-        <link href="https://en.wikipedia.org/wiki/Main_Street_Vehicles"/>
-        <updated>2025-02-21T05:40:17.545Z</updated>
-        <content type="html"><![CDATA[... that the horses pulling the Disneyland <b><a href="/wiki/Main_Street_Vehicles" title="Main Street Vehicles">Main Street Vehicles</a></b><span class="nowrap">'</span> streetcars include <a href="/wiki/American_Belgian_Draft" title="American Belgian Draft">Belgians</a>, <a href="/wiki/Belgian_Draught" title="Belgian Draught">Brabants</a>, <a href="/wiki/Clydesdale_horse" title="Clydesdale horse">Clydesdales</a>, <a href="/wiki/Percheron" title="Percheron">Percherons</a>, and <a href="/wiki/Shire_horse" title="Shire horse">Shires</a>?]]></content>
+        <title type="html"><![CDATA[Edward III's Breton campaign]]></title>
+        <id>https://en.wikipedia.org/wiki/Edward_III%27s_Breton_campaign</id>
+        <link href="https://en.wikipedia.org/wiki/Edward_III%27s_Breton_campaign"/>
+        <updated>2025-02-22T05:38:43.671Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Edward_III%27s_Breton_campaign" title="Edward III's Breton campaign">Edward&nbsp;III's Breton campaign</a></b> ended in a truce that was "astonishingly favourable" to the English?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British Virgin Islands at the 2024 Summer Olympics]]></title>
-        <id>https://en.wikipedia.org/wiki/British_Virgin_Islands_at_the_2024_Summer_Olympics</id>
-        <link href="https://en.wikipedia.org/wiki/British_Virgin_Islands_at_the_2024_Summer_Olympics"/>
-        <updated>2025-02-21T05:40:17.546Z</updated>
-        <content type="html"><![CDATA[... that the delegation of the <b><a href="/wiki/British_Virgin_Islands_at_the_2024_Summer_Olympics" title="British Virgin Islands at the 2024 Summer Olympics">British Virgin Islands at the 2024 Summer Olympics</a></b> was supported by a scholarship named after <a href="/wiki/Tahesia_Harrigan-Scott" title="Tahesia Harrigan-Scott">their <i>chef de mission</i></a><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Serpent's Walk]]></title>
+        <id>https://en.wikipedia.org/wiki/Serpent%27s_Walk</id>
+        <link href="https://en.wikipedia.org/wiki/Serpent%27s_Walk"/>
+        <updated>2025-02-22T05:38:43.672Z</updated>
+        <content type="html"><![CDATA[... that the fantasy writer <a href="/wiki/M._A._R._Barker" title="M. A. R. Barker">M.&nbsp;A.&nbsp;R. Barker</a> wrote the neo-Nazi novel <i><b><a href="/wiki/Serpent%27s_Walk" title="Serpent's Walk">Serpent's Walk</a></b></i> in 1991, but his authorship was only confirmed in 2022?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pascale St-Onge]]></title>
-        <id>https://en.wikipedia.org/wiki/Pascale_St-Onge</id>
-        <link href="https://en.wikipedia.org/wiki/Pascale_St-Onge"/>
-        <updated>2025-02-21T05:40:17.547Z</updated>
-        <content type="html"><![CDATA[... that Canadian heritage minister <b><a href="/wiki/Pascale_St-Onge" title="Pascale St-Onge">Pascale St-Onge</a></b> was the bassist in an all-lesbian <a href="/wiki/Alternative_rock" title="Alternative rock">alternative rock</a> quartet?]]></content>
+        <title type="html"><![CDATA[one of the first Polish film producers]]></title>
+        <id>https://en.wikipedia.org/wiki/Mordka_Towbin</id>
+        <link href="https://en.wikipedia.org/wiki/Mordka_Towbin"/>
+        <updated>2025-02-22T05:38:43.674Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Mordka_Towbin" title="Mordka Towbin">one of the first Polish film producers</a></b> was prevented from screening his first film in Poland?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seoul's third-oldest restaurant]]></title>
-        <id>https://en.wikipedia.org/wiki/Yonggeumok</id>
-        <link href="https://en.wikipedia.org/wiki/Yonggeumok"/>
-        <updated>2025-02-21T05:40:17.549Z</updated>
-        <content type="html"><![CDATA[... that North and South Korean politicians have expressed fondness for <b><a href="/wiki/Yonggeumok" title="Yonggeumok">Seoul's third-oldest restaurant</a></b>?]]></content>
+        <title type="html"><![CDATA[Fuzhou Road]]></title>
+        <id>https://en.wikipedia.org/wiki/Fuzhou_Road</id>
+        <link href="https://en.wikipedia.org/wiki/Fuzhou_Road"/>
+        <updated>2025-02-22T05:38:43.675Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Fuzhou_Road" title="Fuzhou Road">Fuzhou Road</a></b> was once the centre of the Chinese publishing industry?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a 19th-century artwork]]></title>
-        <id>https://en.wikipedia.org/wiki/Marusankakushikaku</id>
-        <link href="https://en.wikipedia.org/wiki/Marusankakushikaku"/>
-        <updated>2025-02-21T05:40:17.550Z</updated>
-        <content type="html"><![CDATA[... that scholars have discussed whether <b><a href="/wiki/Marusankakushikaku" title="Marusankakushikaku">a 19th-century artwork</a></b> by <a href="/wiki/Sengai" title="Sengai">Sengai</a> should be titled "<span lang="ja" style="font-style: normal;">○△□</span>" or "<span lang="ja" style="font-style: normal;">□△○</span>"?]]></content>
+        <title type="html"><![CDATA[nekonomics]]></title>
+        <id>https://en.wikipedia.org/wiki/Nekonomics</id>
+        <link href="https://en.wikipedia.org/wiki/Nekonomics"/>
+        <updated>2025-02-22T05:38:43.677Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Nekonomics" title="Nekonomics">nekonomics</a></b> includes the leveraging of <b><a href="/wiki/Cat_islands_in_Japan" title="Cat islands in Japan">stray cat populations on islands</a></b> to draw tourists?]]></content>
     </entry>
 </feed>
