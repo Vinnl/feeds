@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-03-01T05:39:28.966Z</updated>
+    <updated>2025-03-01T17:37:33.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Butt_of_malmsey</id>
         <link href="https://en.wikipedia.org/wiki/Butt_of_malmsey"/>
         <updated>2025-03-01T05:39:25.746Z</updated>
-        <content type="html"><![CDATA[... that a <b><a href="/wiki/Butt_of_malmsey" title="Butt of malmsey">butt of malmsey</a></b> was required to make "Tyre that is excellent", as part of a mixture of "fat Bastard, two gallons of Cute [and] <a href="/wiki/Trepat" title="Trepat">Parrel</a>?]]></content>
+        <content type="html"><![CDATA[... that a <b><a href="/wiki/Butt_of_malmsey" title="Butt of malmsey">butt of malmsey</a></b> was required to make "Tyre that is excellent", as part of a mixture of "fat Bastard, two gallons of Cute [and] <a href="/wiki/Trepat" title="Trepat">Parrel</a>"?]]></content>
     </entry>
 </feed>
