@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-03-10T05:36:53.057Z</updated>
+    <updated>2025-03-10T17:42:53.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/1970_Minneapolis_teachers%27_strike"/>
         <updated>2025-03-10T05:36:50.024Z</updated>
         <content type="html"><![CDATA[... that footage of the <b><a href="/wiki/1970_Minneapolis_teachers%27_strike" title="1970 Minneapolis teachers' strike">1970 Minneapolis teachers' strike</a></b> uncovered in 2022 showed an 11-year-old <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a> speaking in favor of the striking teachers?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tower of 32 pillars]]></title>
-        <id>https://en.wikipedia.org/wiki/Battis_Khamba</id>
-        <link href="https://en.wikipedia.org/wiki/Battis_Khamba"/>
-        <updated>2025-03-10T05:36:50.025Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Battis_Khamba" title="Battis Khamba">tower of 32 pillars</a></b> only has 24 pillars?]]></content>
     </entry>
 </feed>
