@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-03-31T05:41:56.945Z</updated>
+    <updated>2025-03-31T17:40:38.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/SZA</id>
         <link href="https://en.wikipedia.org/wiki/SZA"/>
         <updated>2025-03-31T05:41:53.905Z</updated>
-        <content type="html"><![CDATA[... that singer-songwriter <b><a href="/wiki/SZA" title="SZA">SZA</a></b> was a <a href="/wiki/Hijab" title="Hijab">hijabi</a> as a child, but stopped wearing one due to <a href="/wiki/Islamophobia" title="Islamophobia">Islamophobia</a> after <a href="/wiki/September_11_attacks" title="September 11 attacks">9/11</a>?]]></content>
+        <content type="html"><![CDATA[... that singer-songwriter <b><a href="/wiki/SZA" title="SZA">SZA</a></b> wore a <a href="/wiki/Hijab" title="Hijab">hijab</a> as a child, but stopped wearing it due to <a href="/wiki/Islamophobia" title="Islamophobia">Islamophobia</a> after <a href="/wiki/September_11_attacks" title="September 11 attacks">9/11</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[serving cunt]]></title>
