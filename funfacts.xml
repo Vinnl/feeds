@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-01T05:41:59.776Z</updated>
+    <updated>2025-04-01T17:42:17.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://en.wikipedia.org/wiki/Barack_Obama_(horse)"/>
         <updated>2025-04-01T05:41:56.834Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Barack_Obama_(horse)" title="Barack Obama (horse)">Barack Obama</a></b> was a horse and <b><a href="/wiki/Kamala_(elephant)" title="Kamala (elephant)">Kamala</a></b> was an elephant?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien]]></title>
-        <id>https://en.wikipedia.org/wiki/Alien_Mus</id>
-        <link href="https://en.wikipedia.org/wiki/Alien_Mus"/>
-        <updated>2025-04-01T05:41:56.836Z</updated>
-        <content type="html"><![CDATA[... that Indonesians twice elected an <b><a href="/wiki/Alien_Mus" title="Alien Mus">Alien</a></b> as a representative?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bliss]]></title>
