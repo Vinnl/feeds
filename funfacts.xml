@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-02T05:43:39.686Z</updated>
+    <updated>2025-04-02T17:42:12.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Herman_Brown</id>
         <link href="https://en.wikipedia.org/wiki/Herman_Brown"/>
         <updated>2025-04-02T05:43:36.611Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Herman_Brown" title="Herman Brown">Herman Brown</a></b><span class="nowrap">'s</span> <a href="/wiki/Estate_(law)" title="Estate (law)">estate</a> and most of the proceeds from the sale of <a href="/wiki/KBR,_Inc." title="KBR, Inc.">Brown &amp; Root</a> were donated after his death to his <a href="/wiki/Private_foundation_(United_States)" title="Private foundation (United States)">charitable foundation</a>, which has given more than $2&nbsp;billion in grants in <a href="/wiki/Texas" title="Texas">Texas</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Herman_Brown" title="Herman Brown">Herman Brown</a></b><span class="nowrap">'s</span> estate and most of the proceeds from the sale of <a href="/wiki/KBR,_Inc." title="KBR, Inc.">Brown &amp; Root</a> were donated after his death to his <a href="/wiki/Private_foundation_(United_States)" title="Private foundation (United States)">charitable foundation</a>, which has given more than $2&nbsp;billion in grants in Texas?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[migration background]]></title>
