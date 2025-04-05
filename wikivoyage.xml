@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2025-04-05T05:40:42.141Z</updated>
+    <updated>2025-04-05T17:39:42.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -28,7 +28,7 @@
         <link href="https://en.wikivoyage.org/wiki/Banteay_Chhmar"/>
         <updated>2025-04-02T17:42:11.795Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;40%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Banteay Chhmar&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Off the Beaten Path&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previously Off the beaten path&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;BanteayChhmarBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;Explore the remains of the Khmer Empire in a more low-key setting than at Angkor Wat, while experiencing traditional culture.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt13">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt13">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt13" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="331" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:40%">
 		<section data-mw-section-id="-1" id="mwJQ"><div class="mw-heading mw-heading2" id="mwQw"><h2 id="Banteay_Chhmar"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Banteay_Chhmar" title="Banteay Chhmar">Banteay Chhmar</a></h2></div>
