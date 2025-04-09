@@ -4,7 +4,7 @@ pages:
   script:
   - npx playwright install-deps
   - npx playwright install firefox
-  - npx feed-me-up-scotty
+  - DEBUG="info" npx feed-me-up-scotty
   artifacts:
     paths:
     - public
