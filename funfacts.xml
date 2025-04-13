@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-13T05:45:01.570Z</updated>
+    <updated>2025-04-13T17:38:57.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,13 +59,13 @@
         <id>https://en.wikipedia.org/wiki/Edmonds%27_Clock_Tower</id>
         <link href="https://en.wikipedia.org/wiki/Edmonds%27_Clock_Tower"/>
         <updated>2025-04-13T05:44:58.191Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Edmonds%27_Clock_Tower" title="Edmonds' Clock Tower">Edmonds' Clock Tower</a></b> was split in two after the <a href="/wiki/June_2011_Christchurch_earthquake" title="June 2011 Christchurch earthquake">June&nbsp;2011 Christchurch earthquakes</a>?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Edmonds%27_Clock_Tower" class="mw-redirect" title="Edmonds' Clock Tower">Edmonds' Clock Tower</a></b> was split in two after the <a href="/wiki/June_2011_Christchurch_earthquake" title="June 2011 Christchurch earthquake">June&nbsp;2011 Christchurch earthquakes</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Juno]]></title>
         <id>https://en.wikipedia.org/wiki/Juno_(Overwatch)</id>
         <link href="https://en.wikipedia.org/wiki/Juno_(Overwatch)"/>
         <updated>2025-04-13T05:44:58.258Z</updated>
-        <content type="html"><![CDATA[... that the <i><a href="/wiki/Overwatch" title="Overwatch">Overwatch</a></i> character <b><a href="/wiki/Juno_(Overwatch)" title="Juno (Overwatch)">Juno</a></b> was praised for her ability to reward players for having sound game sense?]]></content>
+        <content type="html"><![CDATA[... that the <i><a href="/wiki/Overwatch" title="Overwatch">Overwatch</a></i> character <b><a href="/wiki/Juno_(Overwatch)" title="Juno (Overwatch)">Juno</a></b> has been praised for her ability to reward players for having sound game sense?]]></content>
     </entry>
 </feed>
