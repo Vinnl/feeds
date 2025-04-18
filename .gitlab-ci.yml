@@ -1,6 +1,6 @@
 pages:
   stage: deploy
-  image: mcr.microsoft.com/playwright:v1.12.3-focal
+  image: mcr.microsoft.com/playwright:v1.52.0-noble
   script:
   - npx playwright install-deps
   - npx playwright install firefox
