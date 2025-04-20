@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2025-04-19T17:39:10.016Z</updated>
+    <updated>2025-04-20T05:41:20.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <link href="https://en.wikivoyage.org/wiki/Jewish_Stockholm_tour"/>
         <updated>2025-04-02T17:42:11.797Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt16" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;55%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Jewish Stockholm tour&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Featured Travel Topic&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previous Featured travel topics&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;JewishStockholmBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;One of few European capitals to evade the Holocaust has a lively Jewish community, celebrating 250 years as a legal faith and 25 years as a recognised minority.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt16">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt16">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt16" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:55%">
 		<section data-mw-section-id="-1" id="mwKQ"><div class="mw-heading mw-heading2" id="mwRQ"><h2 id="Jewish_Stockholm_tour"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Jewish_Stockholm_tour" title="Jewish Stockholm tour">Jewish Stockholm tour</a></h2></div>
