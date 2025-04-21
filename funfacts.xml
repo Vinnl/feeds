@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-21T05:45:28.738Z</updated>
+    <updated>2025-04-21T17:41:52.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/2024_Men%27s_T20_World_Cup</id>
         <link href="https://en.wikipedia.org/wiki/2024_Men%27s_T20_World_Cup"/>
         <updated>2025-04-21T05:45:25.555Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/India_national_cricket_team" title="India national cricket team">India</a> became the first team to win the <a href="/wiki/Men%27s_T20_World_Cup" title="Men's T20 World Cup">T20 World Cup</a> undefeated throughout <b><a href="/wiki/2024_Men%27s_T20_World_Cup" title="2024 Men's T20 World Cup">the 2024 tournament</a></b>?]]></content>
+        <content type="html"><![CDATA[... that in <b><a href="/wiki/2024_Men%27s_T20_World_Cup" title="2024 Men's T20 World Cup">the 2024 tournament</a></b>, <a href="/wiki/India_national_cricket_team" title="India national cricket team">India</a> became the first team to win the <a href="/wiki/Men%27s_T20_World_Cup" title="Men's T20 World Cup">T20 World Cup</a> without losing a game?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Richmond Tunnel]]></title>
