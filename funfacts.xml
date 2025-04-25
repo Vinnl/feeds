@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-25T05:41:46.953Z</updated>
+    <updated>2025-04-25T17:40:52.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Saint_Hripsime_Church</id>
         <link href="https://en.wikipedia.org/wiki/Saint_Hripsime_Church"/>
         <updated>2025-04-25T05:41:43.953Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Saint_Hripsime_Church" title="Saint Hripsime Church">St. Hripsime Church</a></b> <i>(pictured)</i>, standing for 1,400 years, has many earthquake-resistant devices?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Saint_Hripsime_Church" title="Saint Hripsime Church">St. Hripsime Church</a></b> <i>(pictured)</i>, standing for 1,400 years, has many earthquake-resistant features?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blood on the Silver Screen]]></title>
