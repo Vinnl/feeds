@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-27T05:41:05.100Z</updated>
+    <updated>2025-04-27T17:39:24.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Flag_of_Angola</id>
         <link href="https://en.wikipedia.org/wiki/Flag_of_Angola"/>
         <updated>2025-04-27T05:41:01.762Z</updated>
-        <content type="html"><![CDATA[... that the machete in the <b><a href="/wiki/Flag_of_Angola" title="Flag of Angola">flag of Angola</a></b> <i>(pictured)</i> symbolizes peasants, agriculture, and <a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">the country's war of independence</a>?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Machete" title="Machete">machete</a> in the <b><a href="/wiki/Flag_of_Angola" title="Flag of Angola">flag of Angola</a></b> <i>(pictured)</i> symbolizes peasants, agriculture, and <a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">the country's war of independence</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Bard]]></title>
