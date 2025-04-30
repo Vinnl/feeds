@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-04-30T05:42:29.256Z</updated>
+    <updated>2025-04-30T17:41:12.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Jeremy_Allen_White</id>
         <link href="https://en.wikipedia.org/wiki/Jeremy_Allen_White"/>
         <updated>2025-04-30T05:42:26.095Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Jeremy_Allen_White" title="Jeremy Allen White">Jeremy Allen White</a></b><span class="nowrap">'s</span> underwear campaign with <a href="/wiki/Calvin_Klein_(fashion_house)" title="Calvin Klein (fashion house)">Calvin Klein</a> earned US$12.7&nbsp;million in media exposure in less than 48 hours?]]></content>
+        <content type="html"><![CDATA[... that before becoming an actor, <b><a href="/wiki/Jeremy_Allen_White" title="Jeremy Allen White">Jeremy Allen White</a></b> trained in ballet, jazz, and tap dancing?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Laurence Sterne's journal of love letters]]></title>
