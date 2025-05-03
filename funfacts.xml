@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-03T05:41:44.416Z</updated>
+    <updated>2025-05-03T17:39:04.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[tree trunks]]></title>
-        <id>https://en.wikipedia.org/wiki/Trunk_(botany)</id>
-        <link href="https://en.wikipedia.org/wiki/Trunk_(botany)"/>
-        <updated>2025-05-03T05:41:41.271Z</updated>
-        <content type="html"><![CDATA[... that people in parts of India, North America, and Africa marry <b><a href="/wiki/Trunk_(botany)" title="Trunk (botany)">tree trunks</a></b> <i>(example pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[drink the tears]]></title>
         <id>https://en.wikipedia.org/wiki/Lachryphagy</id>
         <link href="https://en.wikipedia.org/wiki/Lachryphagy"/>
         <updated>2025-05-03T05:41:41.272Z</updated>
-        <content type="html"><![CDATA[... that some insects <b><a href="/wiki/Lachryphagy" title="Lachryphagy">drink the tears</a></b> of their predators?]]></content>
+        <content type="html"><![CDATA[... that some insects <b><a href="/wiki/Lachryphagy" title="Lachryphagy">drink the tears</a></b> <i>(example pictured)</i> of their predators?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the Vatican's website]]></title>
@@ -67,5 +60,12 @@
         <link href="https://en.wikipedia.org/wiki/Pride_Night"/>
         <updated>2025-05-03T05:41:41.283Z</updated>
         <content type="html"><![CDATA[... that <a href="/wiki/Major_League_Baseball" title="Major League Baseball">Major League Baseball</a>'s first <b><a href="/wiki/Pride_Night" title="Pride Night">Pride Night</a></b> came about after a <a href="/wiki/Lesbian" title="Lesbian">lesbian</a> couple were removed from a <a href="/wiki/Los_Angeles_Dodgers" title="Los Angeles Dodgers">Los Angeles Dodgers</a> game for kissing?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tree trunks]]></title>
+        <id>https://en.wikipedia.org/wiki/Trunk_(botany)</id>
+        <link href="https://en.wikipedia.org/wiki/Trunk_(botany)"/>
+        <updated>2025-05-03T05:41:41.271Z</updated>
+        <content type="html"><![CDATA[... that people in parts of India, North America, and Africa marry <b><a href="/wiki/Trunk_(botany)" title="Trunk (botany)">tree trunks</a></b>?]]></content>
     </entry>
 </feed>
