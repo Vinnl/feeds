@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-05T05:44:21.498Z</updated>
+    <updated>2025-05-05T17:41:28.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[an 1895 painting]]></title>
-        <id>https://en.wikipedia.org/wiki/M%C3%A1s_Not%C3%ADcias</id>
-        <link href="https://en.wikipedia.org/wiki/M%C3%A1s_Not%C3%ADcias"/>
-        <updated>2025-05-05T05:44:18.287Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/M%C3%A1s_Not%C3%ADcias" title="Más Notícias">an 1895 painting</a></b> <i>(pictured)</i>, depicting a woman clutching a crumpled letter, was described by a critic as "a list of disasters"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avi Yemini]]></title>
-        <id>https://en.wikipedia.org/wiki/Avi_Yemini</id>
-        <link href="https://en.wikipedia.org/wiki/Avi_Yemini"/>
-        <updated>2025-05-05T05:44:18.289Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Avi_Yemini" title="Avi Yemini">Avi Yemini</a></b> is one of seventeen children who were raised in an <a href="/wiki/Haredi_Judaism" title="Haredi Judaism">ultra-Orthodox</a> <a href="/wiki/Chabad" title="Chabad">Chabad</a> family?]]></content>
+        <title type="html"><![CDATA[Barbara Frischmuth]]></title>
+        <id>https://en.wikipedia.org/wiki/Barbara_Frischmuth</id>
+        <link href="https://en.wikipedia.org/wiki/Barbara_Frischmuth"/>
+        <updated>2025-05-05T17:41:25.370Z</updated>
+        <content type="html"><![CDATA[... that novelist <b><a href="/wiki/Barbara_Frischmuth" title="Barbara Frischmuth">Barbara Frischmuth</a></b> <i>(pictured)</i> argues that humans should not presume to rule over other species?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024]]></title>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[... that <a href="/wiki/Playboi_Carti" title="Playboi Carti">Playboi Carti</a>'s song titled "<b><a href="/wiki/2024_(song)" title="2024 (song)">2024</a></b>" was first teased in 2023 and later officially released in 2025?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soemartini]]></title>
-        <id>https://en.wikipedia.org/wiki/Soemartini</id>
-        <link href="https://en.wikipedia.org/wiki/Soemartini"/>
-        <updated>2025-05-05T05:44:18.291Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Soemartini" title="Soemartini">Soemartini</a></b> was appointed as the chief of the <a href="/wiki/National_Archives_of_Indonesia" title="National Archives of Indonesia">National Archives of Indonesia</a> after working in the agency for a year?]]></content>
+        <title type="html"><![CDATA[Avi Yemini]]></title>
+        <id>https://en.wikipedia.org/wiki/Avi_Yemini</id>
+        <link href="https://en.wikipedia.org/wiki/Avi_Yemini"/>
+        <updated>2025-05-05T05:44:18.289Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Avi_Yemini" title="Avi Yemini">Avi Yemini</a></b> is one of seventeen children who were raised in an <a href="/wiki/Haredi_Judaism" title="Haredi Judaism">ultra-Orthodox</a> <a href="/wiki/Chabad" title="Chabad">Chabad</a> family?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Home of a Rebel Sharpshooter]]></title>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[... that <i><b><a href="/wiki/Home_of_a_Rebel_Sharpshooter" title="Home of a Rebel Sharpshooter">Home of a Rebel Sharpshooter</a></b></i> was staged by moving a corpse?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wen Chia-ling]]></title>
-        <id>https://en.wikipedia.org/wiki/Wen_Chia-ling</id>
-        <link href="https://en.wikipedia.org/wiki/Wen_Chia-ling"/>
-        <updated>2025-05-05T05:44:18.295Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Wen_Chia-ling" title="Wen Chia-ling">Wen Chia-ling</a></b>, despite her family's initial opposition to her becoming an <a href="/wiki/Archery" title="Archery">archer</a>, helped Taiwan's team achieve its best-ever finish at the <a href="/wiki/2000_Summer_Olympics" title="2000 Summer Olympics">2000 Summer Olympics</a>?]]></content>
+        <title type="html"><![CDATA[Soemartini]]></title>
+        <id>https://en.wikipedia.org/wiki/Soemartini</id>
+        <link href="https://en.wikipedia.org/wiki/Soemartini"/>
+        <updated>2025-05-05T05:44:18.291Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Soemartini" title="Soemartini">Soemartini</a></b> was appointed as the chief of the <a href="/wiki/National_Archives_of_Indonesia" title="National Archives of Indonesia">National Archives of Indonesia</a> after working in the agency for a year?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a Florida TV station]]></title>
@@ -53,6 +46,13 @@
         <link href="https://en.wikipedia.org/wiki/WTLV"/>
         <updated>2025-05-05T05:44:18.296Z</updated>
         <content type="html"><![CDATA[... that just two weeks after <b><a href="/wiki/WTLV" title="WTLV">a Florida TV station</a></b> began using a news helicopter, it crashed, killing two of three occupants?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wen Chia-ling]]></title>
+        <id>https://en.wikipedia.org/wiki/Wen_Chia-ling</id>
+        <link href="https://en.wikipedia.org/wiki/Wen_Chia-ling"/>
+        <updated>2025-05-05T05:44:18.295Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Wen_Chia-ling" title="Wen Chia-ling">Wen Chia-ling</a></b>, despite her family's initial opposition to her becoming an <a href="/wiki/Archery" title="Archery">archer</a>, helped Taiwan's team achieve its best-ever finish at the <a href="/wiki/2000_Summer_Olympics" title="2000 Summer Olympics">2000 Summer Olympics</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[well-being]]></title>
