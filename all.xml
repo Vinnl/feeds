@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-09T05:43:56.186Z</updated>
+    <updated>2025-05-09T17:40:54.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a public toilet in Paris (Wikipedia — did you know?)]]></title>
@@ -55,10 +55,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[burned down a golden Buddhist temple (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Kinkaku-ji_arson_incident</id>
-        <link href="https://en.wikipedia.org/wiki/Kinkaku-ji_arson_incident"/>
-        <updated>2025-05-09T05:43:53.037Z</updated>
-        <content type="html"><![CDATA[... that the arsonist who <b><a href="/wiki/Kinkaku-ji_arson_incident" title="Kinkaku-ji arson incident">burned down a golden Buddhist temple</a></b> secretly removed one nail, then reinserted it, then removed it again?]]></content>
+        <id>https://en.wikipedia.org/wiki/Kinkaku-ji_arson</id>
+        <link href="https://en.wikipedia.org/wiki/Kinkaku-ji_arson"/>
+        <updated>2025-05-09T17:40:50.610Z</updated>
+        <content type="html"><![CDATA[... that the arsonist who <b><a href="/wiki/Kinkaku-ji_arson" title="Kinkaku-ji arson">burned down a golden Buddhist temple</a></b> secretly removed one nail, then reinserted it, then removed it again?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[London Vegetable Orchestra (Wikipedia — did you know?)]]></title>
