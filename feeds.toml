@@ -13,7 +13,8 @@ titleSelector = "h2"
 linkSelector = "h2 > a[href]"
 contentSelector = ['dd[data-parameter="mileage"]', 'dd[data-parameter="fuel_type"]',  'dd[data-parameter="gearbox"]', 'dd[data-parameter="year"]', "h3"]
 dateSelector = "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj"
-waitUntil = "load"
+waitUntil = "networkidle"
+# waitUntil - domcontentloaded" (default), "load", or "networkidle"
 
 # [NoFluffJobs]
 # url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
