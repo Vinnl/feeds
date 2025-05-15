@@ -6,29 +6,30 @@ url = [
 "https://www.otomoto.pl/osobowe/volvo/v60--v60-cross-country--v70--v90--xc-40--xc-60--xc-70/seg-combi--seg-suv/od-2020?search%5Bfilter_enum_fuel_type%5D=petrol&search%5Bfilter_float_engine_power%3Afrom%5D=150&search%5Bfilter_float_mileage%3Ato%5D=140000&search%5Bfilter_float_price%3Afrom%5D=80000&search%5Bfilter_float_price%3Ato%5D=130000&search%5Border%5D=created_at_first%3Adesc"
 ]
 entrySelector = 'div[data-testid="search-results"] > div > article'
-titleSelector = "section div:nth-child(2)"
+# titleSelector = "section div:nth-child(2)"
+titleSelector = "h2"
 # titleSelector = "h1 > a"
 # titleSelector = "h1 a[href]"
-linkSelector = "h1 > a[href]"
+linkSelector = "h2 > a[href]"
 contentSelector = ['dd[data-parameter="mileage"]', 'dd[data-parameter="fuel_type"]',  'dd[data-parameter="gearbox"]', 'dd[data-parameter="year"]', "h3"]
 dateSelector = "div.ooa-16w655c.ev7e6t83 p.ooa-gmxnzj"
 waitUntil = "load"
 
-[NoFluffJobs]
-url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
-entrySelector = "a.posting-list-item"
-titleSelector = "h3.posting-title__position"
-linkSelector = "*"
-contentSelector = ["span.company", "span.salary", "common-posting-item-tag span"]
-waitUntil = "load"
+# [NoFluffJobs]
+# url = "https://nofluffjobs.com/remote/devops?criteria=requirement%3DAWS,Azure%20category%3Dsys-administrator,automation%20jobLanguage%3Den%20seniority%3Dmid&page=1"
+# entrySelector = "a.posting-list-item"
+# titleSelector = "h3.posting-title__position"
+# linkSelector = "*"
+# contentSelector = ["span.company", "span.salary", "common-posting-item-tag span"]
+# waitUntil = "load"
 
-[JustJoinIT]
-url = [ "https://justjoin.it/all-locations/admin/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time",
-"https://justjoin.it/all-locations/devops/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time"
-]
-entrySelector = "div.css-1iq2gw3"
-# entrySelector = "div[data-index]"
-titleSelector = "h2.css-16gpjqw"
-linkSelector = "a.css-4lqp8g"
-contentSelector = ["div.css-ldh1c9 > span", "div.css-68pppj > span", "div.css-1b2ga3v", "div.css-yicj0q"]
-waitUntil = "networkidle"
+# [JustJoinIT]
+# url = [ "https://justjoin.it/all-locations/admin/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time",
+# "https://justjoin.it/all-locations/devops/employment-type_b2b.permanent.specific-task-contract/experience-level_mid.senior/remote_yes/working-hours_part-time"
+# ]
+# entrySelector = "div.css-1iq2gw3"
+# # entrySelector = "div[data-index]"
+# titleSelector = "h2.css-16gpjqw"
+# linkSelector = "a.css-4lqp8g"
+# contentSelector = ["div.css-ldh1c9 > span", "div.css-68pppj > span", "div.css-1b2ga3v", "div.css-yicj0q"]
+# waitUntil = "networkidle"
