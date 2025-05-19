@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-19T05:43:37.631Z</updated>
+    <updated>2025-05-19T17:41:55.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://en.wikipedia.org/wiki/Liechtenstein_at_the_1976_Summer_Olympics"/>
         <updated>2025-05-19T05:43:34.454Z</updated>
         <content type="html"><![CDATA[... that the two women athletes Liechtenstein <b><a href="/wiki/Liechtenstein_at_the_1976_Summer_Olympics" title="Liechtenstein at the 1976 Summer Olympics">sent to the 1976 Summer Olympics</a></b> were twins?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hester Leggatt]]></title>
-        <id>https://en.wikipedia.org/wiki/Hester_Leggatt</id>
-        <link href="https://en.wikipedia.org/wiki/Hester_Leggatt"/>
-        <updated>2025-05-19T05:43:34.456Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/MI5" title="MI5">MI5</a> secretary <b><a href="/wiki/Hester_Leggatt" title="Hester Leggatt">Hester Leggatt</a></b> wrote convincing fake love letters for the WWII deception mission <a href="/wiki/Operation_Mincemeat" title="Operation Mincemeat">Operation Mincemeat</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a 2023 coal mine workers' union election]]></title>
