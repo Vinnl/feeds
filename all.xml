@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-21T05:43:41.457Z</updated>
+    <updated>2025-05-21T17:42:04.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a future member (Wikipedia — did you know?)]]></title>
@@ -102,20 +102,20 @@
 </span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vancouver International Airport (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Vancouver_International_Airport</id>
-        <link href="https://en.wikivoyage.org/wiki/Vancouver_International_Airport"/>
-        <updated>2025-04-21T05:45:28.097Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt10" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;45%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Vancouver International Airport&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Featured Travel Topic&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previous Featured travel topics&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;YVRBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;Canada's main airport on the Pacific is well connected to East Asia.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt10">
+        <title type="html"><![CDATA[E69 (Wikivoyage recommendations)]]></title>
+        <id>https://en.wikivoyage.org/wiki/E69</id>
+        <link href="https://en.wikivoyage.org/wiki/E69"/>
+        <updated>2025-05-21T17:42:03.471Z</updated>
+        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt10" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKA" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;35%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;E69&quot;},&quot;section&quot;:{&quot;wt&quot;:&quot;Featured Travel Topic&quot;},&quot;section-link&quot;:{&quot;wt&quot;:&quot;Previous Featured travel topics&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;E69Banner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;European Highway E69 goes through barren landscapes to the world's northernmost point you can reach by car.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt10">
 </span><div class="banner-image js-proportonal-resize notheme" about="#mwt10">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
-		<section data-mw-section-id="-1" id="mwKQ"><div class="mw-heading mw-heading2" id="mwRQ"><h2 id="Vancouver_International_Airport"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Vancouver_International_Airport" title="Vancouver International Airport">Vancouver International Airport</a></h2></div>
+	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:35%">
+		<section data-mw-section-id="-1" id="mwKQ"><div class="mw-heading mw-heading2" id="mwRQ"><h2 id="E69"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/E69" title="E69">E69</a></h2></div>
 		<section data-mw-section-id="-1" id="mwKg"><div class="mw-heading mw-heading3" id="mwRg"><h3 id="Featured_Travel_Topic"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></h3></div>
-		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Vancouver_International_Airport" title="Vancouver International Airport">Canada's main airport on the Pacific is well connected to East Asia.</a></div>
+		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/E69" title="E69">European Highway E69 goes through barren landscapes to the world's northernmost point you can reach by car.</a></div>
 	</section></section></div>
-	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Vancouver International Airport&quot;}"><span title="Vancouver International Airport"><img alt="Vancouver International Airport" resource="//en.wikivoyage.org/wiki/File:YVRBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/YVRBanner1.jpg/1700px-YVRBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/YVRBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/4/43/YVRBanner1.jpg 2x" class="mw-file-element"></span></span></p>
-	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Vancouver International Airport&quot;}"><a href="//en.wikivoyage.org/wiki/Vancouver_International_Airport" title="Vancouver International Airport"><img alt="Vancouver International Airport" resource="//en.wikivoyage.org/wiki/File:YVRBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/YVRBanner1.jpg/1700px-YVRBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/YVRBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/4/43/YVRBanner1.jpg 2x" class="mw-file-element"></a></span></div><span about="#mwt10">
+	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;E69&quot;}"><span title="E69"><img alt="E69" resource="//en.wikivoyage.org/wiki/File:E69Banner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/a/a1/E69Banner1.jpg/1700px-E69Banner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/a/a1/E69Banner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/a/a1/E69Banner1.jpg 2x" class="mw-file-element"></span></span></p>
+	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;E69&quot;}"><a href="//en.wikivoyage.org/wiki/E69" title="E69"><img alt="E69" resource="//en.wikivoyage.org/wiki/File:E69Banner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/a/a1/E69Banner1.jpg/1700px-E69Banner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/a/a1/E69Banner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/a/a1/E69Banner1.jpg 2x" class="mw-file-element"></a></span></div><span about="#mwt10">
 </span>]]></content>
     </entry>
 </feed>
