@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-26T05:44:15.527Z</updated>
+    <updated>2025-05-26T17:41:45.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Hannah_Fry</id>
         <link href="https://en.wikipedia.org/wiki/Hannah_Fry"/>
         <updated>2025-05-26T05:44:12.301Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hannah_Fry" title="Hannah Fry">Hannah Fry</a></b> once used mathematics to compare Elizabeth&nbsp;II's Christmas messages with the lyrics of <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Hannah_Fry" title="Hannah Fry">Hannah Fry</a></b> used mathematics to compare Elizabeth&nbsp;II's Christmas messages with the lyrics of <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids]]></title>
