@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-27T05:44:07.594Z</updated>
+    <updated>2025-05-27T17:41:48.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://en.wikipedia.org/wiki/For_Your_Validation"/>
         <updated>2025-05-27T05:44:04.537Z</updated>
         <content type="html"><![CDATA[... that a tour promoting the EP <i><b><a href="/wiki/For_Your_Validation" title="For Your Validation">For Your Validation</a></b></i> sold out in ten minutes?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gammarelli]]></title>
-        <id>https://en.wikipedia.org/wiki/Gammarelli</id>
-        <link href="https://en.wikipedia.org/wiki/Gammarelli"/>
-        <updated>2025-05-27T05:44:04.538Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Gammarelli" title="Gammarelli">Gammarelli</a></b>, the official tailor of the pope, is one of the oldest family-run businesses in Europe?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Buster Maddox]]></title>
