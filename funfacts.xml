@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-06-01T05:43:07.707Z</updated>
+    <updated>2025-06-01T17:40:54.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that no other month in a calendar year starts with the same day of the week as <b><a href="/wiki/June" title="June">June</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lady Carbisdale]]></title>
+        <title type="html"><![CDATA[Samantha Kane]]></title>
         <id>https://en.wikipedia.org/wiki/Samantha_Kane</id>
         <link href="https://en.wikipedia.org/wiki/Samantha_Kane"/>
         <updated>2025-06-01T05:43:04.693Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Samantha_Kane" title="Samantha Kane">Lady Carbisdale</a></b> led an unsuccessful takeover bid for <a href="/wiki/Sheffield_United_F.C." title="Sheffield United F.C.">Sheffield United F.C.</a> and, after a gender transition, was interviewed to become its chief executive?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Samantha_Kane" title="Samantha Kane">Samantha Kane</a></b> led an unsuccessful takeover bid for <a href="/wiki/Sheffield_United_F.C." title="Sheffield United F.C.">Sheffield United F.C.</a> and, after a gender transition, was interviewed to become its chief executive?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amtrak Susquehanna River Bridge]]></title>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Sjahriar_Rasad</id>
         <link href="https://en.wikipedia.org/wiki/Sjahriar_Rasad"/>
         <updated>2025-06-01T05:43:04.697Z</updated>
-        <content type="html"><![CDATA[... that medicine dean <b><a href="/wiki/Sjahriar_Rasad" title="Sjahriar Rasad">Sjahriar Rasad</a></b> was accused of being involved in a conspiracy to assassinate Indonesian President <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a>?]]></content>
+        <content type="html"><![CDATA[... that medicine dean <b><a href="/wiki/Sjahriar_Rasad" title="Sjahriar Rasad">Sjahriar Rasad</a></b> was accused of being involved in a conspiracy to assassinate Indonesian president <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[is currently deciding]]></title>
