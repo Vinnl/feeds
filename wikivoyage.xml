@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2025-06-08T17:40:15.181Z</updated>
+    <updated>2025-06-09T05:46:29.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
@@ -35,7 +35,7 @@
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
-        <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previous_Off_the_Beaten_Path" title="Previous Off the Beaten Path"><img alt="OtBP" resource="//en.wikivoyage.org/wiki/File:Right_turn_icon_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/32px-Right_turn_icon_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/48px-Right_turn_icon_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/64px-Right_turn_icon_white.svg.png 2x" class="mw-file-element"></a></span></div>
+        <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path"><img alt="OtBP" resource="//en.wikivoyage.org/wiki/File:Right_turn_icon_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/32px-Right_turn_icon_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/48px-Right_turn_icon_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/64px-Right_turn_icon_white.svg.png 2x" class="mw-file-element"></a></span></div>
 		<section data-mw-section-id="-1" id="mwJQ"><h2 style="font-size:1.25em;" id="Off_the_Beaten_Path" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></h2>
         <section data-mw-section-id="-1" id="mwJg"><h3 style="font-size:2em;" id="New_England_NP" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/New_England_National_Park" title="New England National Park">New England NP</a></h3>
 		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/New_England_National_Park" title="New England National Park">Visit one of the world's best preserved Gondwana Rainforests in New South Wales with many of New England National Park's hiking trails showcasing exactly that.</a></div>
