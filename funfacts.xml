@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-06-11T05:45:39.121Z</updated>
+    <updated>2025-06-11T17:44:25.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[... that the 1946 <b><a href="/wiki/Aviators_Affair" title="Aviators Affair">Aviators Affair</a></b> saw more than a dozen Soviet air force commanders and aircraft industry officials purged on Stalin's orders?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Justin Trudeau is Fidel Castro's son]]></title>
-        <id>https://en.wikipedia.org/wiki/Justin_Trudeau%E2%80%93Fidel_Castro_conspiracy_theory</id>
-        <link href="https://en.wikipedia.org/wiki/Justin_Trudeau%E2%80%93Fidel_Castro_conspiracy_theory"/>
-        <updated>2025-06-11T05:45:35.829Z</updated>
-        <content type="html"><![CDATA[... that some conspiracy theorists believe that <b><a href="/wiki/Justin_Trudeau%E2%80%93Fidel_Castro_conspiracy_theory" title="Justin Trudeau–Fidel Castro conspiracy theory">Justin Trudeau is Fidel Castro's son</a></b>?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Naulahka]]></title>
         <id>https://en.wikipedia.org/wiki/The_Naulahka:_A_Story_of_West_and_East</id>
         <link href="https://en.wikipedia.org/wiki/The_Naulahka:_A_Story_of_West_and_East"/>
@@ -45,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Hasto_Wardoyo</id>
         <link href="https://en.wikipedia.org/wiki/Hasto_Wardoyo"/>
         <updated>2025-06-11T05:45:35.838Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hasto_Wardoyo" title="Hasto Wardoyo">Hasto Wardoyo</a></b> required his municipal employees to buy at least 10 kg of locally produced rice every month?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Hasto_Wardoyo" title="Hasto Wardoyo">Hasto Wardoyo</a></b> required his municipal employees to buy at least 10&nbsp;kg (22&nbsp;lb) of locally produced rice every month?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the fourth first lady of Poland]]></title>
