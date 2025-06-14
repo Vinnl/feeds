@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-06-14T05:43:32.860Z</updated>
+    <updated>2025-06-14T17:40:19.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Natural Dis-tinction Un-natural Selection]]></title>
+        <id>https://en.wikipedia.org/wiki/Natural_Dis-tinction_Un-natural_Selection</id>
+        <link href="https://en.wikipedia.org/wiki/Natural_Dis-tinction_Un-natural_Selection"/>
+        <updated>2025-06-14T05:43:29.570Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Alexander_McQueen" title="Alexander McQueen">Alexander McQueen</a> pioneered the use of digitally engineered prints in fashion with <i><b><a href="/wiki/Natural_Dis-tinction_Un-natural_Selection" title="Natural Dis-tinction Un-natural Selection">Natural Dis-tinction Un-natural Selection</a></b> (examples pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Burgle Bros 2]]></title>
         <id>https://en.wikipedia.org/wiki/Burgle_Bros</id>
         <link href="https://en.wikipedia.org/wiki/Burgle_Bros"/>
         <updated>2025-06-14T05:43:29.569Z</updated>
-        <content type="html"><![CDATA[... that the box of <i><b><a href="/wiki/Burgle_Bros" title="Burgle Bros">Burgle Bros&nbsp;2</a></b></i> transforms into a two-layer game board <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that the box of <i><b><a href="/wiki/Burgle_Bros" title="Burgle Bros">Burgle Bros&nbsp;2</a></b></i> transforms into a two-layer game board?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sydney Agudong]]></title>
@@ -18,13 +25,6 @@
         <link href="https://en.wikipedia.org/wiki/Sydney_Agudong"/>
         <updated>2025-06-14T05:43:29.570Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Sydney_Agudong" title="Sydney Agudong">Sydney Agudong</a></b> and <a href="/wiki/Siena_Agudong" title="Siena Agudong">her sister</a> were the final two candidates for a role in <i><a href="/wiki/Lilo_%26_Stitch_(2025_film)" title="Lilo &amp; Stitch (2025 film)">Lilo &amp; Stitch</a></i><span style="padding-left:0.15em;">?</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natural Dis-tinction Un-natural Selection]]></title>
-        <id>https://en.wikipedia.org/wiki/Natural_Dis-tinction_Un-natural_Selection</id>
-        <link href="https://en.wikipedia.org/wiki/Natural_Dis-tinction_Un-natural_Selection"/>
-        <updated>2025-06-14T05:43:29.570Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Alexander_McQueen" title="Alexander McQueen">Alexander McQueen</a> pioneered the use of digitally engineered prints in fashion with <i><b><a href="/wiki/Natural_Dis-tinction_Un-natural_Selection" title="Natural Dis-tinction Un-natural Selection">Natural Dis-tinction Un-natural Selection</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Charles Moses]]></title>
