@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-06-22T05:43:29.020Z</updated>
+    <updated>2025-06-22T17:42:50.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Hirano_Maru</id>
         <link href="https://en.wikipedia.org/wiki/Hirano_Maru"/>
         <updated>2025-06-22T05:43:25.901Z</updated>
-        <content type="html"><![CDATA[... that 291 people were killed in the sinking of the <i><b><a href="/wiki/Hirano_Maru" title="Hirano Maru">Hirano Maru</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that 291 people were killed in the sinking of the <i><b><a href="/wiki/Hirano_Maru" title="Hirano Maru">Hirano Maru</a></b></i> by a German submarine less than six weeks before the end of the First World War?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[David Viaene]]></title>
