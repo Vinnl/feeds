@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-06-23T05:46:18.444Z</updated>
+    <updated>2025-06-23T17:44:07.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[... that in 2023, <a href="/wiki/China_Coast_Guard" title="China Coast Guard">Chinese Coast Guardsman</a> <b><a href="/wiki/Wang_Xiaolong_(coast_guard)" title="Wang Xiaolong (coast guard)">Wang Xiaolong</a></b> was officially declared a <a href="/wiki/Martyr_(China)" title="Martyr (China)">Martyr</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Civilization]]></title>
-        <id>https://en.wikipedia.org/wiki/Civilization_(magazine)</id>
-        <link href="https://en.wikipedia.org/wiki/Civilization_(magazine)"/>
-        <updated>2025-06-23T05:46:15.328Z</updated>
-        <content type="html"><![CDATA[... that a 2022 issue of <i><b><a href="/wiki/Civilization_(magazine)" title="Civilization (magazine)">Civilization</a></b></i> was designed to be horrible, unlikable and partly AI-generated?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Huda al-Daghfaq]]></title>
         <id>https://en.wikipedia.org/wiki/Huda_al-Daghfaq</id>
         <link href="https://en.wikipedia.org/wiki/Huda_al-Daghfaq"/>
@@ -52,20 +45,20 @@
         <id>https://en.wikipedia.org/wiki/Technical_geography</id>
         <link href="https://en.wikipedia.org/wiki/Technical_geography"/>
         <updated>2025-06-23T05:46:15.332Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Technical_geography" title="Technical geography">technical geography</a></b>, which studies the application of <a href="/wiki/Computer_cartography" title="Computer cartography">computer cartography</a> and <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a>, has origins in <a href="/wiki/Ptolemy" title="Ptolemy">Greco-Roman</a> and <a href="/wiki/Geography_and_cartography_in_the_medieval_Islamic_world" title="Geography and cartography in the medieval Islamic world">medieval Islamic cartography</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Technical_geography" title="Technical geography">technical geography</a></b>, which includes the application of <a href="/wiki/Computer_cartography" title="Computer cartography">computer cartography</a> and <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a>, has origins in <a href="/wiki/Ptolemy" title="Ptolemy">Greco-Roman</a> and <a href="/wiki/Geography_and_cartography_in_the_medieval_Islamic_world" title="Geography and cartography in the medieval Islamic world">medieval Islamic cartography</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eddie Marzuki Nalapraya]]></title>
         <id>https://en.wikipedia.org/wiki/Eddie_Marzuki_Nalapraya</id>
         <link href="https://en.wikipedia.org/wiki/Eddie_Marzuki_Nalapraya"/>
         <updated>2025-06-23T05:46:15.333Z</updated>
-        <content type="html"><![CDATA[... that Jakarta deputy governor <b><a href="/wiki/Eddie_Marzuki_Nalapraya" title="Eddie Marzuki Nalapraya">Eddie Marzuki Nalapraya</a></b> used to babysit future member of parliament <a href="/wiki/Rhoma_Irama" title="Rhoma Irama">Rhoma Irama</a>?]]></content>
+        <content type="html"><![CDATA[... that Jakarta deputy governor <b><a href="/wiki/Eddie_Marzuki_Nalapraya" title="Eddie Marzuki Nalapraya">Eddie Marzuki Nalapraya</a></b> used to babysit future <a href="/wiki/Dangdut" title="Dangdut">dangdut</a> musician <a href="/wiki/Rhoma_Irama" title="Rhoma Irama">Rhoma Irama</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UFO disclosure]]></title>
-        <id>https://en.wikipedia.org/wiki/Disclosure_movement</id>
-        <link href="https://en.wikipedia.org/wiki/Disclosure_movement"/>
-        <updated>2025-06-23T05:46:15.335Z</updated>
-        <content type="html"><![CDATA[... that the TV show <i><a href="/wiki/Ancient_Aliens" title="Ancient Aliens">Ancient Aliens</a></i> speculated that the <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">CIA</a> caused <a href="/wiki/Hillary_Clinton" title="Hillary Clinton">Hillary Clinton</a> to lose the <a href="/wiki/2016_United_States_presidential_election" title="2016 United States presidential election">2016 U.S. presidential election</a> in order to foil <b><a href="/wiki/Disclosure_movement" title="Disclosure movement">UFO disclosure</a></b>?]]></content>
+        <title type="html"><![CDATA[Civilization]]></title>
+        <id>https://en.wikipedia.org/wiki/Civilization_(magazine)</id>
+        <link href="https://en.wikipedia.org/wiki/Civilization_(magazine)"/>
+        <updated>2025-06-23T05:46:15.328Z</updated>
+        <content type="html"><![CDATA[... that a partly AI-generated 2022 issue of <i><b><a href="/wiki/Civilization_(magazine)" title="Civilization (magazine)">Civilization</a></b></i> was designed to be horrible and unlikable?]]></content>
     </entry>
 </feed>
