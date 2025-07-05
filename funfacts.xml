@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-05T05:44:17.111Z</updated>
+    <updated>2025-07-05T17:42:19.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that an African-American was appointed <a href="/wiki/Postmaster" title="Postmaster">postmaster</a> of <b><a href="/wiki/Baynesville,_Virginia" title="Baynesville, Virginia">Baynesville, Virginia</a></b>, in 1893 in preference to a former <a href="/wiki/Confederate_States_of_America" title="Confederate States of America">Confederate</a> soldier?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golekane Mosveu]]></title>
-        <id>https://en.wikipedia.org/wiki/Golekane_Mosveu</id>
-        <link href="https://en.wikipedia.org/wiki/Golekane_Mosveu"/>
-        <updated>2025-07-05T05:44:13.997Z</updated>
-        <content type="html"><![CDATA[... that mine labourer <b><a href="/wiki/Golekane_Mosveu" title="Golekane Mosveu">Golekane Mosveu</a></b> became an Olympic runner after someone noticed his fitness?]]></content>
+        <title type="html"><![CDATA[Golekane Mosweu]]></title>
+        <id>https://en.wikipedia.org/wiki/Golekane_Mosweu</id>
+        <link href="https://en.wikipedia.org/wiki/Golekane_Mosweu"/>
+        <updated>2025-07-05T17:42:15.663Z</updated>
+        <content type="html"><![CDATA[... that mine labourer <b><a href="/wiki/Golekane_Mosweu" title="Golekane Mosweu">Golekane Mosweu</a></b> became an Olympic runner after someone noticed his fitness?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chicken Ranch Bingo]]></title>
