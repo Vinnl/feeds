@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-12T05:46:42.763Z</updated>
+    <updated>2025-07-12T17:43:28.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Marisa_Dick</id>
         <link href="https://en.wikipedia.org/wiki/Marisa_Dick"/>
         <updated>2025-07-12T05:46:39.651Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Marisa_Dick" title="Marisa Dick">Marisa Dick</a></b> <i>(pictured)</i> has two balance-beam elements named after her&nbsp;– the Dick and the Dick&nbsp;II?]]></content>
+        <content type="html"><![CDATA[... that gymnast <b><a href="/wiki/Marisa_Dick" title="Marisa Dick">Marisa Dick</a></b> <i>(pictured)</i> debuted a new <a href="/wiki/Balance_beam" title="Balance beam">balance beam</a> gymnastics move at the 2016 Summer Olympics, which was then named after her?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Korean science fiction]]></title>
