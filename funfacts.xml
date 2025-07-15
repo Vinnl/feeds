@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-15T05:49:55.340Z</updated>
+    <updated>2025-07-15T17:46:25.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Katherine_Balch</id>
         <link href="https://en.wikipedia.org/wiki/Katherine_Balch"/>
         <updated>2025-07-15T05:49:52.191Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Katherine_Balch" title="Katherine Balch">Katherine Balch</a></b> is "like some kind of musical <a href="/wiki/Thomas_Edison" title="Thomas Edison">Thomas Edison</a>"?]]></content>
+        <content type="html"><![CDATA[... that music critic Joshua Kosman said <b><a href="/wiki/Katherine_Balch" title="Katherine Balch">Katherine Balch</a></b> is "like some kind of musical <a href="/wiki/Thomas_Edison" title="Thomas Edison">Thomas Edison</a>"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Seal Island]]></title>
