@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-24T05:50:16.084Z</updated>
+    <updated>2025-07-24T17:46:40.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,14 +31,14 @@
         <id>https://en.wikipedia.org/wiki/Verona_Marjanovi%C4%87</id>
         <link href="https://en.wikipedia.org/wiki/Verona_Marjanovi%C4%87"/>
         <updated>2025-07-24T05:50:12.896Z</updated>
-        <content type="html"><![CDATA[... that luger <b><a href="/wiki/Verona_Marjanovi%C4%87" title="Verona Marjanović">Verona Marjanović</a></b> had to run through an airport while bullets were being fired to train in Germany?]]></content>
+        <content type="html"><![CDATA[... that to get to her training in Germany, luger <b><a href="/wiki/Verona_Marjanovi%C4%87" title="Verona Marjanović">Verona Marjanović</a></b> had to run through an airport while bullets were being fired?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Robert Baker Park]]></title>
         <id>https://en.wikipedia.org/wiki/Robert_Baker_Park</id>
         <link href="https://en.wikipedia.org/wiki/Robert_Baker_Park"/>
         <updated>2025-07-24T05:50:12.897Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Robert_Baker_Park" title="Robert Baker Park">Robert Baker Park</a></b> in <a href="/wiki/Baltimore" title="Baltimore">Baltimore</a> was named after Robert Lewis Baker, whose personal garden was recreated at the city's Flower and Garden Show the year after his death?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Robert_Baker_Park" title="Robert Baker Park">Robert Baker Park</a></b> in <a href="/wiki/Baltimore" title="Baltimore">Baltimore</a> was named after <a href="/wiki/Robert_Lewis_Baker" title="Robert Lewis Baker">Robert Lewis Baker</a>, whose personal garden was recreated at the city's Flower and Garden Show the year after his death?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kathleen O'Melia]]></title>
