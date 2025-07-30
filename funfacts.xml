@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-30T05:54:07.623Z</updated>
+    <updated>2025-07-30T17:49:00.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Federation_of_Central_America_(1921%E2%80%931922)</id>
         <link href="https://en.wikipedia.org/wiki/Federation_of_Central_America_(1921%E2%80%931922)"/>
         <updated>2025-07-30T05:54:04.461Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Federation_of_Central_America_(1921%E2%80%931922)" title="Federation of Central America (1921–1922)">Federation of Central America</a></b>, despite being "perpetual and indissoluble", collapsed in less than one year?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Federation_of_Central_America_(1921%E2%80%931922)" title="Federation of Central America (1921–1922)">Federation of Central America</a></b>, declared to be "perpetual and indissoluble", collapsed after less than one year?]]></content>
     </entry>
 </feed>
