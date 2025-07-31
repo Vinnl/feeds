@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-07-31T05:53:00.402Z</updated>
+    <updated>2025-07-31T17:46:59.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Claude-Charles_Bourgonnier</id>
         <link href="https://en.wikipedia.org/wiki/Claude-Charles_Bourgonnier"/>
         <updated>2025-07-31T05:52:57.138Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Claude-Charles_Bourgonnier" title="Claude-Charles Bourgonnier">Claude-Charles Bourgonnier</a></b> was barred from exhibiting his art after tearing up one of his own paintings while it was on display?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Claude-Charles_Bourgonnier" title="Claude-Charles Bourgonnier">Claude-Charles Bourgonnier</a></b> was barred from exhibiting his art at the <a href="/wiki/Salon_(Paris)" title="Salon (Paris)">Salon</a> in Paris after tearing up one of his own paintings while it was on display?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Astoria the turkey]]></title>
