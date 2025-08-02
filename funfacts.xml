@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-02T05:50:57.587Z</updated>
+    <updated>2025-08-02T17:45:17.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Wilf_Pine</id>
         <link href="https://en.wikipedia.org/wiki/Wilf_Pine"/>
         <updated>2025-08-02T05:50:54.364Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Wilf_Pine" title="Wilf Pine">Wilf Pine</a></b>, manager of Black Sabbath, had his arm dislocated by a vibrating bed because Ozzy Osbourne kept feeding it quarters?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Wilf_Pine" title="Wilf Pine">Wilf Pine</a></b>, manager of Black Sabbath, had his arm dislocated by a vibrating bed because Ozzy Osbourne kept feeding it <a href="/wiki/Quarter_(United_States_coin)" title="Quarter (United States coin)">quarters</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SS Virago]]></title>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Blargies_prison_camp</id>
         <link href="https://en.wikipedia.org/wiki/Blargies_prison_camp"/>
         <updated>2025-08-02T05:50:54.378Z</updated>
-        <content type="html"><![CDATA[... that the British Army deliberately kept conditions at <b><a href="/wiki/Blargies_prison_camp" title="Blargies prison camp">Blargies prison camp</a></b> poor to prevent soldiers on the Western Front from viewing it as a "soft" alternative to combat?]]></content>
+        <content type="html"><![CDATA[... that the British Army deliberately kept conditions at <b><a href="/wiki/Blargies_prison_camp" title="Blargies prison camp">Blargies prison camp</a></b> poor to prevent soldiers from viewing it as a "soft" alternative to combat?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terry Brown]]></title>
