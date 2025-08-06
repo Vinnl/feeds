@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-06T05:55:50.160Z</updated>
+    <updated>2025-08-06T17:49:58.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/On_Eagle%27s_Wings</id>
         <link href="https://en.wikipedia.org/wiki/On_Eagle%27s_Wings"/>
         <updated>2025-08-06T05:55:46.972Z</updated>
-        <content type="html"><![CDATA[... that "<b><a href="/wiki/On_Eagle%27s_Wings" title="On Eagle's Wings">On Eagle's Wings</a></b>" was quoted in <a href="/wiki/Joe_Biden" title="Joe Biden">Joe Biden</a>'s presidential victory speech, and featured in <i><a href="/wiki/It%27s_Always_Sunny_in_Philadelphia" title="It's Always Sunny in Philadelphia">It's Always Sunny in Philadelphia</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/On_Eagle%27s_Wings" title="On Eagle's Wings">On Eagle's Wings</a></b>" was quoted in <a href="/wiki/Joe_Biden" title="Joe Biden">Joe Biden</a>'s presidential victory speech and featured in <i><a href="/wiki/It%27s_Always_Sunny_in_Philadelphia" title="It's Always Sunny in Philadelphia">It's Always Sunny in Philadelphia</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Randy Winkler]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Voyage_to_the_Blue_Planet</id>
         <link href="https://en.wikipedia.org/wiki/Voyage_to_the_Blue_Planet"/>
         <updated>2025-08-06T05:55:46.999Z</updated>
-        <content type="html"><![CDATA[... that a reviewer for <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> said that <b><a href="/wiki/Voyage_to_the_Blue_Planet" title="Voyage to the Blue Planet">a 2024 concert tour</a></b> by <a href="/wiki/Weezer" title="Weezer">Weezer</a> resembled a cross between an <a href="/wiki/Iron_Maiden" title="Iron Maiden">Iron Maiden</a> concert and the <a href="/wiki/Disneyland" title="Disneyland">Disneyland</a> attraction <a href="/wiki/Star_Tours" title="Star Tours">Star Tours</a>?]]></content>
+        <content type="html"><![CDATA[... that a reviewer for <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> said that <b><a href="/wiki/Voyage_to_the_Blue_Planet" title="Voyage to the Blue Planet">a 2024 concert tour</a></b> by <a href="/wiki/Weezer" title="Weezer">Weezer</a> resembled a cross between an <a href="/wiki/Iron_Maiden" title="Iron Maiden">Iron Maiden</a> concert and the Disneyland attraction <a href="/wiki/Star_Tours" title="Star Tours">Star Tours</a>?]]></content>
     </entry>
 </feed>
