@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-13T05:46:44.451Z</updated>
+    <updated>2025-08-13T17:40:42.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Enriqueta_Duarte</id>
         <link href="https://en.wikipedia.org/wiki/Enriqueta_Duarte"/>
         <updated>2025-08-13T05:46:41.233Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Enriqueta_Duarte" title="Enriqueta Duarte">Enriqueta Duarte</a></b> <i>(pictured)</i> swam the <a href="/wiki/English_Channel" title="English Channel">English Channel</a> despite having no previous experience with open water swimming?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Enriqueta_Duarte" title="Enriqueta Duarte">Enriqueta Duarte</a></b> <i>(pictured)</i> swam the <a href="/wiki/English_Channel" title="English Channel">English Channel</a> despite having never before competed in open water swimming?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bath fire station]]></title>
@@ -32,13 +32,6 @@
         <link href="https://en.wikipedia.org/wiki/Uterine_hypoplasia"/>
         <updated>2025-08-13T05:46:41.247Z</updated>
         <content type="html"><![CDATA[... that the withdrawn medication <a href="/wiki/Diethylstilbestrol" title="Diethylstilbestrol">diethylstilbestrol</a> caused <b><a href="/wiki/Uterine_hypoplasia" title="Uterine hypoplasia">uterine hypoplasia</a></b>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adam Hall]]></title>
-        <id>https://en.wikipedia.org/wiki/Adam_Hall_(baseball)</id>
-        <link href="https://en.wikipedia.org/wiki/Adam_Hall_(baseball)"/>
-        <updated>2025-08-13T05:46:41.247Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Adam_Hall_(baseball)" title="Adam Hall (baseball)">Adam Hall</a></b> is the first person from Bermuda to play professional baseball in the United States?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Breton Civil War]]></title>
