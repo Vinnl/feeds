@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-24T05:41:49.258Z</updated>
+    <updated>2025-08-24T17:40:00.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/Cringe_culture"/>
         <updated>2025-08-24T05:41:46.166Z</updated>
         <content type="html"><![CDATA[... that the creator of Reddit's <b><a href="/wiki/Cringe_culture" title="Cringe culture">cringe culture</a></b> community originally intended it to foster empathy for awkward people, not to mock them?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jessica Ellis]]></title>
-        <id>https://en.wikipedia.org/wiki/Jessica_Ellis</id>
-        <link href="https://en.wikipedia.org/wiki/Jessica_Ellis"/>
-        <updated>2025-08-24T05:41:46.168Z</updated>
-        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Jessica_Ellis" title="Jessica Ellis">Jessica Ellis</a></b> has a phobia of ears?]]></content>
     </entry>
 </feed>
