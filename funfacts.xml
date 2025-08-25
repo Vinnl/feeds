@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-25T05:44:30.779Z</updated>
+    <updated>2025-08-25T17:42:16.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)</id>
         <link href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)"/>
         <updated>2025-08-25T05:44:27.732Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Shadow_the_Hedgehog" title="Shadow the Hedgehog">Shadow the Hedgehog</a>'s love for Latinas in <i><b><a href="/wiki/Sonic_the_Hedgehog_3_(film)" title="Sonic the Hedgehog 3 (film)">Sonic the Hedgehog&nbsp;3</a></b></i> was borne from <i>Sonic</i> fandom shitposting?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Shadow_the_Hedgehog" title="Shadow the Hedgehog">Shadow the Hedgehog</a>'s love for Latinas in <i><b><a href="/wiki/Sonic_the_Hedgehog_3_(film)" title="Sonic the Hedgehog 3 (film)">Sonic the Hedgehog&nbsp;3</a></b></i> originated from <i>Sonic</i> fandom shitposting?]]></content>
     </entry>
 </feed>
