@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-30T05:39:51.301Z</updated>
+    <updated>2025-08-30T17:38:06.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Baldwin_II_(archbishop_of_Caesarea)</id>
         <link href="https://en.wikipedia.org/wiki/Baldwin_II_(archbishop_of_Caesarea)"/>
         <updated>2025-08-30T05:39:47.988Z</updated>
-        <content type="html"><![CDATA[... that church chancellor <b><a href="/wiki/Baldwin_II_(archbishop_of_Caesarea)" title="Baldwin II (archbishop of Caesarea)">Baldwin</a></b> and knight <b><a href="/wiki/Bernard_Vacher" title="Bernard Vacher">Bernard Vacher</a></b> were sent to tell Pisa and Genoa to stop feuding and fight Muslims together instead, but the Italians would have none of that?]]></content>
+        <content type="html"><![CDATA[... that church chancellor <b><a href="/wiki/Baldwin_II_(archbishop_of_Caesarea)" title="Baldwin II (archbishop of Caesarea)">Baldwin</a></b> and knight <b><a href="/wiki/Bernard_Vacher" title="Bernard Vacher">Bernard Vacher</a></b> were sent to tell Pisa and Genoa to stop feuding and fight Muslims together instead, but the Italians refused?]]></content>
     </entry>
 </feed>
