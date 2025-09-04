@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-09-04T05:41:53.966Z</updated>
+    <updated>2025-09-04T17:39:42.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,13 +59,13 @@
         <id>https://en.wikipedia.org/wiki/Morris_Park_Aerodrome</id>
         <link href="https://en.wikipedia.org/wiki/Morris_Park_Aerodrome"/>
         <updated>2025-09-04T05:41:50.735Z</updated>
-        <content type="html"><![CDATA[... that an airshow at <b><a href="/wiki/Morris_Park_Aerodrome" title="Morris Park Aerodrome">a Bronx airport</a></b> may have been the inspiration for the first serious artistic work to depict flight by aircraft?]]></content>
+        <content type="html"><![CDATA[... that a 1908 glider demonstration at <b><a href="/wiki/Morris_Park_Aerodrome" title="Morris Park Aerodrome">a Bronx airport</a></b> was successful only after a car replaced a horse for motive power?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[waifu]]></title>
         <id>https://en.wikipedia.org/wiki/Waifu</id>
         <link href="https://en.wikipedia.org/wiki/Waifu"/>
         <updated>2025-09-04T05:41:50.736Z</updated>
-        <content type="html"><![CDATA[... that in 2009, a Japanese man held a wedding ceremony to marry his fictional <i><b><a href="/wiki/Waifu" title="Waifu">waifu</a></b></i>, with the ceremony broadcast live to over 3,000 viewers?]]></content>
+        <content type="html"><![CDATA[... that in 2009, a Japanese man held a wedding ceremony to marry his fictional <i><b><a href="/wiki/Waifu" title="Waifu">waifu</a></b></i>, with the ceremony broadcast live to thousands of viewers?]]></content>
     </entry>
 </feed>
