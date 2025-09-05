@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-09-05T05:40:44.098Z</updated>
+    <updated>2025-09-05T17:39:29.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Murder_of_Claire_Broadbridge</id>
         <link href="https://en.wikipedia.org/wiki/Murder_of_Claire_Broadbridge"/>
         <updated>2025-09-05T05:40:40.865Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Murder_of_Claire_Broadbridge" title="Murder of Claire Broadbridge">the murder of the former director of Trinidad and Tobago's national museum</a></b> in 2017 brought attention to crime in the country?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Murder_of_Claire_Broadbridge" title="Murder of Claire Broadbridge">the murder of the former director of Trinidad and Tobago's national museum</a></b> in 2017 brought attention to crime and violence against women in the country?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coprosma foetidissima]]></title>
