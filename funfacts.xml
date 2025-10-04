@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-04T05:45:45.942Z</updated>
+    <updated>2025-10-04T17:38:32.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Sabotage_in_World_War_II</id>
         <link href="https://en.wikipedia.org/wiki/Sabotage_in_World_War_II"/>
         <updated>2025-10-04T05:45:42.563Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sabotage_in_World_War_II" title="Sabotage in World War II">sabotage in World War&nbsp;II</a></b> involved delaying the Nazi nuclear program, derailing trains, freeing Jews&nbsp;– and explosive rats?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Sabotage_in_World_War_II" title="Sabotage in World War II">sabotage in World War&nbsp;II</a></b> involved delaying the Nazi nuclear program, derailing trains, freeing Jews, and ... explosive rats?]]></content>
     </entry>
 </feed>
