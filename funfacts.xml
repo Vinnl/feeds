@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-07T05:40:39.979Z</updated>
+    <updated>2025-10-07T17:40:25.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Saturn_V</id>
         <link href="https://en.wikipedia.org/wiki/Saturn_V"/>
         <updated>2025-10-07T05:40:36.672Z</updated>
-        <content type="html"><![CDATA[... that the force developed by the engines of the <b><a href="/wiki/Saturn_V" title="Saturn V">Saturn&nbsp;V</a></b> <i>(pictured)</i> during testing shattered the windows of nearby houses?]]></content>
+        <content type="html"><![CDATA[... that the sound from the engines of the <b><a href="/wiki/Saturn_V" title="Saturn V">Saturn&nbsp;V</a></b> <i>(pictured)</i> during testing shattered the windows of nearby houses?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niina Hanamiya]]></title>
