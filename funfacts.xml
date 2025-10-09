@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-09T05:42:55.342Z</updated>
+    <updated>2025-10-09T17:41:27.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Political_philosophy</id>
         <link href="https://en.wikipedia.org/wiki/Political_philosophy"/>
         <updated>2025-10-09T05:42:51.762Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Political_philosophy" title="Political philosophy">political philosophers</a></b> focus on desirable norms, while political scientists concentrate on empirical descriptions?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Political_philosophy" title="Political philosophy">political philosophers</a></b> focus on desirable norms, while <a href="/wiki/Political_science" title="Political science">political scientists</a> concentrate on empirical descriptions?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[King Baldwin III]]></title>
