@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-15T05:41:34.185Z</updated>
+    <updated>2025-10-15T17:40:26.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/Jennifer_Brooke</id>
         <link href="https://en.wikipedia.org/wiki/Jennifer_Brooke"/>
         <updated>2025-10-15T05:41:30.860Z</updated>
-        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Jennifer_Brooke" title="Jennifer Brooke">Jennifer Brooke</a></b> and her colleagues faced challenging weather conditions from <a href="/wiki/2015%E2%80%9316_UK_and_Ireland_windstorm_season#Storm_Imogen" title="2015–16 UK and Ireland windstorm season">Storm Imogen</a> while filming her death scene for <i><a href="/wiki/Hollyoaks" title="Hollyoaks">Hollyoaks</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Jennifer_Brooke" title="Jennifer Brooke">Jennifer Brooke</a></b> and her colleagues faced severe weather from <a href="/wiki/2015%E2%80%9316_UK_and_Ireland_windstorm_season#Storm_Imogen" title="2015–16 UK and Ireland windstorm season">Storm Imogen</a> while filming her death scene for <i><a href="/wiki/Hollyoaks" title="Hollyoaks">Hollyoaks</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Brunei Shell Petroleum]]></title>
