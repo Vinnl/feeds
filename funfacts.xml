@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-16T05:42:08.584Z</updated>
+    <updated>2025-10-16T17:43:01.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Desis_marina</id>
         <link href="https://en.wikipedia.org/wiki/Desis_marina"/>
         <updated>2025-10-16T05:42:05.125Z</updated>
-        <content type="html"><![CDATA[... that the spider <i><b><a href="/wiki/Desis_marina" title="Desis marina">Desis marina</a></b></i> makes its nest in the intertidal zone of the coast, where it can survive for up to 19 days submerged underwater?]]></content>
+        <content type="html"><![CDATA[... that the spider <i><b><a href="/wiki/Desis_marina" title="Desis marina">Desis marina</a></b></i> makes its nest in the intertidal zone of the coast, where it can survive underwater for up to 19 days?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[won Vietnam's first Olympic gold medal]]></title>
