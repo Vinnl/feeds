@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-17T05:41:19.645Z</updated>
+    <updated>2025-10-17T17:41:35.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -14,10 +14,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[a Russian spy couple used comments]]></title>
-        <id>https://en.wikipedia.org/wiki/Use_of_Cristiano_Ronaldo_videos_in_Russian_espionage_plot</id>
-        <link href="https://en.wikipedia.org/wiki/Use_of_Cristiano_Ronaldo_videos_in_Russian_espionage_plot"/>
-        <updated>2025-10-17T05:41:16.245Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Use_of_Cristiano_Ronaldo_videos_in_Russian_espionage_plot" title="Use of Cristiano Ronaldo videos in Russian espionage plot">a Russian spy couple used comments</a></b> on Cristiano Ronaldo YouTube videos to send coded messages to Moscow?]]></content>
+        <id>https://en.wikipedia.org/wiki/Anschlag_Russian_espionage_plot</id>
+        <link href="https://en.wikipedia.org/wiki/Anschlag_Russian_espionage_plot"/>
+        <updated>2025-10-17T17:41:31.934Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Anschlag_Russian_espionage_plot" title="Anschlag Russian espionage plot">a Russian spy couple used comments</a></b> on Cristiano Ronaldo YouTube videos to send coded messages to Moscow?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neil Cunningham]]></title>
