@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-22T05:44:21.576Z</updated>
+    <updated>2025-10-22T17:40:28.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Dorothy_Sproule</id>
         <link href="https://en.wikipedia.org/wiki/Dorothy_Sproule"/>
         <updated>2025-10-22T05:44:18.319Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Dorothy_Sproule" title="Dorothy Sproule">Dorothy Sproule</a></b> received letters from five <a href="/wiki/List_of_British_monarchs" title="List of British monarchs">British monarchs</a>, earning her the title "Canadian Poet-Laureate to Royalty"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Dorothy_Sproule" title="Dorothy Sproule">Dorothy Sproule</a></b> received letters from five <a href="/wiki/List_of_British_monarchs" title="List of British monarchs">British monarchs</a>, earning her the epithet "Canadian Poet-Laureate to Royalty"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jiaoyu zazhi]]></title>
