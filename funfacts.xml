@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-23T05:43:12.134Z</updated>
+    <updated>2025-10-23T17:42:15.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Euclid%27s_Elements" title="Euclid's Elements">Euclid's <i>Elements</i></a></b> has been estimated to be second only to the Bible in its number of published editions?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Greenewald Jr.]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Greenewald_Jr.</id>
-        <link href="https://en.wikipedia.org/wiki/John_Greenewald_Jr."/>
-        <updated>2025-10-23T05:43:08.899Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Greenewald_Jr." title="John Greenewald Jr.">John Greenewald&nbsp;Jr.</a></b> founded <b><a href="/wiki/The_Black_Vault" title="The Black Vault">a U.S. government transparency website</a></b> when he was a teenager?]]></content>
+        <title type="html"><![CDATA[Linda Anne Hutchison]]></title>
+        <id>https://en.wikipedia.org/wiki/Linda_Anne_Hutchison</id>
+        <link href="https://en.wikipedia.org/wiki/Linda_Anne_Hutchison"/>
+        <updated>2025-10-23T05:43:08.903Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Linda_Anne_Hutchison" title="Linda Anne Hutchison">Linda Anne Hutchison</a></b> performed as a leading soprano of the D'Oyly Carte Opera Company, including during its first visit to continental Europe since the 1880s?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cinnamon fern]]></title>
@@ -55,17 +55,10 @@
         <content type="html"><![CDATA[... that the modern <b><a href="/wiki/Osmundastrum_cinnamomeum" title="Osmundastrum cinnamomeum">cinnamon fern</a></b> has existed since the Cretaceous?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linda Anne Hutchison]]></title>
-        <id>https://en.wikipedia.org/wiki/Linda_Anne_Hutchison</id>
-        <link href="https://en.wikipedia.org/wiki/Linda_Anne_Hutchison"/>
-        <updated>2025-10-23T05:43:08.903Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Linda_Anne_Hutchison" title="Linda Anne Hutchison">Linda Anne Hutchison</a></b> performed as a leading soprano of the D'Oyly Carte Opera Company, including during its first visit to continental Europe since the 1880s?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[one single tugboat]]></title>
-        <id>https://en.wikipedia.org/wiki/Rising_Star_(1991_ship)</id>
-        <link href="https://en.wikipedia.org/wiki/Rising_Star_(1991_ship)"/>
-        <updated>2025-10-23T05:43:08.905Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Rising_Star_(1991_ship)" title="Rising Star (1991 ship)">one single tugboat</a></b> in <a href="/wiki/Greenland" title="Greenland">Greenland</a> is 50% of the navy of the <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a>?]]></content>
+        <title type="html"><![CDATA[John Greenewald Jr.]]></title>
+        <id>https://en.wikipedia.org/wiki/John_Greenewald_Jr.</id>
+        <link href="https://en.wikipedia.org/wiki/John_Greenewald_Jr."/>
+        <updated>2025-10-23T05:43:08.899Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Greenewald_Jr." title="John Greenewald Jr.">John Greenewald&nbsp;Jr.</a></b> founded <b><a href="/wiki/The_Black_Vault" title="The Black Vault">a U.S. government transparency website</a></b> when he was a teenager?]]></content>
     </entry>
 </feed>
