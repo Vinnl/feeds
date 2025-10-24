@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-23T17:42:15.515Z</updated>
+    <updated>2025-10-24T05:43:37.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Gibraltar Mountain]]></title>
-        <id>https://en.wikipedia.org/wiki/Gibraltar_Mountain_(Washington)</id>
-        <link href="https://en.wikipedia.org/wiki/Gibraltar_Mountain_(Washington)"/>
-        <updated>2025-10-23T05:43:08.874Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Gibraltar_Mountain_(Washington)" title="Gibraltar Mountain (Washington)">Gibraltar Mountain</a></b> <i>(pictured)</i> is one of a few documented U.S. sites where <a href="/wiki/Phemeranthus_sediformis" title="Phemeranthus sediformis">Okanogan fameflower</a> is native?]]></content>
+        <title type="html"><![CDATA[Help Mark]]></title>
+        <id>https://en.wikipedia.org/wiki/Help_Mark</id>
+        <link href="https://en.wikipedia.org/wiki/Help_Mark"/>
+        <updated>2025-10-24T05:43:34.345Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Help_Mark" title="Help Mark">Help Mark</a></b> <i>(pictured)</i> is a Japanese accessibility symbol for people with <a href="/wiki/Invisible_disability" title="Invisible disability">invisible disabilities</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mohamed Saïl]]></title>
-        <id>https://en.wikipedia.org/wiki/Mohamed_Sa%C3%AFl</id>
-        <link href="https://en.wikipedia.org/wiki/Mohamed_Sa%C3%AFl"/>
-        <updated>2025-10-23T05:43:08.876Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mohamed_Sa%C3%AFl" title="Mohamed Saïl">Mohamed Saïl</a></b> refused <a href="/wiki/Prisoner_support" title="Prisoner support">prisoner support</a> from <a href="/wiki/International_Red_Aid" title="International Red Aid">International Red Aid</a> in protest against the treatment of Soviet prisoners in the <a href="/wiki/Solovki_prison_camp" title="Solovki prison camp">Solovki prison camp</a>?]]></content>
+        <title type="html"><![CDATA[Hugh I of Cyprus]]></title>
+        <id>https://en.wikipedia.org/wiki/Hugh_I_of_Cyprus</id>
+        <link href="https://en.wikipedia.org/wiki/Hugh_I_of_Cyprus"/>
+        <updated>2025-10-24T05:43:34.347Z</updated>
+        <content type="html"><![CDATA[... that King <b><a href="/wiki/Hugh_I_of_Cyprus" title="Hugh I of Cyprus">Hugh I of Cyprus</a></b> married his stepsister with a special permission from the pope?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[national champions in men's college basketball]]></title>
-        <id>https://en.wikipedia.org/wiki/National_championships_in_men%27s_college_basketball</id>
-        <link href="https://en.wikipedia.org/wiki/National_championships_in_men%27s_college_basketball"/>
-        <updated>2025-10-23T05:43:08.881Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/1939_National_Invitation_Tournament" title="1939 National Invitation Tournament">1939 NIT</a> and the <a href="/wiki/1939_NCAA_basketball_tournament" title="1939 NCAA basketball tournament">1939 NCAA tournament</a> determined two different <b><a href="/wiki/National_championships_in_men%27s_college_basketball" title="National championships in men's college basketball">national champions in men's college basketball</a></b>?]]></content>
+        <title type="html"><![CDATA[penicillin was largely forgotten about for a decade]]></title>
+        <id>https://en.wikipedia.org/wiki/History_of_penicillin</id>
+        <link href="https://en.wikipedia.org/wiki/History_of_penicillin"/>
+        <updated>2025-10-24T05:43:34.348Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/History_of_penicillin" title="History of penicillin">penicillin was largely forgotten about for a decade</a></b> after its initial discovery in 1929?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a speech in which she called the award's namesake]]></title>
-        <id>https://en.wikipedia.org/wiki/Jeannette_Ng%27s_Campbell_Award_acceptance_speech</id>
-        <link href="https://en.wikipedia.org/wiki/Jeannette_Ng%27s_Campbell_Award_acceptance_speech"/>
-        <updated>2025-10-23T05:43:08.897Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Jeannette_Ng" title="Jeannette Ng">Jeannette Ng</a> accepted the 2019 John W. Campbell Award for Best New Writer with <b><a href="/wiki/Jeannette_Ng%27s_Campbell_Award_acceptance_speech" title="Jeannette Ng's Campbell Award acceptance speech">a speech in which she called the award's namesake</a></b>, <a href="/wiki/John_W._Campbell" title="John W. Campbell">John W. Campbell</a>, a "fucking fascist"?]]></content>
+        <title type="html"><![CDATA[chess an Olympic sport]]></title>
+        <id>https://en.wikipedia.org/wiki/Chess_at_the_Olympic_Games</id>
+        <link href="https://en.wikipedia.org/wiki/Chess_at_the_Olympic_Games"/>
+        <updated>2025-10-24T05:43:34.350Z</updated>
+        <content type="html"><![CDATA[... that there have been attempts to make <b><a href="/wiki/Chess_at_the_Olympic_Games" title="Chess at the Olympic Games">chess an Olympic sport</a></b> since at least 1924?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euclid's Elements]]></title>
-        <id>https://en.wikipedia.org/wiki/Euclid%27s_Elements</id>
-        <link href="https://en.wikipedia.org/wiki/Euclid%27s_Elements"/>
-        <updated>2025-10-23T05:43:08.898Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Euclid%27s_Elements" title="Euclid's Elements">Euclid's <i>Elements</i></a></b> has been estimated to be second only to the Bible in its number of published editions?]]></content>
+        <title type="html"><![CDATA[Charles Bornou]]></title>
+        <id>https://en.wikipedia.org/wiki/Charles_Bornou</id>
+        <link href="https://en.wikipedia.org/wiki/Charles_Bornou"/>
+        <updated>2025-10-24T05:43:34.351Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Charles_Bornou" title="Charles Bornou">Charles Bornou</a></b> once served as a minister of finance and a mayor at the same time?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linda Anne Hutchison]]></title>
-        <id>https://en.wikipedia.org/wiki/Linda_Anne_Hutchison</id>
-        <link href="https://en.wikipedia.org/wiki/Linda_Anne_Hutchison"/>
-        <updated>2025-10-23T05:43:08.903Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Linda_Anne_Hutchison" title="Linda Anne Hutchison">Linda Anne Hutchison</a></b> performed as a leading soprano of the D'Oyly Carte Opera Company, including during its first visit to continental Europe since the 1880s?]]></content>
+        <title type="html"><![CDATA[61 Molesworth Street]]></title>
+        <id>https://en.wikipedia.org/wiki/61_Molesworth_Street</id>
+        <link href="https://en.wikipedia.org/wiki/61_Molesworth_Street"/>
+        <updated>2025-10-24T05:43:34.353Z</updated>
+        <content type="html"><![CDATA[... that the demolition of <b><a href="/wiki/61_Molesworth_Street" title="61 Molesworth Street">61&nbsp;Molesworth Street</a></b> in Wellington, New Zealand, revealed the possessions of illegal residents?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cinnamon fern]]></title>
-        <id>https://en.wikipedia.org/wiki/Osmundastrum_cinnamomeum</id>
-        <link href="https://en.wikipedia.org/wiki/Osmundastrum_cinnamomeum"/>
-        <updated>2025-10-23T05:43:08.901Z</updated>
-        <content type="html"><![CDATA[... that the modern <b><a href="/wiki/Osmundastrum_cinnamomeum" title="Osmundastrum cinnamomeum">cinnamon fern</a></b> has existed since the Cretaceous?]]></content>
+        <title type="html"><![CDATA[Sunaryanta]]></title>
+        <id>https://en.wikipedia.org/wiki/Sunaryanta</id>
+        <link href="https://en.wikipedia.org/wiki/Sunaryanta"/>
+        <updated>2025-10-24T05:43:34.354Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Sunaryanta" title="Sunaryanta">Sunaryanta</a></b> ran 7.5 kilometres (4.7&nbsp;mi) from his home to register for an election, and later ran 8 kilometres (5.0&nbsp;mi) back home after losing re-election?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Greenewald Jr.]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Greenewald_Jr.</id>
-        <link href="https://en.wikipedia.org/wiki/John_Greenewald_Jr."/>
-        <updated>2025-10-23T05:43:08.899Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Greenewald_Jr." title="John Greenewald Jr.">John Greenewald&nbsp;Jr.</a></b> founded <b><a href="/wiki/The_Black_Vault" title="The Black Vault">a U.S. government transparency website</a></b> when he was a teenager?]]></content>
+        <title type="html"><![CDATA[a 1941 jam session]]></title>
+        <id>https://en.wikipedia.org/wiki/First_English_Public_Jam_Session</id>
+        <link href="https://en.wikipedia.org/wiki/First_English_Public_Jam_Session"/>
+        <updated>2025-10-24T05:43:34.356Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/First_English_Public_Jam_Session" title="First English Public Jam Session">a 1941 jam session</a></b> was notable for its racial integration?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isaac A. Hopper]]></title>
+        <id>https://en.wikipedia.org/wiki/Isaac_A._Hopper</id>
+        <link href="https://en.wikipedia.org/wiki/Isaac_A._Hopper"/>
+        <updated>2025-10-24T05:43:34.358Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Isaac_A._Hopper" title="Isaac A. Hopper">Isaac A. Hopper</a></b> was one of the One Hundred?]]></content>
     </entry>
 </feed>
