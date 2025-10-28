@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-28T05:43:22.493Z</updated>
+    <updated>2025-10-28T17:43:04.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Abyssinian hare (Wikipedia — did you know?)]]></title>
@@ -58,7 +58,7 @@
         <id>https://en.wikipedia.org/wiki/Qasr_Bshir</id>
         <link href="https://en.wikipedia.org/wiki/Qasr_Bshir"/>
         <updated>2025-10-28T05:43:19.105Z</updated>
-        <content type="html"><![CDATA[... that archaeologists studying <b><a href="/wiki/Qasr_Bshir" title="Qasr Bshir">Qasr Bshir</a></b> used smoke signals, mirrors, and torches to test how messages traveled between Roman frontier forts?]]></content>
+        <content type="html"><![CDATA[... that archaeologists studying <b><a href="/wiki/Qasr_Bshir" title="Qasr Bshir">Qasr Bshir</a></b> used smoke signals, mirrors, and torches to test how messages travelled between Roman frontier forts?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wyoming PBS (Wikipedia — did you know?)]]></title>
