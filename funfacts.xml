@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-10-30T05:42:25.156Z</updated>
+    <updated>2025-10-30T17:42:54.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Oust_Duterte_matrix</id>
         <link href="https://en.wikipedia.org/wiki/Oust_Duterte_matrix"/>
         <updated>2025-10-30T05:42:21.635Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Malaca%C3%B1ang_Palace" title="Malacañang Palace">the Office of the President of the Philippines</a> released <b><a href="/wiki/Oust_Duterte_matrix" title="Oust Duterte matrix">a diagram</a></b> in 2019 it claimed revealed participants in an alleged ouster plot?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Malaca%C3%B1ang_Palace" title="Malacañang Palace">the Office of the President of the Philippines</a> released <b><a href="/wiki/Oust_Duterte_matrix" title="Oust Duterte matrix">a diagram</a></b> in 2019 which it claimed revealed participants in a plot to oust president <a href="/wiki/Rodrigo_Duterte" title="Rodrigo Duterte">Rodrigo Duterte</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Matthew Vickers]]></title>
