@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-11-11T05:43:28.497Z</updated>
+    <updated>2025-11-11T17:42:54.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Maria_of_Montferrat</id>
         <link href="https://en.wikipedia.org/wiki/Maria_of_Montferrat"/>
         <updated>2025-11-11T05:43:25.289Z</updated>
-        <content type="html"><![CDATA[... that Queen <b><a href="/wiki/Maria_of_Montferrat" title="Maria of Montferrat">Maria</a></b> of Jerusalem died while giving birth to Queen <b><a href="/wiki/Isabella_II_of_Jerusalem" title="Isabella II of Jerusalem">Isabella&nbsp;II</a></b> <i>(pictured)</i>,  who died while giving birth?]]></content>
+        <content type="html"><![CDATA[... that Queen <b><a href="/wiki/Maria_of_Montferrat" title="Maria of Montferrat">Maria</a></b> of Jerusalem died shortly after giving birth to Queen <b><a href="/wiki/Isabella_II_of_Jerusalem" title="Isabella II of Jerusalem">Isabella&nbsp;II</a></b> <i>(pictured)</i>,  who also died shortly after giving birth?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Al Sheehan]]></title>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Sabine_Kirchmeier</id>
         <link href="https://en.wikipedia.org/wiki/Sabine_Kirchmeier"/>
         <updated>2025-11-11T05:43:25.296Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sabine_Kirchmeier" title="Sabine Kirchmeier">Sabine Kirchmeier</a></b> reported her mayor to the police as a local politician, and then became the first director of the Danish Language Council?]]></content>
+        <content type="html"><![CDATA[... that before becoming the first director of the <a href="/wiki/Dansk_Sprogn%C3%A6vn" title="Dansk Sprognævn">Danish Language Council</a>, <b><a href="/wiki/Sabine_Kirchmeier" title="Sabine Kirchmeier">Sabine Kirchmeier</a></b> was a local politician who reported <a href="/wiki/Peter_Brixtofte" title="Peter Brixtofte">the mayor</a> to the police?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[sound recordings were not copyrighted]]></title>
