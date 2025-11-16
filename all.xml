@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-16T05:41:36.443Z</updated>
+    <updated>2025-11-16T17:39:24.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Boghead (Wikipedia — did you know?)]]></title>
@@ -16,7 +16,7 @@
         <id>https://en.wikipedia.org/wiki/Adolf_Real</id>
         <link href="https://en.wikipedia.org/wiki/Adolf_Real"/>
         <updated>2025-11-16T05:41:33.131Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> was re-elected as Mayor of Vaduz in 1900, but he refused to take the office?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> was re-elected as mayor of Vaduz in 1900, but he refused to take the office?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Velký vlastenecký výlet (Wikipedia — did you know?)]]></title>

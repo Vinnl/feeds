@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-11-16T05:41:36.522Z</updated>
+    <updated>2025-11-16T17:39:24.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Adolf_Real</id>
         <link href="https://en.wikipedia.org/wiki/Adolf_Real"/>
         <updated>2025-11-16T05:41:33.131Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> was re-elected as Mayor of Vaduz in 1900, but he refused to take the office?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Adolf_Real" title="Adolf Real">Adolf Real</a></b> was re-elected as mayor of Vaduz in 1900, but he refused to take the office?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Velký vlastenecký výlet]]></title>
