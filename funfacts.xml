@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-11-20T05:43:16.034Z</updated>
+    <updated>2025-11-20T17:41:20.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Blossom_C._Brown</id>
         <link href="https://en.wikipedia.org/wiki/Blossom_C._Brown"/>
         <updated>2025-11-20T05:43:12.552Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Blossom_C._Brown" title="Blossom C. Brown">Blossom C. Brown</a></b> attracted national attention for highlighting violence against Black trans women?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Blossom_C._Brown" title="Blossom C. Brown">Blossom C. Brown</a></b> attracted attention across the United States for highlighting violence against Black trans women?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dinosaur emojis]]></title>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Kate_Nambiar</id>
         <link href="https://en.wikipedia.org/wiki/Kate_Nambiar"/>
         <updated>2025-11-20T05:43:12.558Z</updated>
-        <content type="html"><![CDATA[... that in 2023 <b><a href="/wiki/Kate_Nambiar" title="Kate Nambiar">Kate Nambiar</a></b> advised the <i>EastEnders</i> team around HIV treatment options for a storyline?]]></content>
+        <content type="html"><![CDATA[... that in 2023 <b><a href="/wiki/Kate_Nambiar" title="Kate Nambiar">Kate Nambiar</a></b> advised the <i><a href="/wiki/EastEnders" title="EastEnders">EastEnders</a></i> team around HIV treatment options for a storyline?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[identify with no gender]]></title>
