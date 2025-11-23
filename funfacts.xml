@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-11-23T05:42:03.245Z</updated>
+    <updated>2025-11-23T17:40:00.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[... that the <b><a href="/wiki/Sj%C3%B6lejonet-class_submarine" title="Sjölejonet-class submarine"><i>Sjölejonet</i> class</a></b> <i>(example pictured)</i>, Sweden's first indigenous submarines, featured rotating torpedo tubes and disappearing guns?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[David Avraham Voluck]]></title>
-        <id>https://en.wikipedia.org/wiki/David_Avraham_Voluck</id>
-        <link href="https://en.wikipedia.org/wiki/David_Avraham_Voluck"/>
-        <updated>2025-11-23T05:42:00.076Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/David_Avraham_Voluck" title="David Avraham Voluck">David Avraham Voluck</a></b>, a Chabad Jew and native tribal judge, credits Alaska natives with inspiring him to become more observant in his own faith?]]></content>
+        <title type="html"><![CDATA[David Voluck]]></title>
+        <id>https://en.wikipedia.org/wiki/David_Voluck</id>
+        <link href="https://en.wikipedia.org/wiki/David_Voluck"/>
+        <updated>2025-11-23T17:39:57.379Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/David_Voluck" title="David Voluck">David Voluck</a></b>, a Chabad Jew and native tribal judge, credits Alaska natives with inspiring him to become more observant in his own faith?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First Luv]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Esther_Swirk_Brown</id>
         <link href="https://en.wikipedia.org/wiki/Esther_Swirk_Brown"/>
         <updated>2025-11-23T05:42:00.087Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Thurgood_Marshall" title="Thurgood Marshall">Thurgood Marshall</a>, amid a Kansas desegregation case, said "god damn it give <b><a href="/wiki/Esther_Swirk_Brown" title="Esther Swirk Brown">that white lady</a></b> the money"?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Thurgood_Marshall" title="Thurgood Marshall">Thurgood Marshall</a>, amid a Kansas desegregation case, said "god damn it, give <b><a href="/wiki/Esther_Swirk_Brown" title="Esther Swirk Brown">that white lady</a></b> the money"?]]></content>
     </entry>
 </feed>
