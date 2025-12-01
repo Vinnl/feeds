@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-01T05:49:20.301Z</updated>
+    <updated>2025-12-01T17:48:59.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,20 +52,20 @@
         <id>https://en.wikipedia.org/wiki/Jack_Teele</id>
         <link href="https://en.wikipedia.org/wiki/Jack_Teele"/>
         <updated>2025-12-01T05:49:16.670Z</updated>
-        <content type="html"><![CDATA[... that NFL executive <b><a href="/wiki/Jack_Teele" title="Jack Teele">Jack Teele</a></b> remained employed by the <a href="/wiki/Los_Angeles_Rams" title="Los Angeles Rams">Los Angeles Rams</a> under three different owners, six head coaches, and several different quarterbacks?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jack_Teele" title="Jack Teele">Jack Teele</a></b> remained employed by the <a href="/wiki/Los_Angeles_Rams" title="Los Angeles Rams">Los Angeles Rams</a> under three different owners, six head coaches, and "umpteen different quarterbacks"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Foresters Music Hall]]></title>
         <id>https://en.wikipedia.org/wiki/Foresters_Music_Hall</id>
         <link href="https://en.wikipedia.org/wiki/Foresters_Music_Hall"/>
         <updated>2025-12-01T05:49:16.672Z</updated>
-        <content type="html"><![CDATA[... that in his early career <a href="/wiki/Charlie_Chaplin" title="Charlie Chaplin">Charlie Chaplin</a> was booed and heckled with thrown oranges and coins until he left the stage of <b><a href="/wiki/Foresters_Music_Hall" title="Foresters Music Hall">Foresters Music Hall</a></b>?]]></content>
+        <content type="html"><![CDATA[... that in his early career <a href="/wiki/Charlie_Chaplin" title="Charlie Chaplin">Charlie Chaplin</a> was booed, heckled, and pelted with oranges and coins until he left the stage of <b><a href="/wiki/Foresters_Music_Hall" title="Foresters Music Hall">Foresters Music Hall</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Haru Urara]]></title>
         <id>https://en.wikipedia.org/wiki/Haru_Urara_(Umamusume:_Pretty_Derby)</id>
         <link href="https://en.wikipedia.org/wiki/Haru_Urara_(Umamusume:_Pretty_Derby)"/>
         <updated>2025-12-01T05:49:16.674Z</updated>
-        <content type="html"><![CDATA[... that <i><a href="/wiki/Umamusume:_Pretty_Derby" title="Umamusume: Pretty Derby">Umamusume</a></i> character <b><a href="/wiki/Haru_Urara_(Umamusume:_Pretty_Derby)" title="Haru Urara (Umamusume: Pretty Derby)">Haru Urara</a></b> became so popular a website donating grass to feed <a href="/wiki/Haru_Urara" title="Haru Urara">her namesake racehorse</a> crashed?]]></content>
+        <content type="html"><![CDATA[... that <i><a href="/wiki/Umamusume:_Pretty_Derby" title="Umamusume: Pretty Derby">Umamusume</a></i> character <b><a href="/wiki/Haru_Urara_(Umamusume:_Pretty_Derby)" title="Haru Urara (Umamusume: Pretty Derby)">Haru Urara</a></b> became so popular that a website donating grass to feed <a href="/wiki/Haru_Urara" title="Haru Urara">her namesake racehorse</a> crashed?]]></content>
     </entry>
 </feed>
