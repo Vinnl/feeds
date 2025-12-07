@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-07T05:41:16.337Z</updated>
+    <updated>2025-12-07T17:39:28.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Daniela_Melchior</id>
         <link href="https://en.wikipedia.org/wiki/Daniela_Melchior"/>
         <updated>2025-12-07T05:41:13.113Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Daniela_Melchior" title="Daniela Melchior">Daniela Melchior</a></b> <i>(pictured)</i> once did a chemistry screen test with fancy rats?]]></content>
+        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Daniela_Melchior" title="Daniela Melchior">Daniela Melchior</a></b> <i>(pictured)</i> once did a chemistry screen test with fancy rats?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ring of Nestor]]></title>
