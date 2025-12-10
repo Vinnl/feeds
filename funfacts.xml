@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-10T05:45:53.325Z</updated>
+    <updated>2025-12-10T17:47:51.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Caro_mio_ben</id>
         <link href="https://en.wikipedia.org/wiki/Caro_mio_ben"/>
         <updated>2025-12-10T05:45:50.086Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Aria" title="Aria">aria</a> "<b><a href="/wiki/Caro_mio_ben" title="Caro mio ben">Caro mio ben</a></b>" has been attributed to three Giordanis, one of whom was unrelated to the other two?]]></content>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Aria" title="Aria">arietta</a> "<b><a href="/wiki/Caro_mio_ben" title="Caro mio ben">Caro mio ben</a></b>" has been attributed to three Giordanis, one of whom was unrelated to the other two?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Achmad Husein]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Bob_Comfort</id>
         <link href="https://en.wikipedia.org/wiki/Bob_Comfort"/>
         <updated>2025-12-10T05:45:50.097Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bob_Comfort" title="Bob Comfort">Bob Comfort</a></b>, an atheist, made up a religion to avoid sergeant orders to pick one while serving in the United States military?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Bob_Comfort" title="Bob Comfort">Bob Comfort</a></b>, an atheist, made up a religion when ordered to pick one while serving in the United States military?]]></content>
     </entry>
 </feed>
