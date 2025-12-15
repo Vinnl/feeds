@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-15T05:48:54.891Z</updated>
+    <updated>2025-12-15T17:48:17.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/G._Michael_Brown</id>
         <link href="https://en.wikipedia.org/wiki/G._Michael_Brown"/>
         <updated>2025-12-15T05:48:51.619Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/G._Michael_Brown" title="G. Michael Brown">G. Michael Brown</a></b> said that his 1980 conviction of four mobsters showed that the Mafia wasn't merely "a figment of Hollywood's imagination."?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/G._Michael_Brown" title="G. Michael Brown">G. Michael Brown</a></b> said that his 1980 conviction of four mobsters showed that the Mafia wasn't merely "a figment of Hollywood's imagination"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a Super Bowl-winning defensive tackle]]></title>
