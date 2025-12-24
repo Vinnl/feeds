@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-24T05:48:19.867Z</updated>
+    <updated>2025-12-24T17:42:11.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://en.wikipedia.org/wiki/Jakobus_Onnen</id>
         <link href="https://en.wikipedia.org/wiki/Jakobus_Onnen"/>
         <updated>2025-12-24T05:48:16.654Z</updated>
-        <content type="html"><![CDATA[... that historian Jürgen Matthäus used artificial intelligence to help identify <b><a href="/wiki/Jakobus_Onnen" title="Jakobus Onnen">Jakobus Onnen</a></b> as the gunman in <i><a href="/wiki/The_Last_Jew_in_Vinnitsa" title="The Last Jew in Vinnitsa">The Last Jew in Vinnitsa</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that historian <a href="/wiki/J%C3%BCrgen_Matth%C3%A4us" title="Jürgen Matthäus">Jürgen Matthäus</a> used artificial intelligence to help identify <b><a href="/wiki/Jakobus_Onnen" title="Jakobus Onnen">Jakobus Onnen</a></b> as the gunman in <i><a href="/wiki/The_Last_Jew_in_Vinnitsa" title="The Last Jew in Vinnitsa">The Last Jew in Vinnitsa</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[morally condemn]]></title>
@@ -52,14 +52,14 @@
         <id>https://en.wikipedia.org/wiki/Fireworks_in_New_Zealand</id>
         <link href="https://en.wikipedia.org/wiki/Fireworks_in_New_Zealand"/>
         <updated>2025-12-24T05:48:16.657Z</updated>
-        <content type="html"><![CDATA[... that a petition to restrict the sale of <b><a href="/wiki/Fireworks_in_New_Zealand" title="Fireworks in New Zealand">fireworks in New Zealand</a></b> included 80,000 paw prints?]]></content>
+        <content type="html"><![CDATA[... that a petition to restrict the sale of <b><a href="/wiki/Fireworks_in_New_Zealand" title="Fireworks in New Zealand">fireworks in New Zealand</a></b> included 80,000 pawprints?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adonis Carrasco]]></title>
         <id>https://en.wikipedia.org/wiki/Adonis_Carrasco</id>
         <link href="https://en.wikipedia.org/wiki/Adonis_Carrasco"/>
         <updated>2025-12-24T05:48:16.660Z</updated>
-        <content type="html"><![CDATA[... that FIFA-listed referee <b><a href="/wiki/Adonis_Carrasco" title="Adonis Carrasco">Adonis Carrasco</a></b> signed up for basic training without having ever played football and without knowing any rules?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/FIFA" title="FIFA">FIFA</a>-listed referee <b><a href="/wiki/Adonis_Carrasco" title="Adonis Carrasco">Adonis Carrasco</a></b> signed up for basic training without having ever played football and without knowing any rules?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tipat Halav]]></title>
