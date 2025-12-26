@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-26T05:46:22.408Z</updated>
+    <updated>2025-12-26T17:41:34.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that the manga <i><b><a href="/wiki/Snow_Angel_(manga)" title="Snow Angel (manga)">Snow Angel</a></b></i> ran a campaign supporting <a href="/wiki/Young_carer" title="Young carer">young carers</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mary "May" McGee]]></title>
-        <id>https://en.wikipedia.org/wiki/Mary_%22May%22_McGee</id>
-        <link href="https://en.wikipedia.org/wiki/Mary_%22May%22_McGee"/>
-        <updated>2025-12-26T05:46:19.197Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mary_%22May%22_McGee" title="Mary &quot;May&quot; McGee">Mary "May" McGee</a></b><span class="nowrap">'s</span> successful legal action against the Irish government for restricting her access to contraceptives led to an eventual liberalization of the country's laws on birth control?]]></content>
+        <title type="html"><![CDATA[May McGee]]></title>
+        <id>https://en.wikipedia.org/wiki/May_McGee</id>
+        <link href="https://en.wikipedia.org/wiki/May_McGee"/>
+        <updated>2025-12-26T17:41:30.685Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/May_McGee" title="May McGee">May McGee</a></b><span class="nowrap">'s</span> successful legal action against the Irish government for restricting her access to contraceptives led to an eventual liberalization of the country's laws on birth control?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Green Bay Packers' second stadium]]></title>
