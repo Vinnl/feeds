@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-12-27T05:45:15.118Z</updated>
+    <updated>2025-12-27T17:41:35.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Defense_of_Azakh</id>
         <link href="https://en.wikipedia.org/wiki/Defense_of_Azakh"/>
         <updated>2025-12-27T05:45:11.546Z</updated>
-        <content type="html"><![CDATA[... that one of the most significant episodes of Assyrian resistance during <a href="/wiki/Sayfo" title="Sayfo">Sayfo</a> was the <b><a href="/wiki/Defense_of_Azakh" title="Defense of Azakh">Defense of Azakh</a></b>?]]></content>
+        <content type="html"><![CDATA[... that one of the most significant episodes of Assyrian resistance during the <a href="/wiki/Sayfo" title="Sayfo">Sayfo</a> was the <b><a href="/wiki/Defense_of_Azakh" title="Defense of Azakh">Defense of Azakh</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gerrit van der Waals]]></title>
