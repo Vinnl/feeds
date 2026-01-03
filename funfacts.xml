@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-03T05:45:59.300Z</updated>
+    <updated>2026-01-03T17:41:41.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Andreas_Papandreou</id>
         <link href="https://en.wikipedia.org/wiki/Andreas_Papandreou"/>
         <updated>2026-01-03T05:45:55.782Z</updated>
-        <content type="html"><![CDATA[... that, under the governments of <b><a href="/wiki/Andreas_Papandreou" title="Andreas Papandreou">Andreas Papandreou</a></b> <i>(pictured)</i>, any Greek citizen raising political criticisms against him was considered a national security threat?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Andreas_Papandreou" title="Andreas Papandreou">Andreas Papandreou</a></b> <i>(pictured)</i>, populist Greek prime minister in the 1980s, divorced <a href="/wiki/Margaret_Chant-Papandreou" title="Margaret Chant-Papandreou">his second wife</a> to marry an air stewardess less than half his age?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweet Sulphur Springs]]></title>
