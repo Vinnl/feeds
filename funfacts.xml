@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-07T05:48:58.586Z</updated>
+    <updated>2026-01-07T17:50:38.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Unterrified_Democrat</id>
         <link href="https://en.wikipedia.org/wiki/Unterrified_Democrat"/>
         <updated>2026-01-07T05:48:55.082Z</updated>
-        <content type="html"><![CDATA[... that the <i><b><a href="/wiki/Unterrified_Democrat" title="Unterrified Democrat">Unterrified Democrat</a></b></i> was owned by a Republican?]]></content>
+        <content type="html"><![CDATA[... that the <i><b><a href="/wiki/Unterrified_Democrat" title="Unterrified Democrat">Unterrified Democrat</a></b></i> was owned by a <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ann Dally]]></title>
