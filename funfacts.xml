@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-11T05:48:19.122Z</updated>
+    <updated>2026-01-11T17:42:29.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Joscelin_I,_Count_of_Edessa" title="Joscelin I, Count of Edessa">Joscelin&nbsp;I of Edessa</a></b> won his final battle while carried in a litter and died of his wounds shortly thereafter?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwei Gefühle]]></title>
+        <title type="html"><![CDATA[... zwei Gefühle ...]]></title>
         <id>https://en.wikipedia.org/wiki/Zwei_Gef%C3%BChle</id>
         <link href="https://en.wikipedia.org/wiki/Zwei_Gef%C3%BChle"/>
         <updated>2026-01-11T05:48:15.665Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Helmut_Lachenmann" title="Helmut Lachenmann">Helmut Lachenmann</a>'s composition <i><b><a href="/wiki/Zwei_Gef%C3%BChle" title="Zwei Gefühle">Zwei Gefühle</a></b></i> was based on a text about fear and desire by Leonardo da Vinci?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Helmut_Lachenmann" title="Helmut Lachenmann">Helmut Lachenmann</a>'s composition <i><b><a href="/wiki/Zwei_Gef%C3%BChle" title="Zwei Gefühle">...&nbsp;zwei Gefühle&nbsp;...</a></b></i> was based on a text about fear and desire by Leonardo da Vinci?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Framoi Bérété]]></title>
