@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-13T05:49:15.006Z</updated>
+    <updated>2026-01-13T17:51:53.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/HMS_Chesterfield_(1745)"/>
         <updated>2026-01-13T05:49:11.584Z</updated>
         <content type="html"><![CDATA[... that the officer who led a mutiny aboard <b><a href="/wiki/HMS_Chesterfield_(1745)" title="HMS Chesterfield (1745)">HMS&nbsp;<i>Chesterfield</i></a></b> in 1748 later admitted that he had been "lunatick" with alcohol the entire time?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a girl from the General Hospital]]></title>
-        <id>https://en.wikipedia.org/wiki/Scarlett_Spears</id>
-        <link href="https://en.wikipedia.org/wiki/Scarlett_Spears"/>
-        <updated>2026-01-13T05:49:11.587Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Scarlett_Spears" title="Scarlett Spears">a girl from the <i>General Hospital</i></a></b> became <a href="/wiki/Dora_(Dora_the_Explorer)" title="Dora (Dora the Explorer)">an explorer</a> and <a href="/wiki/Glinda" title="Glinda">a witch</a> in 2025?]]></content>
     </entry>
 </feed>
