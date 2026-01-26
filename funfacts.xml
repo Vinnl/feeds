@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-01-26T05:55:14.380Z</updated>
+    <updated>2026-01-26T17:53:18.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/Instinct_(magazine)"/>
         <updated>2026-01-26T05:55:11.006Z</updated>
         <content type="html"><![CDATA[... that <i><b><a href="/wiki/Instinct_(magazine)" title="Instinct (magazine)">Instinct</a></b></i> described itself as a "clever mix of <i>Cosmo</i> and <i>Maxim</i> for gay men"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Takanashi Kiara]]></title>
-        <id>https://en.wikipedia.org/wiki/Takanashi_Kiara</id>
-        <link href="https://en.wikipedia.org/wiki/Takanashi_Kiara"/>
-        <updated>2026-01-26T05:55:11.009Z</updated>
-        <content type="html"><![CDATA[... that it rained pineapples during a <b><a href="/wiki/Takanashi_Kiara" title="Takanashi Kiara">Takanashi Kiara</a></b> performance?]]></content>
     </entry>
 </feed>
