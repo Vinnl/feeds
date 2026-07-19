@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-19T07:39:38.972Z</updated>
+    <updated>2026-07-19T18:28:09.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ahmed_Al-Kaf" title="Ahmed Al-Kaf">Ahmed Al-Kaf</a></b> is the only Arab referee to officiate three <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/AFC_Champions_League_Elite" title="AFC Champions League Elite">AFC Champions League</a> finals?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pakistani football manufacturers]]></title>
-        <id>https://en.wikipedia.org/wiki/Football_manufacturing_in_Pakistan</id>
-        <link href="https://en.wikipedia.org/wiki/Football_manufacturing_in_Pakistan"/>
-        <updated>2026-07-19T07:39:31.998Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Football_manufacturing_in_Pakistan" title="Football manufacturing in Pakistan">Pakistani football manufacturers</a></b> make around 70 percent of the world's footballs?]]></content>
+        <title type="html"><![CDATA[manager of Toluca FC]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_Toluca_FC_managers</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_Toluca_FC_managers"/>
+        <updated>2026-07-19T18:28:07.119Z</updated>
+        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Alberto_Jorge" title="Alberto Jorge">one</a> <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/List_of_Toluca_FC_managers" title="List of Toluca FC managers">manager of Toluca FC</a></b> won <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Liga_MX" title="Liga MX">a league title</a> in just four games?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atanasie Protopopesco]]></title>
