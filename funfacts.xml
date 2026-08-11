@@ -2,70 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-11T06:28:22.156Z</updated>
+    <updated>2026-08-11T18:25:33.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[the oldest surviving codex of the Odyssey]]></title>
-        <id>https://en.wikipedia.org/wiki/Manchester_Odyssey</id>
-        <link href="https://en.wikipedia.org/wiki/Manchester_Odyssey"/>
-        <updated>2026-08-11T06:28:19.022Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Manchester_Odyssey" title="Manchester Odyssey">the oldest surviving codex of the <i>Odyssey</i></a></b> <i>(pictured)</i> dating to the 4th<span typeof="mw:Entity">&nbsp;</span>century CE went on tour with the cast and crew of Christopher Nolan's film adaptation as part of its marketing?]]></content>
+        <title type="html"><![CDATA[Enid Sinclair]]></title>
+        <id>https://en.wikipedia.org/wiki/Enid_Sinclair</id>
+        <link href="https://en.wikipedia.org/wiki/Enid_Sinclair"/>
+        <updated>2026-08-11T18:25:28.855Z</updated>
+        <content type="html"><![CDATA[... that Emma Myers attended a "werewolf boot camp" to play <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Enid_Sinclair" title="Enid Sinclair">Enid Sinclair</a></b> <i>(cosplayer pictured)</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jacob Hersant]]></title>
-        <id>https://en.wikipedia.org/wiki/Jacob_Hersant</id>
-        <link href="https://en.wikipedia.org/wiki/Jacob_Hersant"/>
-        <updated>2026-08-11T06:28:19.024Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Jacob_Hersant" title="Jacob Hersant">Jacob Hersant</a></b> was the first person charged and convicted of performing a Nazi salute in public in Victoria, Australia?]]></content>
+        <title type="html"><![CDATA[a 151-year-old newspaper]]></title>
+        <id>https://en.wikipedia.org/wiki/Anglican_Journal</id>
+        <link href="https://en.wikipedia.org/wiki/Anglican_Journal"/>
+        <updated>2026-08-11T18:25:28.856Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Anglican_Journal" title="Anglican Journal">a 151-year-old newspaper</a></b> lost its journalistic independence in 2026 and became a corporate communications organ?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a utility tunnel in New York City]]></title>
-        <id>https://en.wikipedia.org/wiki/Ravenswood_Tunnel</id>
-        <link href="https://en.wikipedia.org/wiki/Ravenswood_Tunnel"/>
-        <updated>2026-08-11T06:28:19.028Z</updated>
-        <content type="html"><![CDATA[... that workers digging <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ravenswood_Tunnel" title="Ravenswood Tunnel">a utility tunnel in New York City</a></b> accidentally created geysers?]]></content>
+        <title type="html"><![CDATA[a New York state TV station]]></title>
+        <id>https://en.wikipedia.org/wiki/WKOF</id>
+        <link href="https://en.wikipedia.org/wiki/WKOF"/>
+        <updated>2026-08-11T18:25:28.857Z</updated>
+        <content type="html"><![CDATA[... that the call sign of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/WKOF" title="WKOF">a New York state TV station</a></b> honors a professional wrestling executive?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[alleged Soviet spy]]></title>
-        <id>https://en.wikipedia.org/wiki/Russell_Alton_McNutt</id>
-        <link href="https://en.wikipedia.org/wiki/Russell_Alton_McNutt"/>
-        <updated>2026-08-11T06:28:19.043Z</updated>
-        <content type="html"><![CDATA[... that the development of the Washington, D.C., suburb of <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reston,_Virginia" title="Reston, Virginia">Reston</a> was led in part by an <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Russell_Alton_McNutt" title="Russell Alton McNutt">alleged Soviet spy</a></b>?]]></content>
+        <title type="html"><![CDATA[Khirbat an-Nawafla]]></title>
+        <id>https://en.wikipedia.org/wiki/Khirbat_an-Nawafla</id>
+        <link href="https://en.wikipedia.org/wiki/Khirbat_an-Nawafla"/>
+        <updated>2026-08-11T18:25:28.859Z</updated>
+        <content type="html"><![CDATA[... that an early 1st-century CE <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Nabataean_Kingdom" title="Nabataean Kingdom">Nabataean</a> olive press at <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Khirbat_an-Nawafla" title="Khirbat an-Nawafla">Khirbat an-Nawafla</a></b> challenges <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Strabo" title="Strabo">Strabo</a>'s claim that Nabataeans grew no olives?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[broke out of their sandbox and hacked into HuggingFace]]></title>
-        <id>https://en.wikipedia.org/wiki/2026_OpenAI_agent_cyberattacks</id>
-        <link href="https://en.wikipedia.org/wiki/2026_OpenAI_agent_cyberattacks"/>
-        <updated>2026-08-11T06:28:19.047Z</updated>
-        <content type="html"><![CDATA[... that rather than finish a cybersecurity test, OpenAI's AI models <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/2026_OpenAI_agent_cyberattacks" title="2026 OpenAI agent cyberattacks">broke out of their sandbox and hacked into HuggingFace</a></b> in an attempt to steal the answers?]]></content>
+        <title type="html"><![CDATA[Creamoata]]></title>
+        <id>https://en.wikipedia.org/wiki/Creamoata</id>
+        <link href="https://en.wikipedia.org/wiki/Creamoata"/>
+        <updated>2026-08-11T18:25:28.860Z</updated>
+        <content type="html"><![CDATA[... that a <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Creamoata" title="Creamoata">Creamoata</a></b> promotion involved dropping silver spoons with parachutes over towns from an aeroplane?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elden Ring Shadow of the Erdtree]]></title>
-        <id>https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree</id>
-        <link href="https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree"/>
-        <updated>2026-08-11T06:28:19.048Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree" title="Elden Ring Shadow of the Erdtree">Elden Ring Shadow of the Erdtree</a></b></i> was the first <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Downloadable_content" title="Downloadable content">downloadable content</a> nominated for <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Game_Award_for_Game_of_the_Year" title="The Game Award for Game of the Year">The Game Award for Game of the Year</a>?]]></content>
+        <title type="html"><![CDATA[Shō En]]></title>
+        <id>https://en.wikipedia.org/wiki/Sh%C5%8D_En</id>
+        <link href="https://en.wikipedia.org/wiki/Sh%C5%8D_En"/>
+        <updated>2026-08-11T18:25:28.861Z</updated>
+        <content type="html"><![CDATA[... that future king <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Shō_En" title="Shō En">Shō En</a></b> is said to have fled his home after being accused of stealing water?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sailors' Snug Harbor]]></title>
-        <id>https://en.wikipedia.org/wiki/Snug_Harbor</id>
-        <link href="https://en.wikipedia.org/wiki/Snug_Harbor"/>
-        <updated>2026-08-11T06:28:19.049Z</updated>
-        <content type="html"><![CDATA[... that land in Manhattan intended for the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Snug_Harbor" title="Snug Harbor">Sailors' Snug Harbor</a></b> retirement home was instead used by apartment buildings and a university campus?]]></content>
+        <title type="html"><![CDATA[Obadiah Sypher]]></title>
+        <id>https://en.wikipedia.org/wiki/Obadiah_Sypher</id>
+        <link href="https://en.wikipedia.org/wiki/Obadiah_Sypher"/>
+        <updated>2026-08-11T18:25:28.862Z</updated>
+        <content type="html"><![CDATA[... that antiques dealer <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Obadiah_Sypher" title="Obadiah Sypher">Obadiah Sypher</a></b> used an ax to destroy forgeries on the street?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lunar GNSS Receiver Experiment]]></title>
-        <id>https://en.wikipedia.org/wiki/Lunar_GNSS_Receiver_Experiment</id>
-        <link href="https://en.wikipedia.org/wiki/Lunar_GNSS_Receiver_Experiment"/>
-        <updated>2026-08-11T06:28:19.051Z</updated>
-        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Lunar_GNSS_Receiver_Experiment" title="Lunar GNSS Receiver Experiment">Lunar GNSS Receiver Experiment</a></b> demonstrated that GPS and Galileo signals can be received and used for navigation all the way to the Moon's surface?]]></content>
+        <title type="html"><![CDATA[statue of George Peabody]]></title>
+        <id>https://en.wikipedia.org/wiki/Statue_of_George_Peabody</id>
+        <link href="https://en.wikipedia.org/wiki/Statue_of_George_Peabody"/>
+        <updated>2026-08-11T18:25:28.864Z</updated>
+        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Statue_of_George_Peabody" title="Statue of George Peabody">statue of George Peabody</a></b> in the City of London was mostly paid for by working-class citizens whom Peabody assisted with affordable housing?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a shipwreck]]></title>
-        <id>https://en.wikipedia.org/wiki/SS_Wallachia</id>
-        <link href="https://en.wikipedia.org/wiki/SS_Wallachia"/>
-        <updated>2026-08-11T06:28:19.052Z</updated>
-        <content type="html"><![CDATA[... that in 2021, live yeast was retrieved from beer lost in <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/SS_Wallachia" title="SS Wallachia">a shipwreck</a></b> 126 years before?]]></content>
+        <title type="html"><![CDATA[Reg Chard]]></title>
+        <id>https://en.wikipedia.org/wiki/Reg_Chard</id>
+        <link href="https://en.wikipedia.org/wiki/Reg_Chard"/>
+        <updated>2026-08-11T18:25:28.869Z</updated>
+        <content type="html"><![CDATA[... that Australian World War<span typeof="mw:Entity">&nbsp;</span>II veteran <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Reg_Chard" title="Reg Chard">Reg Chard</a></b> recalled using the pronunciation of "<a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Woolloomooloo" title="Woolloomooloo">Woolloomooloo</a>" as a test to distinguish Japanese soldiers from Australians?]]></content>
     </entry>
 </feed>
