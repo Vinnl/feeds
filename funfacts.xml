@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-17T06:00:24.587Z</updated>
+    <updated>2026-08-17T17:56:15.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://en.wikipedia.org/wiki/Rimbi_Temple"/>
         <updated>2026-08-17T06:00:21.542Z</updated>
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Rimbi_Temple" title="Rimbi Temple">Rimbi Temple</a></b> <i>(pictured)</i> appears to be cleaved in two?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gatot Abdullah Mansyur]]></title>
-        <id>https://en.wikipedia.org/wiki/Gatot_Abdullah_Mansyur</id>
-        <link href="https://en.wikipedia.org/wiki/Gatot_Abdullah_Mansyur"/>
-        <updated>2026-08-17T06:00:21.543Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Gatot_Abdullah_Mansyur" title="Gatot Abdullah Mansyur">Gatot Abdullah Mansyur</a></b>, the Indonesian ambassador to Saudi Arabia, was pressured to resign after failing to prevent the execution of a maid?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Riau War]]></title>
@@ -31,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Hartini</id>
         <link href="https://en.wikipedia.org/wiki/Hartini"/>
         <updated>2026-08-17T06:00:21.546Z</updated>
-        <content type="html"><![CDATA[... that President Sukarno sought permission to marry <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Hartini" title="Hartini">Hartini</a></b> two days after his first wife gave birth?]]></content>
+        <content type="html"><![CDATA[... that President Sukarno sought permission to marry <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Hartini" title="Hartini">Hartini</a></b> two days after his wife Fatmawati gave birth?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[one of the most iconic paintings of Indonesian modern art]]></title>
