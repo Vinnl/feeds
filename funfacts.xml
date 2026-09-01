@@ -2,106 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-08-31T22:00:07.991Z</updated>
+    <updated>2026-09-01T10:21:15.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Henryk Sztompka]]></title>
-        <id>https://en.wikipedia.org/wiki/Henryk_Sztompka</id>
-        <link href="https://en.wikipedia.org/wiki/Henryk_Sztompka"/>
-        <updated>2026-08-31T22:00:04.896Z</updated>
-        <content type="html"><![CDATA[... that a brewery owner who sheltered pianist <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Henryk_Sztompka" title="Henryk Sztompka">Henryk Sztompka</a></b> <i>(pictured)</i> and his family after the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Warsaw_Uprising" title="Warsaw Uprising">Warsaw Uprising</a> in 1944 brought in a piano so that he could continue practicing?]]></content>
+        <title type="html"><![CDATA[a Chinese coin]]></title>
+        <id>https://en.wikipedia.org/wiki/Junk_dollar</id>
+        <link href="https://en.wikipedia.org/wiki/Junk_dollar"/>
+        <updated>2026-09-01T10:21:11.627Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Junk_dollar" title="Junk dollar">a Chinese coin</a></b> <i>(example pictured)</i> was modified to avoid similarities to the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Rising_Sun_Flag" title="Rising Sun Flag">Japanese rising sun</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dismissal of Mykhailo Fedorov]]></title>
-        <id>https://en.wikipedia.org/wiki/Protests_against_the_dismissal_of_Mykhailo_Fedorov</id>
-        <link href="https://en.wikipedia.org/wiki/Protests_against_the_dismissal_of_Mykhailo_Fedorov"/>
-        <updated>2026-08-31T22:00:04.897Z</updated>
-        <content type="html"><![CDATA[... that the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Protests_against_the_dismissal_of_Mykhailo_Fedorov" title="Protests against the dismissal of Mykhailo Fedorov">dismissal of Mykhailo Fedorov</a></b>, the Ukrainian minister of defence, sparked a series of protests demanding the removal of the commander-in-chief instead?]]></content>
+        <title type="html"><![CDATA[Kotaro Tatsumi]]></title>
+        <id>https://en.wikipedia.org/wiki/Kotaro_Tatsumi</id>
+        <link href="https://en.wikipedia.org/wiki/Kotaro_Tatsumi"/>
+        <updated>2026-09-01T10:21:11.631Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Kotaro_Tatsumi" title="Kotaro Tatsumi">Kotaro Tatsumi</a></b> once volunteered to support leprosy patients in Bangladesh?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charlotte Bryant]]></title>
-        <id>https://en.wikipedia.org/wiki/Charlotte_Bryant</id>
-        <link href="https://en.wikipedia.org/wiki/Charlotte_Bryant"/>
-        <updated>2026-08-31T22:00:04.899Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Charlotte_Bryant" title="Charlotte Bryant">Charlotte Bryant</a></b> begged <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Edward_VIII" title="Edward VIII">King Edward<span typeof="mw:Entity">&nbsp;</span>VIII</a>, "don't let them kill me on Wednesday"?]]></content>
+        <title type="html"><![CDATA[Davis Creek Regional Park]]></title>
+        <id>https://en.wikipedia.org/wiki/Davis_Creek_Regional_Park</id>
+        <link href="https://en.wikipedia.org/wiki/Davis_Creek_Regional_Park"/>
+        <updated>2026-09-01T10:21:11.633Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Davis_Creek_Regional_Park" title="Davis Creek Regional Park">Davis Creek Regional Park</a></b> was part of a ranch known for its <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Thoroughbred" title="Thoroughbred">Thoroughbred</a> horses?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auf dem Strom]]></title>
-        <id>https://en.wikipedia.org/wiki/Auf_dem_Strom</id>
-        <link href="https://en.wikipedia.org/wiki/Auf_dem_Strom"/>
-        <updated>2026-08-31T22:00:04.901Z</updated>
-        <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Franz_Schubert" title="Franz Schubert">Franz Schubert</a>'s lied "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Auf_dem_Strom" title="Auf dem Strom">Auf dem Strom</a></b>" was composed for the only public concert in which he presented his own works?]]></content>
+        <title type="html"><![CDATA[Kim Jong-suk]]></title>
+        <id>https://en.wikipedia.org/wiki/Kim_Jong-suk_(politician)</id>
+        <link href="https://en.wikipedia.org/wiki/Kim_Jong-suk_(politician)"/>
+        <updated>2026-09-01T10:21:11.634Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Kim_Jong-suk_(politician)" title="Kim Jong-suk (politician)">Kim Jong-suk</a></b> is the only person in North Korea with her name, as she is a cousin of the founder of North Korea?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ha Ming]]></title>
-        <id>https://en.wikipedia.org/wiki/Ha_Ming</id>
-        <link href="https://en.wikipedia.org/wiki/Ha_Ming"/>
-        <updated>2026-08-31T22:00:04.909Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ha_Ming" title="Ha Ming">Ha Ming</a></b> was one of only two men who remained with the captive <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Emperor_Yingzong_of_Ming" title="Emperor Yingzong of Ming">Emperor Yingzong of Ming</a> throughout his captivity by the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Oirats" title="Oirats">Oirats</a>?]]></content>
+        <title type="html"><![CDATA[The Young Lady with the Shiner]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner</id>
+        <link href="https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner"/>
+        <updated>2026-09-01T10:21:11.635Z</updated>
+        <content type="html"><![CDATA[... that a two-year-old boy with black eyes was used as a model in <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Norman_Rockwell" title="Norman Rockwell">Norman Rockwell</a>'s painting <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Young_Lady_with_the_Shiner" title="The Young Lady with the Shiner">The Young Lady with the Shiner</a></b></i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cardinality]]></title>
-        <id>https://en.wikipedia.org/wiki/Cardinality</id>
-        <link href="https://en.wikipedia.org/wiki/Cardinality"/>
-        <updated>2026-08-31T22:00:04.909Z</updated>
-        <content type="html"><![CDATA[... that, in certain theories of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Cardinality" title="Cardinality">cardinality</a></b>, not only are there infinitely many sizes of infinity, <span class="nowrap"><span typeof="mw:Entity">⁠</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt11" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\aleph_0,\\aleph_1,...,\\aleph_\\omega,...&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" class="mathjax_ignore" alttext="{\displaystyle \aleph _{0},\aleph _{1},...,\aleph _{\omega },...}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msub>
-          <mi mathvariant="normal">ℵ<!-- ℵ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mn>0</mn>
-          </mrow>
-        </msub>
-        <mo>,</mo>
-        <msub>
-          <mi mathvariant="normal">ℵ<!-- ℵ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mn>1</mn>
-          </mrow>
-        </msub>
-        <mo>,</mo>
-        <mo>.</mo>
-        <mo>.</mo>
-        <mo>.</mo>
-        <mo>,</mo>
-        <msub>
-          <mi mathvariant="normal">ℵ<!-- ℵ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>ω<!-- ω --></mi>
-          </mrow>
-        </msub>
-        <mo>,</mo>
-        <mo>.</mo>
-        <mo>.</mo>
-        <mo>.</mo>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \aleph _{0},\aleph _{1},...,\aleph _{\omega },...}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/abaebb41b04bdc5625915e704d13f8b46b4c90a0" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:17.576ex; height:2.509ex;" alt="{\displaystyle \aleph _{0},\aleph _{1},...,\aleph _{\omega },...}"></span><span typeof="mw:Entity">⁠</span></span>, but there is <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Absolute_infinite" title="Absolute infinite">a largest one</a>?]]></content>
+        <title type="html"><![CDATA[Titouan Bernicot]]></title>
+        <id>https://en.wikipedia.org/wiki/Titouan_Bernicot</id>
+        <link href="https://en.wikipedia.org/wiki/Titouan_Bernicot"/>
+        <updated>2026-09-01T10:21:11.637Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Titouan_Bernicot" title="Titouan Bernicot">Titouan Bernicot</a></b> founded an organization that grows super corals?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[León Federico Aneiros]]></title>
-        <id>https://en.wikipedia.org/wiki/Le%C3%B3n_Federico_Aneiros</id>
-        <link href="https://en.wikipedia.org/wiki/Le%C3%B3n_Federico_Aneiros"/>
-        <updated>2026-08-31T22:00:04.910Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/León_Federico_Aneiros" title="León Federico Aneiros">León Federico Aneiros</a></b> served as a legislator, a <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Rector_(academia)#Compound_titles" title="Rector (academia)">vice-rector</a>, and the archbishop of Buenos Aires?]]></content>
+        <title type="html"><![CDATA[I Can't Say No to the Lonely Girl]]></title>
+        <id>https://en.wikipedia.org/wiki/I_Can't_Say_No_to_the_Lonely_Girl</id>
+        <link href="https://en.wikipedia.org/wiki/I_Can't_Say_No_to_the_Lonely_Girl"/>
+        <updated>2026-09-01T10:21:11.639Z</updated>
+        <content type="html"><![CDATA[... that the creator of the manga series <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/I_Can't_Say_No_to_the_Lonely_Girl" title="I Can't Say No to the Lonely Girl">I Can't Say No to the Lonely Girl</a></b></i> used fashion magazines for students as a reference for her character designs?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Colostle]]></title>
-        <id>https://en.wikipedia.org/wiki/Colostle</id>
-        <link href="https://en.wikipedia.org/wiki/Colostle"/>
-        <updated>2026-08-31T22:00:04.911Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Colostle" title="Colostle">Colostle</a></b></i> won an award for "Best Rules" despite reviewers noting that it had few rules?]]></content>
+        <title type="html"><![CDATA[Joseph H. Rothenberg]]></title>
+        <id>https://en.wikipedia.org/wiki/Joseph_H._Rothenberg</id>
+        <link href="https://en.wikipedia.org/wiki/Joseph_H._Rothenberg"/>
+        <updated>2026-09-01T10:21:11.640Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Joseph_H._Rothenberg" title="Joseph H. Rothenberg">Joseph H. Rothenberg</a></b> co-led the recovery of the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a> after its primary mirror was polished too flat by 1/40th the thickness of a human hair?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[maple leaf cream cookies]]></title>
-        <id>https://en.wikipedia.org/wiki/Maple_leaf_cream_cookie</id>
-        <link href="https://en.wikipedia.org/wiki/Maple_leaf_cream_cookie"/>
-        <updated>2026-08-31T22:00:04.913Z</updated>
-        <content type="html"><![CDATA[... that astronauts orbiting the Moon celebrated the moment at which they lost contact with Earth by eating <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Maple_leaf_cream_cookie" title="Maple leaf cream cookie">maple leaf cream cookies</a></b>?]]></content>
+        <title type="html"><![CDATA[Paula Maxa]]></title>
+        <id>https://en.wikipedia.org/wiki/Paula_Maxa</id>
+        <link href="https://en.wikipedia.org/wiki/Paula_Maxa"/>
+        <updated>2026-09-01T10:21:11.641Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Paula_Maxa" title="Paula Maxa">Paula Maxa</a></b> was known as the "most murdered woman in the world"?]]></content>
     </entry>
 </feed>
