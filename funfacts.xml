@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-10T09:58:30.923Z</updated>
+    <updated>2026-09-10T19:57:47.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Shaughnessy_v._Pedreiro" title="Shaughnessy v. Pedreiro">Shaughnessy v. Pedreiro</a></b></i> held that there were multiple means for review of deportation orders in the United States?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the last person to be executed by El Salvador]]></title>
+        <title type="html"><![CDATA[Victoriano Gómez Urrutia]]></title>
         <id>https://en.wikipedia.org/wiki/Victoriano_G%C3%B3mez_Urrutia</id>
         <link href="https://en.wikipedia.org/wiki/Victoriano_G%C3%B3mez_Urrutia"/>
         <updated>2026-09-10T09:58:28.169Z</updated>
-        <content type="html"><![CDATA[... that the mother and the son of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Victoriano_Gómez_Urrutia" title="Victoriano Gómez Urrutia">the last person to be executed by El Salvador</a></b> were allowed to watch his public execution?]]></content>
+        <content type="html"><![CDATA[... that the mother and the son of <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Victoriano_Gómez_Urrutia" title="Victoriano Gómez Urrutia">Victoriano Gómez Urrutia</a></b> were allowed to watch his public execution?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a memoir about asexuality]]></title>
