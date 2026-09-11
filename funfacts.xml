@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-11T09:56:08.284Z</updated>
+    <updated>2026-09-11T19:57:09.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Conon_(Byzantine_general)</id>
         <link href="https://en.wikipedia.org/wiki/Conon_(Byzantine_general)"/>
         <updated>2026-09-11T09:56:04.687Z</updated>
-        <content type="html"><![CDATA[... that Byzantine commander <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Conon_(Byzantine_general)" title="Conon (Byzantine general)">Conon</a></b> was killed by his own soldiers because he was accused of trafficking and profiteering of their food supplies?]]></content>
+        <content type="html"><![CDATA[... that Byzantine commander <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Conon_(Byzantine_general)" title="Conon (Byzantine general)">Conon</a></b> was killed by his own soldiers because he was accused of trafficking in and profiteering from their food supplies?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1936 Liechtenstein general election]]></title>
