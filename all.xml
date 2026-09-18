@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-18T09:59:17.969Z</updated>
+    <updated>2026-09-18T19:53:09.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kalpana Chawla (Wikipedia — did you know?)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Alberto_Ravagnani" title="Alberto Ravagnani">Alberto Ravagnani</a></b> used <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/ChatGPT" title="ChatGPT">ChatGPT</a> to write sermons?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[general election in Liechtenstein (Wikipedia — did you know?)]]></title>
+        <title type="html"><![CDATA[a general election in Liechtenstein (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/1945_Liechtenstein_general_election</id>
         <link href="https://en.wikipedia.org/wiki/1945_Liechtenstein_general_election"/>
         <updated>2026-09-18T09:59:14.672Z</updated>
-        <content type="html"><![CDATA[... that a <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1945_Liechtenstein_general_election" title="1945 Liechtenstein general election">general election in Liechtenstein</a></b> was delayed to prevent Nazis from gaining seats in parliament?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1945_Liechtenstein_general_election" title="1945 Liechtenstein general election">a general election in Liechtenstein</a></b> was delayed to prevent Nazis from gaining seats in parliament?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patriarch Bernard (Wikipedia — did you know?)]]></title>
