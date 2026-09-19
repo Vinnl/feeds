@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-19T09:40:54.119Z</updated>
+    <updated>2026-09-19T19:30:25.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/Robert_Iau</id>
         <link href="https://en.wikipedia.org/wiki/Robert_Iau"/>
         <updated>2026-09-19T09:40:51.081Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Iau" title="Robert Iau">Robert Iau</a></b> asked a question that led to the demolition of Singapore's National Theatre?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Iau" title="Robert Iau">Robert Iau</a></b> asked a question that led to the demolition of Singapore's <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/National_Theatre,_Singapore" title="National Theatre, Singapore">National Theatre</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the 1989 Pacific hurricane season]]></title>
