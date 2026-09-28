@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-09-28T11:54:15.216Z</updated>
+    <updated>2026-09-28T22:36:59.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fritz Metzger]]></title>
+        <id>https://en.wikipedia.org/wiki/Fritz_Metzger</id>
+        <link href="https://en.wikipedia.org/wiki/Fritz_Metzger"/>
+        <updated>2026-09-28T11:54:11.967Z</updated>
+        <content type="html"><![CDATA[... that Swiss architect <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Fritz_Metzger" title="Fritz Metzger">Fritz Metzger</a></b> designed a church with a floor plan shaped like a fish's belly <i>(pictured)</i>?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madyina Ngulube]]></title>
         <id>https://en.wikipedia.org/wiki/Madyina_Ngulube</id>
         <link href="https://en.wikipedia.org/wiki/Madyina_Ngulube"/>
         <updated>2026-09-28T11:54:11.949Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Madyina_Ngulube" title="Madyina Ngulube">Madyina Ngulube</a></b> <i>(pictured)</i> thanked the president of Malawi on behalf of <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Malawi_women's_national_football_team" title="Malawi women's national football team">the women's national football team</a> after he awarded each player a plot of land?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Madyina_Ngulube" title="Madyina Ngulube">Madyina Ngulube</a></b> thanked the president of Malawi on behalf of <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Malawi_women's_national_football_team" title="Malawi women's national football team">the women's national football team</a> after he awarded each player a plot of land?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quetena]]></title>
@@ -60,12 +67,5 @@
         <link href="https://en.wikipedia.org/wiki/1879_Octagon_fire"/>
         <updated>2026-09-28T11:54:11.966Z</updated>
         <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Dunedin" title="Dunedin">Dunedin</a>'s <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1879_Octagon_fire" title="1879 Octagon fire">1879 Octagon fire</a></b> was the third major disaster in <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Otago" title="Otago">Otago</a> within a year?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fritz Metzger]]></title>
-        <id>https://en.wikipedia.org/wiki/Fritz_Metzger</id>
-        <link href="https://en.wikipedia.org/wiki/Fritz_Metzger"/>
-        <updated>2026-09-28T11:54:11.967Z</updated>
-        <content type="html"><![CDATA[... that Swiss architect <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Fritz_Metzger" title="Fritz Metzger">Fritz Metzger</a></b> designed a church with a floor plan shaped like a fish's belly?]]></content>
     </entry>
 </feed>
