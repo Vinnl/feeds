@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-02T21:24:59.875Z</updated>
+    <updated>2026-10-03T10:32:27.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Wendy Barnes]]></title>
-        <id>https://en.wikipedia.org/wiki/Wendy_Barnes</id>
-        <link href="https://en.wikipedia.org/wiki/Wendy_Barnes"/>
-        <updated>2026-10-02T11:15:26.675Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Wendy_Barnes" title="Wendy Barnes">Wendy Barnes</a></b> <i>(pictured)</i> had to fill 40 minutes of live radio airtime when her scheduled guest, <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Princess_Margaret,_Countess_of_Snowdon" title="Princess Margaret, Countess of Snowdon">Princess Margaret</a>, was unwell and arrived late?]]></content>
+        <title type="html"><![CDATA[Arthur Hiscoe]]></title>
+        <id>https://en.wikipedia.org/wiki/Arthur_Hiscoe</id>
+        <link href="https://en.wikipedia.org/wiki/Arthur_Hiscoe"/>
+        <updated>2026-10-03T10:32:24.195Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Arthur_Hiscoe" title="Arthur Hiscoe">Arthur Hiscoe</a></b> designed <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Harrogate" title="Harrogate">Harrogate</a>'s covered market, which burned down in 1937 <i>(aftermath pictured)</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tree of Ecstasy and Unbearable Sadness]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Tree_of_Ecstasy_and_Unbearable_Sadness</id>
-        <link href="https://en.wikipedia.org/wiki/The_Tree_of_Ecstasy_and_Unbearable_Sadness"/>
-        <updated>2026-10-02T11:15:26.676Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Tree_of_Ecstasy_and_Unbearable_Sadness" title="The Tree of Ecstasy and Unbearable Sadness">The Tree of Ecstasy and Unbearable Sadness</a></b></i> features a tree that was described by <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Matt_Ottley" title="Matt Ottley">its author</a></b> as an allegory for bipolar disorder?]]></content>
+        <title type="html"><![CDATA[its youth wing]]></title>
+        <id>https://en.wikipedia.org/wiki/Free_Austrian_Youth</id>
+        <link href="https://en.wikipedia.org/wiki/Free_Austrian_Youth"/>
+        <updated>2026-10-03T10:32:24.196Z</updated>
+        <content type="html"><![CDATA[... that differences over the 1968 Soviet intervention in Czechoslovakia led to a rupture between the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Communist_Party_of_Austria" title="Communist Party of Austria">Communist Party of Austria</a> and <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Free_Austrian_Youth" title="Free Austrian Youth">its youth wing</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trendon Watford]]></title>
-        <id>https://en.wikipedia.org/wiki/Trendon_Watford</id>
-        <link href="https://en.wikipedia.org/wiki/Trendon_Watford"/>
-        <updated>2026-10-02T11:15:26.718Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Trendon_Watford" title="Trendon Watford">Trendon Watford</a></b> attended all of his brother's basketball games at Indiana University for four years, even though it meant driving for seven hours?]]></content>
+        <title type="html"><![CDATA[Johnny Hudgins]]></title>
+        <id>https://en.wikipedia.org/wiki/Johnny_Hudgins</id>
+        <link href="https://en.wikipedia.org/wiki/Johnny_Hudgins"/>
+        <updated>2026-10-03T10:32:24.198Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Johnny_Hudgins" title="Johnny Hudgins">Johnny Hudgins</a></b> has been described as the "black Charlie Chaplin"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boston Korea]]></title>
-        <id>https://en.wikipedia.org/wiki/Boston_Korea</id>
-        <link href="https://en.wikipedia.org/wiki/Boston_Korea"/>
-        <updated>2026-10-02T11:15:26.719Z</updated>
-        <content type="html"><![CDATA[... that the founder of <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Boston_Korea" title="Boston Korea">Boston Korea</a></b></i> at first wrote, edited, designed, and delivered the newspaper himself, on routes running from Boston to New Hampshire?]]></content>
+        <title type="html"><![CDATA[pizzaiolo]]></title>
+        <id>https://en.wikipedia.org/wiki/Pizzaiolo</id>
+        <link href="https://en.wikipedia.org/wiki/Pizzaiolo"/>
+        <updated>2026-10-03T10:32:24.200Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Pizzaiolo" title="Pizzaiolo">pizzaiolo</a></b> was designated an Italian intangible cultural heritage of humanity in 2017?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Otto Djaya]]></title>
-        <id>https://en.wikipedia.org/wiki/Otto_Djaya</id>
-        <link href="https://en.wikipedia.org/wiki/Otto_Djaya"/>
-        <updated>2026-10-02T11:15:26.720Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Otto_Djaya" title="Otto Djaya">Otto Djaya</a></b> described his scholarship studies as part of an espionage mission?]]></content>
+        <title type="html"><![CDATA[Jomana Alrashid]]></title>
+        <id>https://en.wikipedia.org/wiki/Jomana_Alrashid</id>
+        <link href="https://en.wikipedia.org/wiki/Jomana_Alrashid"/>
+        <updated>2026-10-03T10:32:24.201Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Jomana_Alrashid" title="Jomana Alrashid">Jomana Alrashid</a></b>, the CEO of the Saudi Research and Media Group, stated that her appointment was part of a vision that "trickled down from the highest levels of government"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surname Law]]></title>
-        <id>https://en.wikipedia.org/wiki/Surname_Law</id>
-        <link href="https://en.wikipedia.org/wiki/Surname_Law"/>
-        <updated>2026-10-02T11:15:26.720Z</updated>
-        <content type="html"><![CDATA[... that minorities in Turkey recognized under the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Treaty_of_Lausanne" title="Treaty of Lausanne">Treaty of Lausanne</a> were not required to change their surnames, as stipulated by the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Surname_Law" title="Surname Law">Surname Law</a></b>?]]></content>
+        <title type="html"><![CDATA[a trademark dispute over breakfast cereal]]></title>
+        <id>https://en.wikipedia.org/wiki/Postum_Cereal_Co._v._California_Fig_Nut_Co.</id>
+        <link href="https://en.wikipedia.org/wiki/Postum_Cereal_Co._v._California_Fig_Nut_Co."/>
+        <updated>2026-10-03T10:32:24.203Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Postum_Cereal_Co._v._California_Fig_Nut_Co." title="Postum Cereal Co. v. California Fig Nut Co.">a trademark dispute over breakfast cereal</a></b> went to the Supreme Court of the United States?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alex Sanders]]></title>
-        <id>https://en.wikipedia.org/wiki/Alex_Sanders_(politician)</id>
-        <link href="https://en.wikipedia.org/wiki/Alex_Sanders_(politician)"/>
-        <updated>2026-10-02T11:15:26.742Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Alex_Sanders_(politician)" title="Alex Sanders (politician)">Alex Sanders</a></b> led a successful campaign against the construction of a chemical plant near Hilton Head Island?]]></content>
+        <title type="html"><![CDATA[Hanneline Røgeberg]]></title>
+        <id>https://en.wikipedia.org/wiki/Hanneline_R%C3%B8geberg</id>
+        <link href="https://en.wikipedia.org/wiki/Hanneline_R%C3%B8geberg"/>
+        <updated>2026-10-03T10:32:24.204Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Hanneline_Røgeberg" title="Hanneline Røgeberg">Hanneline Røgeberg</a></b> often depicts women's bodies in "fantastically contorted positions that defy gravity or nature"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Television]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Television</id>
-        <link href="https://en.wikipedia.org/wiki/The_Television"/>
-        <updated>2026-10-02T11:15:26.742Z</updated>
-        <content type="html"><![CDATA[... that the magazine <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Television" title="The Television">The Television</a></b></i> is known for its covers featuring celebrities holding a lemon?]]></content>
+        <title type="html"><![CDATA[2,000th anniversary of the baptism of Jesus]]></title>
+        <id>https://en.wikipedia.org/wiki/Bimillenary_of_the_baptism_of_Jesus</id>
+        <link href="https://en.wikipedia.org/wiki/Bimillenary_of_the_baptism_of_Jesus"/>
+        <updated>2026-10-03T10:32:24.206Z</updated>
+        <content type="html"><![CDATA[... that Jordan is building the Middle East's largest Christian pilgrimage center ahead of the <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Bimillenary_of_the_baptism_of_Jesus" title="Bimillenary of the baptism of Jesus">2,000th anniversary of the baptism of Jesus</a></b> in 2030?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clodomira Acosta]]></title>
+        <id>https://en.wikipedia.org/wiki/Clodomira_Acosta</id>
+        <link href="https://en.wikipedia.org/wiki/Clodomira_Acosta"/>
+        <updated>2026-10-03T10:32:24.207Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Clodomira_Acosta" title="Clodomira Acosta">Clodomira Acosta</a></b> escaped arrest by setting a fire and jumping through a window?]]></content>
     </entry>
 </feed>
