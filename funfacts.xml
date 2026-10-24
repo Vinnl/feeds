@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-24T09:43:50.573Z</updated>
+    <updated>2026-10-24T19:41:01.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://en.wikipedia.org/wiki/Alfred_William_Frisby"/>
         <updated>2026-10-24T09:43:47.943Z</updated>
         <content type="html"><![CDATA[... that a call by <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Alfred_William_Frisby" title="Alfred William Frisby">Alfred William Frisby</a></b> to withdraw "distinctly dangerous" pornographic magazines from sale in Singapore went unheeded by the government?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No. 10: Full Confidence]]></title>
-        <id>https://en.wikipedia.org/wiki/No._10:_Full_Confidence</id>
-        <link href="https://en.wikipedia.org/wiki/No._10:_Full_Confidence"/>
-        <updated>2026-10-24T09:43:47.944Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/No._10:_Full_Confidence" title="No. 10: Full Confidence">No.<span typeof="mw:Entity">&nbsp;</span>10: Full Confidence</a></b></i>, a game about surviving as British prime minister, overtook <i>Minecraft</i> on the UK App Store's paid games chart?]]></content>
     </entry>
 </feed>
