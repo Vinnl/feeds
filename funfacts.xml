@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-10-26T11:24:45.829Z</updated>
+    <updated>2026-10-26T21:57:16.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Rossini_in_Wildbad" title="Rossini in Wildbad">Rossini in Wildbad</a></b> is an annual festival of <i><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Bel_canto" title="Bel canto">bel canto</a></i> opera held at the spa in <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Bad_Wildbad" title="Bad Wildbad">Bad Wildbad</a>, where <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Gioachino_Rossini" title="Gioachino Rossini">Gioachino Rossini</a> stayed in 1856?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the first Afro-Cuban woman elected to the Congress of Cuba]]></title>
+        <title type="html"><![CDATA[Esperanza Sánchez Mastrapa]]></title>
         <id>https://en.wikipedia.org/wiki/Esperanza_S%C3%A1nchez_Mastrapa</id>
         <link href="https://en.wikipedia.org/wiki/Esperanza_S%C3%A1nchez_Mastrapa"/>
         <updated>2026-10-26T11:24:42.276Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Esperanza_Sánchez_Mastrapa" title="Esperanza Sánchez Mastrapa">the first Afro-Cuban woman elected to the Congress of Cuba</a></b> was both a communist and a pharmacist?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Esperanza_Sánchez_Mastrapa" title="Esperanza Sánchez Mastrapa">Esperanza Sánchez Mastrapa</a></b> was the first Afro-Cuban woman elected to the Congress of Cuba?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rider Tavern]]></title>
