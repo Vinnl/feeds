@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-25T01:31:01.844Z</updated>
+    <updated>2026-11-25T15:56:21.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[their own girl group (Wikipedia — did you know?)]]></title>
@@ -19,18 +19,11 @@
         <content type="html"><![CDATA[... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Health_(band)" title="Health (band)">Health</a>'s <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Max_Payne_3_(soundtrack)" title="Max Payne 3 (soundtrack)">soundtrack album for <i>Max Payne<span typeof="mw:Entity">&nbsp;</span>3</i></a></b> closes with a bonus track by Brazilian rapper <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Emicida" title="Emicida">Emicida</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pierce Wallace (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Pierce_Wallace</id>
-        <link href="https://en.wikipedia.org/wiki/Pierce_Wallace"/>
-        <updated>2026-11-25T01:30:59.645Z</updated>
-        <content type="html"><![CDATA[... that actor <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Pierce_Wallace" title="Pierce Wallace">Pierce Wallace</a></b> was inducted into <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/ESPN" title="ESPN">ESPN</a>'s Fan Hall of Fame for attending college football games dressed as the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Joker_(The_Dark_Knight)" title="Joker (The Dark Knight)">Joker</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a Doctor Who serial (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)</id>
-        <link href="https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)"/>
-        <updated>2026-11-25T01:30:59.646Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)" title="The Savages (Doctor Who)">a <i>Doctor Who</i> serial</a></b> reminded critics of eugenics, anti-colonialism, and racial segregation in Rhodesia?]]></content>
+        <title type="html"><![CDATA[Robert W. Searle (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Robert_Searle_(minister)</id>
+        <link href="https://en.wikipedia.org/wiki/Robert_Searle_(minister)"/>
+        <updated>2026-11-25T01:30:59.651Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Searle_(minister)" title="Robert Searle (minister)">Robert W. Searle</a></b> preached from the pulpits of 16 different denominations?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Derpy Hooves (Wikipedia — did you know?)]]></title>
@@ -38,6 +31,13 @@
         <link href="https://en.wikipedia.org/wiki/Derpy_Hooves"/>
         <updated>2026-11-25T01:30:59.648Z</updated>
         <content type="html"><![CDATA[... that an animation error that gave a <i>My Little Pony</i> background character crossed eyes led to fans naming her "<b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Derpy_Hooves" title="Derpy Hooves">Derpy Hooves</a></b>" and developing her personality and backstory through fan fiction?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a Doctor Who serial (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)"/>
+        <updated>2026-11-25T01:30:59.646Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/The_Savages_(Doctor_Who)" title="The Savages (Doctor Who)">a <i>Doctor Who</i> serial</a></b> reminded critics of eugenics, anti-colonialism, and racial segregation in Rhodesia?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Usher Parsons (Wikipedia — did you know?)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/RKO_Bushwick_Theatre" title="RKO Bushwick Theatre">a vaudeville theatre built in 1911</a></b> is now the Brooklyn High School for Law and Technology?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robert W. Searle (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Robert_Searle_(minister)</id>
-        <link href="https://en.wikipedia.org/wiki/Robert_Searle_(minister)"/>
-        <updated>2026-11-25T01:30:59.651Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Searle_(minister)" title="Robert Searle (minister)">Robert W. Searle</a></b> preached from the pulpits of 16 different denominations?]]></content>
+        <title type="html"><![CDATA[Pierce Wallace (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Pierce_Wallace</id>
+        <link href="https://en.wikipedia.org/wiki/Pierce_Wallace"/>
+        <updated>2026-11-25T01:30:59.645Z</updated>
+        <content type="html"><![CDATA[... that actor <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Pierce_Wallace" title="Pierce Wallace">Pierce Wallace</a></b> was inducted into <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/ESPN" title="ESPN">ESPN</a>'s Fan Hall of Fame for attending college football games dressed as the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Joker_(The_Dark_Knight)" title="Joker (The Dark Knight)">Joker</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mignon Dunn (Wikipedia — did you know?)]]></title>
